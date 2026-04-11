@@ -8,7 +8,7 @@ project:
 website:
   title: "Rabat Review of Books"
   description: "Essays, reviews, fiction, and poetry — from Rabat, for the world."
-  site-url: https://mehdi-khribch.github.io/rabat-review-of-books
+  site-url: https://rabat-review-of-books.github.io
   favicon: images/favicon.svg
   open-graph: true
   twitter-card: true

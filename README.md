@@ -1,15 +1,15 @@
 # Rabat Review of Books
 
-A literary magazine built with [Quarto](https://quarto.org), . Essays, reviews, fiction, and poetry — from Rabat, for the world.
+A literary magazine built with [Quarto](https://quarto.org). Essays, reviews, fiction, and poetry — from Rabat, for the world.
 
 ## Structure
 
 ```
 rabat-review-of-books/
 ├── _quarto.yml           # Site configuration, navbar, fonts, includes
-├── styles.scss           # Main SCSS — NY/LRB/FT-inspired design system
+├── styles.scss           # Main SCSS design system
 ├── interactions.css      # Scroll reveal, reading counter, carousel, ticker
-├── interactions.js       # JS for animations + FT-style reading time ring
+├── interactions.js       # Animations + reading time ring
 ├── custom.css            # Small overrides
 ├── index.qmd             # Homepage with masthead, hero, grids, carousel
 ├── essays.qmd            # Essays listing page
@@ -18,13 +18,13 @@ rabat-review-of-books/
 ├── poetry.qmd            # Poetry listing page
 ├── archive.qmd           # Full archive (table view)
 ├── about.qmd             # About the Review
-├── masthead.qmd          # Editors & contributors
+├── masthead.qmd          # Editor & writer
 ├── subscribe.qmd         # Subscription tiers
 ├── posts/
-│   ├── essays/           # 5 sample essays
-│   ├── reviews/          # 5 sample reviews
-│   ├── fiction/          # 3 sample fiction pieces
-│   └── poetry/           # 4 sample poetry pieces
+│   ├── essays/
+│   ├── reviews/
+│   ├── fiction/
+│   └── poetry/
 ├── images/               # Logo, favicon, placeholder SVGs
 └── .github/workflows/
     └── publish.yml       # Auto-publishes to GitHub Pages on push to main
@@ -32,23 +32,11 @@ rabat-review-of-books/
 
 ## Design system
 
-- **Display font:** Playfair Display (headlines, masthead)
-- **Body font:** Source Serif 4 / EB Garamond (article text)
+- **Display font:** Cormorant Garamond (headlines, masthead)
+- **Body font:** Spectral (article text)
 - **UI font:** Inter (navigation, metadata, small caps)
-- **Palette:** black `#111`, paper `#fbfaf6`, LRB red `#a02024`, FT salmon `#fff1e5`
-
-## Interactive widgets
-
-- FT-inspired salmon top bar (issue info, date)
-- Scrolling headline ticker
-- Scroll-reveal animations
-- Hover-lift cards with animated underlines
-- Horizontal carousel for the archive
-- Quote-of-the-week pullquote block
-- Subscribe tiers
-- Reading progress bar + **FT-style circular "min left" counter** on article pages
-- LRB-style drop-cap on first paragraph
-- Ornamental section breaks
+- **Arabic:** Amiri
+- **Palette:** Asilah blanc-cassé `#f6ecd5`, deep navy `#0a2540`, sand gold `#c69a3a`
 
 ## Running locally
 
@@ -61,25 +49,11 @@ quarto preview
 quarto render
 ```
 
-## Publishing to GitHub Pages
+## Publishing
 
-1. Create a new repository on GitHub named `rabat-review-of-books`.
-2. From this folder, run:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: Rabat Review of Books"
-   git branch -M main
-   git remote add origin git@github.com:<your-username>/rabat-review-of-books.git
-   git push -u origin main
-   ```
-3. On GitHub, go to **Settings → Pages** and set the source to the `gh-pages` branch.
-4. The GitHub Action in `.github/workflows/publish.yml` will render and deploy on every push to `main`.
+The GitHub Action in `.github/workflows/publish.yml` renders and deploys on every push to `main`. The built site is served from the `gh-pages` branch at:
 
-Your site will be available at:
-`https://<your-username>.github.io/rabat-review-of-books/`
-
-Edit the `site-url` in `_quarto.yml` to match.
+`https://rabat-review-of-books.github.io/`
 
 ## Writing a new article
 
@@ -96,7 +70,7 @@ Use this frontmatter:
 title: "Essay Title"
 subtitle: "A one-line literary subtitle."
 description: "A one-sentence dek for listing pages."
-author: "Your Name"
+author: "Mehdi Khribch"
 date: "2026-04-11"
 categories: [Essays, Literature]
 image: ../../../images/essay-placeholder-1.svg
@@ -104,7 +78,7 @@ image-alt: "Placeholder"
 ---
 ```
 
-The homepage, section page, and archive will pick it up automatically.
+The homepage, section page, and archive pick it up automatically.
 
 ---
 

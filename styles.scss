@@ -2,7 +2,6 @@
 
 // ============================================================
 //  RABAT REVIEW OF BOOKS
-//  Inspired by The New Yorker & London Review of Books
 // ============================================================
 
 // Colors — Asilah whitewash, Mediterranean sky, blanc-cassé
@@ -17,7 +16,7 @@ $rrb-paper:       #f6ecd5;   // Asilah blanc-cassé — warm whitewash
 $rrb-red:         #1e5a8e;   // Asilah Mediterranean blue (editorial accent)
 $rrb-red-dark:    #0d3b66;   // deep navy hover
 $rrb-gold:        #c69a3a;   // warm sand gold
-$rrb-salmon:      #efe5ca;   // creamy band (replaces FT salmon)
+$rrb-salmon:      #efe5ca;   // creamy band accent
 $rrb-salmon-dark: #ddcfa8;
 $rrb-sky:         #8ab9d8;   // Santorini blue accent
 $rrb-whitewash:   #fbf4de;
@@ -27,7 +26,7 @@ $body-color:      $rrb-ink;
 $link-color:      $rrb-red;
 $navbar-bg:       $rrb-black;
 
-// LRB-inspired literary typography
+// Literary typography
 $font-family-serif:   "Spectral", "Libre Caslon Text", Georgia, "Times New Roman", serif;
 $font-family-display: "Cormorant Garamond", "Libre Caslon Text", Georgia, serif;
 $font-family-sans:    "Inter", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
@@ -373,7 +372,7 @@ a {
 .rrb-card {
   display: flex;
   flex-direction: column;
-  text-align: center; // LRB-style centered cards
+  text-align: center; // centered card layout
 
   .rrb-card-img {
     width: 100%;
@@ -554,7 +553,7 @@ a {
 }
 
 // ============================================================
-//  POST / ARTICLE PAGE (LRB-inspired)
+//  POST / ARTICLE PAGE
 // ============================================================
 
 body.quarto-post {
@@ -616,7 +615,7 @@ body.quarto-post {
     .quarto-title-meta-heading { color: $rrb-ink; }
   }
 
-  // First paragraph drop-cap, LRB-style
+  // First paragraph drop-cap
   #quarto-document-content > p:first-of-type::first-letter {
     font-family: $font-family-display;
     font-weight: 800;
@@ -928,7 +927,7 @@ body.quarto-post {
 }
 
 // ============================================================
-//  FT-INSPIRED SALMON BAND (above navbar)
+//  CREAM BAND (above navbar)
 // ============================================================
 
 .rrb-salmon-bar {
