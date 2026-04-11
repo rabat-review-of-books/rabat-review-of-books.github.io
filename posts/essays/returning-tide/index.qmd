@@ -1,6 +1,6 @@
 ---
 title: "The Returning Tide"
-subtitle: "On rereading Tahar Ben Jelloun at forty."
+subtitle: "On rereading a writer once devoured in youth at forty."
 description: "What does it mean to encounter a writer you loved in youth when the world has changed, and you with it? A meditation on literary memory and the Moroccan literary imagination."
 author: "Mehdi Khribch"
 date: "2026-01-15"

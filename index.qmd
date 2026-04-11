@@ -9,8 +9,8 @@ anchor-sections: false
 <!-- ========== HEADLINE TICKER ========== -->
 <div class="rrb-ticker">
   <div class="rrb-ticker-inner">
-    <span>New Essay — Kafka in Arabic by Nadia Bensalem</span>
-    <span>From the Archive — Jelloun at Sixty</span>
+    <span>New Essay — Kafka in Arabic</span>
+    <span>From the Archive — On the Art of Rereading</span>
     <span>Spring 2026 Issue Now Online</span>
     <span>Poetry — Three Poems from the Bou Regreg</span>
     <span>Review — The Salt Notebooks</span>
@@ -41,7 +41,7 @@ anchor-sections: false
   </a>
   <div class="rrb-hero-body">
     <div class="rrb-hero-kicker">◆  Lead Essay  ·  Literature  ◆</div>
-    <h2 class="rrb-hero-title"><a href="posts/essays/returning-tide/index.html">The Returning Tide: On Rereading Tahar Ben Jelloun</a></h2>
+    <h2 class="rrb-hero-title"><a href="posts/essays/returning-tide/index.html">The Returning Tide: On the Private Ritual of Rereading</a></h2>
     <p class="rrb-hero-dek">Forty years on, the novels that once felt inexhaustible have quietly rearranged themselves around us. A meditation on the private ritual of rereading.</p>
     <div class="rrb-hero-byline">By <span class="rrb-author">Mehdi Khribch</span> · 14 March 2026 · 12-minute read</div>
   </div>
@@ -109,7 +109,7 @@ anchor-sections: false
     </a>
     <div class="rrb-card-kicker">Fiction</div>
     <h3 class="rrb-card-title"><a href="posts/reviews/salt-notebooks/index.html">The Salt Notebooks</a></h3>
-    <p class="rrb-card-dek">A young Algerian-French novelist turns family letters into a lucid, difficult début.</p>
+    <p class="rrb-card-dek">A début novel made from family letters — lucid, difficult, and quietly essential.</p>
     <div class="rrb-card-byline">Reviewed by <span class="rrb-author">Mehdi Khribch</span></div>
   </div>
 
@@ -129,7 +129,7 @@ anchor-sections: false
     </a>
     <div class="rrb-card-kicker">Poetry</div>
     <h3 class="rrb-card-title"><a href="posts/reviews/apricot-year/index.html">Apricot Year</a></h3>
-    <p class="rrb-card-dek">Mona Khalil's third collection is her most patient — and most devastating — yet.</p>
+    <p class="rrb-card-dek">A third collection, more patient — and more devastating — than anything that came before.</p>
     <div class="rrb-card-byline">Reviewed by <span class="rrb-author">Mehdi Khribch</span></div>
   </div>
 </div>
@@ -197,13 +197,13 @@ anchor-sections: false
       <a href="posts/essays/last-europeans/index.html"><img class="rrb-card-img" src="https://picsum.photos/seed/rrb-kundera/900/600" alt="" loading="lazy"/></a>
       <div class="rrb-card-kicker">Essay</div>
       <h3 class="rrb-card-title"><a href="posts/essays/last-europeans/index.html">The Last Europeans</a></h3>
-      <p class="rrb-card-dek">Reading Kundera now, and the melancholy of a Europe that never quite was.</p>
+      <p class="rrb-card-dek">On the melancholy of a Europe that, perhaps, never quite was.</p>
     </div>
     <div class="rrb-card">
       <a href="posts/reviews/fathers-radio/index.html"><img class="rrb-card-img" src="https://picsum.photos/seed/rrb-fathers-radio/900/600" alt="" loading="lazy"/></a>
       <div class="rrb-card-kicker">Memoir</div>
       <h3 class="rrb-card-title"><a href="posts/reviews/fathers-radio/index.html">My Father's Radio</a></h3>
-      <p class="rrb-card-dek">A Cairene writer tunes in to the static of childhood.</p>
+      <p class="rrb-card-dek">A memoirist tunes in to the static of childhood.</p>
     </div>
     <div class="rrb-card">
       <a href="posts/fiction/tangier-1956/index.html"><img class="rrb-card-img" src="https://picsum.photos/seed/rrb-tangier-1956/900/600" alt="" loading="lazy"/></a>

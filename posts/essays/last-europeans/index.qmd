@@ -1,6 +1,6 @@
 ---
 title: "The Last Europeans"
-subtitle: "Reading Milan Kundera now."
+subtitle: "Reading a central European novelist now."
 description: "The Central European writer who defined a continent is aging. What does his work tell us now about Europe, and about the idea of Europe itself?"
 author: "Mehdi Khribch"
 date: "2026-03-28"
