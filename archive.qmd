@@ -1,0 +1,31 @@
+---
+pagetitle: "Archive · Rabat Review of Books"
+title-block-banner: false
+listing:
+  id: archive-listing
+  contents:
+    - "posts/essays/**/index.qmd"
+    - "posts/reviews/**/index.qmd"
+    - "posts/fiction/**/index.qmd"
+    - "posts/poetry/**/index.qmd"
+  sort: "date desc"
+  type: table
+  categories: true
+  feed: true
+  fields: [date, title, author, categories]
+  table-striped: false
+  table-hover: true
+---
+
+```{=html}
+<div class="rrb-container">
+<div class="listing-page-title">
+  <div class="eyebrow">◆ Complete Index</div>
+  <h1>Archive</h1>
+  <div class="dek">Every piece the Review has published, arranged by date.</div>
+</div>
+</div>
+```
+
+::: {#archive-listing}
+:::

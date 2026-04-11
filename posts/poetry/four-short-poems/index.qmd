@@ -1,0 +1,70 @@
+---
+title: "Four Short Poems"
+subtitle: "Contemporary lyrics by Laila Amara."
+description: "A suite of four brief meditations on memory, migration, and the grammar of home."
+author: "Mehdi Khribch"
+date: "2026-04-03"
+categories: [Poetry]
+image: https://picsum.photos/seed/rrb-four-poems/1200/800
+image-alt: "Placeholder"
+---
+
+Laila Amara's recent collection *Threshold* (published last year by Casablanca House) has been praised for its compression and its refusal of sentimentality. Working in the mode of the short lyric—forms that span from two to ten lines—Amara channels the influence of both classical Arabic brevity and contemporary minimalism. These four poems, composed over the past six months, continue her investigation into how a single gesture, a overheard phrase, or the memory of light can contain an entire history. The poems are titled sequentially, suggesting a journey that is never fully named.
+
+### I.
+
+<div class="rrb-poem">
+
+My mother's cousin left. We never learned which sea.
+Years later, a postcard arrived—no return address.
+It showed a lighthouse. My mother kept it
+next to the sugar. When I was seven,
+I assumed the lighthouse was keeping us safe
+from whatever my mother feared at night.
+I was not entirely wrong.
+
+</div>
+
+### II.
+
+<div class="rrb-poem">
+
+There is a word in Darija for the space between
+saying yes and meaning it.
+My grandmother used it constantly.
+My generation has forgotten it.
+Now we are precise. Now we suffer clearly.
+
+</div>
+
+### III.
+
+<div class="rrb-poem">
+
+The baker's daughter married a man from the north.
+They moved to his village. Winter came early.
+She wrote that the snow fell upward—
+an error, surely, in translation.
+But I have never forgotten it.
+Upward snow. Toward what sky?
+
+</div>
+
+### IV.
+
+<div class="rrb-poem">
+
+I keep a map of a city I have never seen.
+A friend's grandmother gave it to her
+before she died. My friend gave it to me
+before she left. I touch the names
+like they are a form of prayer.
+Like they are a form of apology.
+Like they are the only home
+that cannot be taken.
+
+</div>
+
+---
+
+*Laila Amara was born in Marrakech and studied literature in Fez before earning her MFA from the University of Toronto. She currently teaches creative writing in Rabat and is at work on a second collection examining archives and belonging. Her poems have appeared in *Asymptote*, *Guernica*, and the 2025 *Best African Poetry* anthology.*

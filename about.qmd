@@ -1,0 +1,41 @@
+---
+pagetitle: "About · Rabat Review of Books"
+title-block-banner: false
+---
+
+```{=html}
+<div class="rrb-container">
+
+<div class="listing-page-title">
+  <div class="eyebrow">◆ About</div>
+  <h1>About the Review</h1>
+  <div class="dek">A magazine of ideas, literature, and criticism — founded in Rabat in 2026.</div>
+</div>
+
+<div style="max-width: 720px; margin: 0 auto;">
+
+<p>The <strong>Rabat Review of Books</strong> is a cosmopolitan literary magazine published from Rabat, Morocco. We commission essays, book reviews, fiction, and poetry from writers working across the Maghreb, the wider Arab world, Europe, and the Americas. Our editorial line is generous, skeptical, and unembarrassed by difficulty.</p>
+
+<p>We believe that a review of books is, in the end, a practice of attention. We believe that the best reading does not resolve the world but makes its textures more available. We believe that a small magazine, published patiently, can hold the line against the flattening pressures of the feed.</p>
+
+<h2>What we publish</h2>
+
+<p>We publish long-form essays on literature, ideas, and the life of cities; reviews of recent books in English, French, and Arabic; original short fiction and novel excerpts; and poetry, including work in translation. We do not publish news, press releases, or hot takes.</p>
+
+<p>A typical essay runs between 2,000 and 6,000 words. A typical review runs between 1,500 and 3,500 words. The Review is entirely written and edited by a single person, and does not pay contributors or accept unsolicited submissions.</p>
+
+<h2>How it is made</h2>
+
+<p>The Review is a one-person undertaking: essays, reviews, fiction, and poetry are written and edited by the same hand, and the magazine is published at the pace that care allows. Correspondence is welcome.</p>
+
+<h2>Why Rabat</h2>
+
+<p>Because Rabat is a city of quiet libraries, of poets on café terraces, of bougainvillea spilling over old walls. Because it faces the Atlantic and looks, without apology, at the rest of the world. Because a review of books is a practice of hospitality, and hospitality is a thing we think Rabat is especially good at.</p>
+
+<h2>Colophon</h2>
+
+<p>The Review is set in <em>Cormorant Garamond</em> for display text and <em>Spectral</em> for body text, with <em>Amiri</em> for Arabic. The site is built with <a href="https://quarto.org">Quarto</a> and hosted on GitHub Pages. All editorial decisions are made in the Kasbah des Oudayas, preferably with a glass of mint tea.</p>
+
+</div>
+</div>
+```

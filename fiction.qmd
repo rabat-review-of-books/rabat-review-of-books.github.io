@@ -1,0 +1,26 @@
+---
+pagetitle: "Fiction · Rabat Review of Books"
+title-block-banner: false
+listing:
+  id: fiction-listing
+  contents: "posts/fiction/**/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+  fields: [image, date, title, subtitle, author, description, categories, reading-time]
+  image-height: "220px"
+---
+
+```{=html}
+<div class="rrb-container">
+<div class="listing-page-title">
+  <div class="eyebrow">◆ Department</div>
+  <h1>Fiction</h1>
+  <div class="dek">Short stories and novel excerpts — original fiction by contemporary writers.</div>
+</div>
+</div>
+```
+
+::: {#fiction-listing}
+:::

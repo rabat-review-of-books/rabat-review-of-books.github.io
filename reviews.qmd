@@ -1,0 +1,26 @@
+---
+pagetitle: "Reviews · Rabat Review of Books"
+title-block-banner: false
+listing:
+  id: reviews-listing
+  contents: "posts/reviews/**/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+  fields: [image, date, title, subtitle, author, description, categories, reading-time]
+  image-height: "220px"
+---
+
+```{=html}
+<div class="rrb-container">
+<div class="listing-page-title">
+  <div class="eyebrow">◆ Department</div>
+  <h1>Reviews</h1>
+  <div class="dek">Book reviews — novels, history, poetry, memoir, biography.</div>
+</div>
+</div>
+```
+
+::: {#reviews-listing}
+:::

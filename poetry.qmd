@@ -1,0 +1,26 @@
+---
+pagetitle: "Poetry · Rabat Review of Books"
+title-block-banner: false
+listing:
+  id: poetry-listing
+  contents: "posts/poetry/**/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+  fields: [image, date, title, subtitle, author, description, categories]
+  image-height: "220px"
+---
+
+```{=html}
+<div class="rrb-container">
+<div class="listing-page-title">
+  <div class="eyebrow">◆ Department</div>
+  <h1>Poetry</h1>
+  <div class="dek">New poems, sequences, and work in translation.</div>
+</div>
+</div>
+```
+
+::: {#poetry-listing}
+:::

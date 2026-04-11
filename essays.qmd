@@ -1,0 +1,26 @@
+---
+pagetitle: "Essays · Rabat Review of Books"
+title-block-banner: false
+listing:
+  id: essays-listing
+  contents: "posts/essays/**/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+  fields: [image, date, title, subtitle, author, description, categories, reading-time]
+  image-height: "220px"
+---
+
+```{=html}
+<div class="rrb-container">
+<div class="listing-page-title">
+  <div class="eyebrow">◆ Department</div>
+  <h1>Essays</h1>
+  <div class="dek">Long-form criticism, personal essays, and dispatches on literature &amp; ideas.</div>
+</div>
+</div>
+```
+
+::: {#essays-listing}
+:::

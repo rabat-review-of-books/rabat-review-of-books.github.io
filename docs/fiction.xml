@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Rabat Review of Books</title>
+<link>https://yveskhribch.github.io/rabat-review-of-books/fiction.html</link>
+<atom:link href="https://yveskhribch.github.io/rabat-review-of-books/fiction.xml" rel="self" type="application/rss+xml"/>
+<description>Essays, reviews, fiction, and poetry — from Rabat, for the world.</description>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Sat, 07 Mar 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>The Bookseller of Rue du Consul</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://yveskhribch.github.io/rabat-review-of-books/posts/fiction/bookseller-of-rue-du-consul/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p>The shop on Rue du Consul had not changed in forty years, which is to say that it had changed in all the ways that matter and none of the ways that are visible. The books were still arranged according to Karim’s personal taxonomy—a system that bore no resemblance to any known cataloguing method but which he navigated with the certainty of a man reading his own handwriting. Novels lived in the back left, organized by the year he had acquired them rather than by author or title. Poetry occupied a narrow shelf above the counter, each volume spine-marked with his own annotations. Travel narratives sprawled across an entire wall, alphabetized by destination rather than by name of author. Any visitor expecting logic would have left frustrated. Few visitors came anymore. Karim did not advertise. The shop existed as it always had—in the space between intention and accident, open at unpredictable hours, its window displaying books that had been there so long that the sunlight had bleached their spines to the color of old linen.</p>
+<p>Karim himself was eighty-three years old. He had owned the shop since 1958, when he was young enough to believe that Rabat would become a great literary center, that men and women would gather in his shop to discuss Camus and Genet and the latest volumes from the Sorbonne. Instead, Rabat had become what most cities become—preoccupied with itself, no longer particularly interested in the thoughts of dead Europeans or the arguments of their heirs. The tourists came less frequently. Young people wanted their books on devices he did not understand. The other bookshops had closed, and he had remained, not from any particular stubbornness, but simply because he had not yet figured out how to stop.</p>
+<p>The morning was warm. Karim sat behind his counter with a cup of strong coffee and a novel he had read at least seven times—a French edition of something by Patrick Modiano, a writer who seemed to understand that memory was a form of geography. He was on page forty-seven, which was far enough into the book to be comfortable, early enough that he could still be surprised by where the narrative might go. He had learned not to expect that surprise would refresh itself with rereading, but rather that rereading was its own form of surprise—the surprise of recognizing something that had always been there.</p>
+<p>The woman entered in the late morning, when the light through the window had turned from pale to almost colorless. She was somewhere between sixty and seventy, dressed with the careful inattention of European women of her age—good clothes, but worn so well that one could not quite tell if they were chosen deliberately or had simply accumulated through years of use. She stood in the doorway for a moment, acclimating herself to the dimness, to the particular smell of the shop—which was not only books but something older, something like the smell of wood and time itself.</p>
+<p>“Yes?” Karim asked, setting down his novel. “You are looking for something?”</p>
+<p>“Perhaps,” she said. She had an accent that suggested France, but a France from some earlier moment, the vowels shaped differently than they were now. “I am looking for a book that may not exist. It may be out of print. It may never have been published. You are the bookseller?”</p>
+<p>“I am the bookseller,” Karim confirmed. He gestured to the surrounding shelves. “Though you will have noticed that my organization is not conventional.”</p>
+<p>“No,” she said, and something in her expression shifted, became almost amused. “No, it is not conventional. Which is fortunate, because the book I am looking for is not a conventional book.”</p>
+<p>She moved further into the shop, and Karim watched her. She had the bearing of someone who had spent her life in libraries, or in museums, or in the kind of solitary work that required sustained attention. Her hands were careful as they moved along the spines.</p>
+<p>“The book is a novel,” she continued. “French, I believe. Published—or possibly not published—in the early 1970s. The author was a woman, I think, though I am not entirely certain. The title had something to do with water. Or light. Or possibly both. I read it once, in circumstances that were not entirely conducive to careful attention, and I have been looking for it ever since. That was thirty years ago.”</p>
+<p>Karim nodded slowly. In his experience, people looking for books usually knew what they were looking for with a kind of obsessive precision. This woman was describing something that might as well have been a dream. It made the search more interesting.</p>
+<p>“Do you remember the plot?” he asked.</p>
+<p>“There was a woman,” she said. “She lived in a city—I think it was Paris, but I am not certain. She was a translator. She was translating something from German, I believe. Or possibly Arabic. And there was a man. There was always a man. But that was not what the book was about.”</p>
+<p>“What was it about?” Karim asked.</p>
+<p>The woman paused. She was running her fingers along the spines of the novels in the back left, the ones organized by acquisition date. She seemed to be looking not at the books but through them, at some earlier vision.</p>
+<p>“It was about forgetting,” she said finally. “It was about the way that we remember things imperfectly, and how that imperfection is not a failure of memory but rather a kind of truth. The character was trying to recover something that had been lost—a manuscript, I think. And the more she searched, the less certain she became that the manuscript had ever existed at all. By the end of the book, I could no longer tell if she was searching for the manuscript or if the manuscript was searching for her. Or if they were the same thing.”</p>
+<p>Karim was quiet. He was thinking about a novel he had read in 1974, a slim volume in a gray cover with no author photograph. He had purchased it at an estate sale, from a woman who was clearing out her apartment before moving to Brussels. He had not thought of that book in years, but he remembered it now—the particular quality of its prose, the way the sentences seemed to fold back on themselves. He remembered being unable to decide, once he finished it, whether he had just read something extraordinary or something that was merely competent enough to seem extraordinary in one’s confused state after finishing a book.</p>
+<p>“Wait,” he said. He rose, with the small difficulty that rising now entailed, and moved toward a shelf in the middle of the shop—the shelf dedicated to the 1970s, where books sat in the order of their arrival, each one a small moment of his past self’s decision-making.</p>
+<p>He ran his fingers along the spines. The book was there, or perhaps it was there. The cover was gray. The lettering was small. The author’s name was something like Beaumont, or possibly Beaufort. He pulled it down and opened it to the title page.</p>
+<p>“Anne Beaumont,” he said aloud. “Published in 1972 by a small press in Lyon. The title is ‘Les Lumières du Silence.’”</p>
+<p>The woman’s expression changed. It was subtle, but Karim saw it—a kind of collapse, or perhaps a kind of settling into place, the way a building settles once its foundation is finally complete.</p>
+<p>“Yes,” she whispered. “Yes, that is the title. That is the exact title.”</p>
+<p>She took the book from him, her hands trembling slightly. She opened it, and Karim watched her read the first page, then the first paragraph, her face becoming younger as she did, becoming the face of the person who had first read this book thirty years ago, in circumstances that were not conducive to careful attention.</p>
+<p>“I never found it again,” she said. “I have been looking. I have written to publishers. I have searched libraries. And I found nothing. I began to think that I had misremembered the title. That perhaps I had misremembered the entire book, invented it from fragments of things I had read.”</p>
+<p>“But you found it,” Karim said quietly.</p>
+<p>“Yes,” she said. “Through a man who keeps a bookshop on Rue du Consul in Rabat, organizing his inventory according to some private system that should not work and yet apparently does.” She looked up at him. “I do not believe in luck,” she said. “But I believe in something. I believe in the way that certain things find their way toward us, even when we are not looking for them.”</p>
+<p>She purchased the book. Karim wrapped it carefully in brown paper, the way he wrapped all of his books, without tape, secured only by the precision of the fold. She paid him more than the book was worth, and he did not protest. They both understood that the transaction was not about currency.</p>
+<p>At the door, she turned back. “Why did you keep it?” she asked. “The book? You might have sold it forty years ago. You might have forgotten it. Why did you keep it?”</p>
+<p>Karim considered this. He thought about all the small acts of preservation that a human life contained, the books one kept not because one would reread them but because they had occupied a significant moment. He thought about memory, and about the imperfection of memory, and about how that imperfection was not a failure but a kind of truth.</p>
+<p>“Because,” he said finally, “I thought that someday, someone might come looking for it.”</p>
+<hr>
+<p><em>Sophie Lefort teaches literature at the Université de Toulouse and writes reviews of forgotten novels for several French literary journals. She has lived in Morocco for two years and is currently working on a collection of interconnected short stories set in the bookshops and libraries of North African cities. She is fascinated by the history of small presses and the lives of books that have fallen out of print.</em></p>
+
+
+
+ ]]></description>
+  <category>Fiction</category>
+  <category>Short Story</category>
+  <guid>https://yveskhribch.github.io/rabat-review-of-books/posts/fiction/bookseller-of-rue-du-consul/</guid>
+  <pubDate>Sat, 07 Mar 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-bookseller/1200/800" medium="image"/>
+</item>
+<item>
+  <title>Tangier, 1956</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://yveskhribch.github.io/rabat-review-of-books/posts/fiction/tangier-1956/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p>The cables from the Residency had become almost lyrical in their desperation. “Morocco and Spain to assume joint control of the Zone as of August 1st,” the last one read. “Status quo ante to be maintained until handover is complete. All personnel to remain at posts. Maintain diplomatic posture. Do not engage in speculation.” As if speculation were something one could refrain from, like cigarettes or pastis. Everyone in Tangier was speculating. The city had the fever of a place watching itself disappear.</p>
+<p>David Ashworth had been at the British Legation for twelve years—long enough to have become something other than English, though not quite Moroccan either. He existed in the particular limbo of career diplomats, unable to fully inhabit any place because his presence was always contingent, always subject to transfer. The International Zone had suited him precisely because it was, by definition, provisional. A zone without a proper country. A man without a proper home could pass unremarked in such a place.</p>
+<p>The legation sat on Rue Belgique, a building of colonial proportions with high ceilings and insufficient windows, always dim and vaguely cool regardless of what the weather was doing outside. The view from his office was of the strait—that thin line of water that had, for twelve years, seemed to hold the city in a kind of suspension. On one side was Spain, close enough to see. On the other was French Morocco, already transformed by the handover in March. Here, in this small wedge of land, time had moved according to its own logic.</p>
+<p>He was reading—or pretending to read—the morning dispatches when the message came through that Foreign Minister Bekkai would be visiting the legation at two o’clock. A courtesy call, it was said. A gesture toward continuity. What it actually meant was that the Moroccan government was preparing to take formal possession of the city in a matter of days, and they wanted the European powers to acknowledge this gracefully, without dramatics.</p>
+<p>The morning was spent in preparation. The ambassador, Sir Edmund Firth, who had survived thirty years in the service by the simple expedient of agreeing with whatever seemed likely to happen next, had decided that the legation should present itself at its most ceremonial. Tea would be served. Cakes from Madame Arnaud’s patisserie would be arranged on the good china. The flags—there were three of them in the legation: the Union Jack, the flag of the International Zone, and a flag of no particular nation that seemed to exist solely for confused moments—would be hung with a thoughtfulness that suggested deference without submission.</p>
+<p>David found himself, an hour before the visit, walking through the old medina. He had done this often, though less frequently in recent months. Something had shifted in Tangier. The Europeans had begun to leave—not from any urgent threat, but from a kind of diffuse understanding that they no longer belonged here. The zone was dissolving, its fictional status becoming increasingly difficult to maintain. One by one, the embassies were packing up their libraries and their protocols, their accumulated paper records of a miniature nation that existed, finally, only in the agreement of its signatories.</p>
+<p>The medina was unchanged, physically. The same narrow streets, the same smell of spice and urine and cooking oil, the same ancient flow of merchants and pilgrims and the lost. But there was something different in the air—a kind of forward momentum. The Moroccan flag was appearing in windows now. Youth groups were printing manifestos. The whole territory was tilting, slowly but perceptibly, toward a direction it had been heading all along.</p>
+<p>He stopped at a café near the Kasbah where he sometimes took mint tea. The proprietor, Abdelkader, greeted him with a warmth that seemed slightly diminished from its previous quantity.</p>
+<p>“You are well, monsieur?”</p>
+<p>“Well enough, Abdelkader. Things change quickly now.”</p>
+<p>“Yes.” Abdelkader smiled, setting the glass of mint on the table. “But perhaps not so quickly as we expected. The French thought it would happen in months. The Spanish thought it might not happen at all. Only the Moroccans knew exactly when, because they had been planning it since 1912.” He paused, seeming to consider whether he should continue. “The Sultan understands time differently than Europeans. He can wait. You see? Now he does not have to wait anymore.”</p>
+<p>David drank the tea slowly. It was excessively hot, sweet enough to coat his throat. Around him, the café’s other patrons were absorbed in their conversations, their games of dominoes, their newspapers in Arabic and French and Spanish. A boy sat near the entrance selling flowers—jasmine, by the smell of them. No one was selling newspapers of the city itself anymore. Tangier’s own press had folded three months ago when it became clear that the news would soon be made elsewhere.</p>
+<p>At one o’clock, he returned to the legation and helped arrange the chairs and the cups. Sir Edmund fussed over the placement of the cakes with an intensity that seemed almost painful. The man had been in Morocco for nearly a decade and had always conducted himself as if the machinery of British diplomacy was, somehow, delicate and in danger of breaking. Perhaps it was. Perhaps all institutions were fragile when looked at from certain angles.</p>
+<p>Bekkai arrived at precisely two o’clock, accompanied by two aides and an air of practiced courtesy. He was a small man with precise manners, educated in France, educated in the law. He had navigated the handover with a kind of diplomatic grace that David admired without quite being able to articulate why. Perhaps it was simply that Bekkai seemed to know what was true and to accept it, rather than to construct elaborate fictions around the facts on the ground.</p>
+<p>The conversation was, as anticipated, mostly formality. There were assurances regarding property. There were reassurances about the treatment of foreign nationals. There were statements about Morocco’s commitment to international law and its desire to maintain peaceful relations with European powers. It was a performance, but a competent one. Both sides understood the script.</p>
+<p>Only near the end, as Bekkai was preparing to leave, did something like genuine communication occur. He had paused at the door, looking out through the legation’s hall toward the street beyond, toward the city itself.</p>
+<p>“You have been here a long time, Mr.&nbsp;Ashworth,” Bekkai said, though David had not been formally introduced.</p>
+<p>“Twelve years, sir.”</p>
+<p>“Then you have seen something remarkable. A place that existed only because no one could agree on how to divide it. And now that we have all agreed, the place will become something else entirely. It is like a mathematical proof, yes? The conclusion was always there. We simply had to work through the steps.” He turned back, and his expression was almost kind. “You will stay, or will you go?”</p>
+<p>“I haven’t yet decided,” David said, truthfully.</p>
+<p>“You should decide soon,” Bekkai said. “The future does not wait for men to finish being nostalgic for the past.”</p>
+<p>That night, alone in his office, David stood at the window and looked out at the strait. The lights of Spanish Morocco were visible across the water, blurred slightly by heat and distance. Tomorrow, the city would begin its formal transition. In a month, perhaps less, Tangier would be Moroccan—entirely, unambiguously Moroccan. The zone would cease to exist. The fiction would conclude.</p>
+<p>He thought of Bekkai’s question: would he stay or would he go? The answer was becoming clear to him, not as a choice exactly, but as something more like a recognition. He had loved this city because it was uncertain. But uncertainty, he understood now, was not a permanent state. It was a transition, and transitions had endpoints. One had to decide, sooner or later, what one was transitioning toward, and what one was transitioning away from.</p>
+<p>He pulled out a sheet of paper and began to write. A resignation letter. Clear, brief, without sentimentality. He would leave at the end of the month. He would request a posting, or he would leave the service altogether. He had not yet decided. But he would decide soon, as Bekkai had suggested. The future, it seemed, did not wait.</p>
+<hr>
+<p><em>Marcus Whitmore is a historian and novelist living in London. He has published three novels of historical fiction, including “The Palimpsest of Empire” (shortlisted for the Booker Prize in 2019). He has spent considerable time researching the history of North African mandates and has traveled extensively in Morocco, Tunisia, and Algeria. “Tangier, 1956” is drawn from a larger manuscript currently in progress.</em></p>
+
+
+
+ ]]></description>
+  <category>Fiction</category>
+  <category>Novel Excerpt</category>
+  <guid>https://yveskhribch.github.io/rabat-review-of-books/posts/fiction/tangier-1956/</guid>
+  <pubDate>Thu, 19 Feb 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-tangier-1956/1200/800" medium="image"/>
+</item>
+<item>
+  <title>The Apricot Trees of Meknès</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://yveskhribch.github.io/rabat-review-of-books/posts/fiction/apricot-trees-of-meknes/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p>The taxi driver had to ask twice for directions before Laila found the house. Forty years was a long time to be away from Meknès—long enough that the medina’s streets had shifted in her memory, though physically they remained unchanged, the same pale stone and shadowed archways, the same smell of olive oil and jasmine hanging above the narrow passages like an old prayer.</p>
+<p>The house itself was smaller than she remembered. That was always the case, wasn’t it? The proportions of childhood never survived into adulthood intact. What she had remembered as grand—the courtyard with its olive-green zellige, the fountain’s chatter—appeared now almost modest, though no less beautiful for it. Beautiful in the way of small, true things.</p>
+<p>Her mother had died in February. Laila had received word in Paris on a Tuesday morning, the sun falling through her kitchen window in a way that seemed profane given the news. She was seventy-three years old. She had three grown children, a position at the Sorbonne, a careful life that had been built incrementally, with French precision. Her mother had been eighty-nine, living alone in this house for more than fifteen years, ever since her father died. Their correspondence over that time had consisted of brief letters and, in recent years, telephone calls on Sunday evenings—pleasant, circumscribed conversations that avoided the larger subjects.</p>
+<p>Now Laila stood in the courtyard and felt the sun on her face. The medina was quieter than it used to be, the touristic life having migrated to the new city. She was grateful for this quietness.</p>
+<p>The house’s main feature was the garden—something that had been marginal in Laila’s childhood understanding of the place, and yet which appeared now to be its true purpose. Beyond the courtyard, through the small arched doorway, lay what must have been a third of an acre, walled on all sides by apricot trees. Her mother had filled the space between them with smaller plantings: fig, pomegranate, a single cherry tree that stood alone near the far wall like a work of deliberate art. There were herbs everywhere—rosemary, mint, thyme—and vegetables in raised beds arranged with mathematical precision. Everything was overgrown now. Everything had gone wild.</p>
+<p>“Madame, you are staying long?” The woman who had been caring for her mother appeared in the doorway, her face lined with a practical sort of sympathy. “The garden,” she said, glancing beyond Laila with a knowing expression. “Madame Bennani, she loved it very much.”</p>
+<p>Laila nodded. She realized suddenly that she barely knew anything about her mother’s life. Not the small details of it, anyway. Not the shape of her days.</p>
+<p>“Every morning,” the woman continued, “she would walk here before breakfast. Every morning, even in the heat of August. She had notebooks. Many, many notebooks.”</p>
+<p>That evening, Laila found them in the bedroom: thick exercise books with marble-patterned covers, the kind sold in schoolboy stalls. There were sixteen of them, stacked on a shelf above the bed. The handwriting was her mother’s—precise, elegant, the penmanship of someone from an era when handwriting was considered a form of integrity. The first notebook began in 1994, the year Laila’s father died. The last entry was dated three weeks before her mother’s death.</p>
+<p>She opened randomly to a page in the middle. “January 3rd. The apricot that blooms earliest this year is near the south wall—the one I planted the summer we brought Laila home from the hospital. It is three days ahead of schedule. The temperature is unusual. I wonder if Laila notices such changes in Paris, or if she moves through the seasons without attending to them.”</p>
+<p>Laila sat on the bed and wept. She wept not from sorrow exactly, but from the specific shame of living a life of abstraction while her mother had been here, measuring the slight progressions of seasons, writing them down in these careful, patient notebooks. Documenting something. Bearing witness.</p>
+<p>She spent the next week in the garden. She pruned the overgrown trees, pulling the apricot branches back toward their proper forms. She cleared the weeds from the herb beds and reset the vegetables. She read through the notebooks, slowly, beginning with the first one. Her mother had been a scientist of small things. She recorded temperatures, rainfall, the dates of first and last frosts. She noted which varieties produced fruit earliest, which insects visited the flowers, how the quality of apricots changed year to year, season to season. There were sketches of trees with annotations in the margins. There were recipes for jam written in the same careful hand, calculations about yields, thoughts about the garden’s future.</p>
+<p>In one entry from 1997, written in July: “I wonder what it would mean to give Laila something of this. But perhaps it is enough that it exists. Perhaps it is enough to plant something that others might harvest.”</p>
+<p>By the end of the week, the garden had returned to something like order. Laila had booked a leave from the university. She had made an offer on a small flat in the new city. She had called her youngest son and told him, without entirely explaining why, that she would be spending several months in Morocco.</p>
+<p>She bought a notebook identical to her mother’s and began to record her observations. She noted the exact moment each tree came into bloom, the angle of light at different hours, the names of birds she didn’t recognize and looked up in a guide. She wrote about the quality of the apricots as they ripened, the flavor changing subtly week by week as August progressed toward September. She wrote about the way silence sounded different here than in Paris, less like absence and more like presence—the silence of attention, of things growing.</p>
+<p>In the evenings, she sat beneath the cherry tree and read her mother’s notebooks. She made notes of her own about what her mother had been trying to understand. She was a scholar—it was what she did, what she knew. But this was different. This was not the analysis of texts but the reading of a life, and she found herself moved by her mother’s precision in such a small and peripheral thing, this careful notation of what endures.</p>
+<p>One evening in early September, Laila cut apricots from the south-wall tree—the one her mother had planted the summer of her birth—and made jam according to her mother’s recipe. The fruit was golden and perfect. As she stirred the pot, watching the liquid amber coalesce, she understood that her mother had been writing something more complex than observations. She had been composing a kind of love letter, addressed to the future, and to anyone who might come after and choose to read it.</p>
+<p>The jam set perfectly. Laila labeled the jars with dates and the tree’s location. She arranged them on a shelf in the kitchen, where they caught the light. She added a new notebook to the collection on the shelf above the bed. She was, after all, her mother’s daughter.</p>
+<hr>
+<p><em>Claire Messier is a lecturer in French literature at the University of Lyon. She has published scholarly articles on women’s epistolary traditions in nineteenth-century fiction, and is working on her first collection of short stories. She grew up in Aix-en-Provence and has spent the last two years renovating a house in the Rhône Valley.</em></p>
+
+
+
+ ]]></description>
+  <category>Fiction</category>
+  <category>Short Story</category>
+  <guid>https://yveskhribch.github.io/rabat-review-of-books/posts/fiction/apricot-trees-of-meknes/</guid>
+  <pubDate>Wed, 14 Jan 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-meknes/1200/800" medium="image"/>
+</item>
+</channel>
+</rss>

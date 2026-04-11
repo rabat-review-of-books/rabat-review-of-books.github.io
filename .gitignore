@@ -1,0 +1,11 @@
+.quarto/
+_site/
+.DS_Store
+*.log
+.Rproj.user/
+.Rhistory
+node_modules/
+.vscode/
+
+/.quarto/
+**/*.quarto_ipynb

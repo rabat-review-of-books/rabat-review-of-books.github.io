@@ -1,0 +1,68 @@
+---
+title: "Translations from the Arabic: Two Andalusian Fragments"
+subtitle: "Original poems in the Andalusian tradition, by Amira Lahssen."
+description: "Two original works inspired by medieval Andalusian poetic tradition, composed in English."
+author: "Mehdi Khribch"
+date: "2026-01-18"
+categories: [Poetry]
+image: https://picsum.photos/seed/rrb-andalusian/1200/800
+image-alt: "Placeholder"
+---
+
+The following two poems are original compositions by Amira Lahssen, conceived in the spirit and idiom of medieval Andalusian court poetry but written directly in English. They are not translations of historical texts, but rather original works that engage the aesthetic, philosophical, and formal preoccupations of the Andalusian tradition: the interplay of sensory precision and metaphysical longing, the mutability of power and beauty, the tension between the sacred and the erotic. Lahssen, whose research focuses on the crossroads of Arabic, Berber, and Iberian verse traditions, offers these as contemporary meditations on themes that haunted the poets of al-Andalus.
+
+### Fragment I: On the Courtyard Fountain
+
+<div class="rrb-poem">
+
+The fountain speaks in tongues. Each drop
+a syllable of cold devotion. The master who designed it
+has long dissolved into the earth he walked upon—
+his name erased, his tools distributed to his sons.
+
+But the water remembers. It curves
+in the same arc he commanded, turns
+the air to gleaming, sends each prayer upward
+to the inattentive heavens.
+
+The wife of the governor—she sits here at dusk
+listening not to the water's voice but to the silence
+that surrounds it, vast as an ocean.
+The palace will burn. The empire will fracture.
+Yet this fountain will flow on, indifferent, perfect,
+beautiful as only the abandoned can be beautiful.
+
+</div>
+
+### Fragment II: The Scribe's Lament
+
+<div class="rrb-poem">
+
+I have copied seventeen verses today.
+The calligrapher's hand is a bird
+that must obey the falconer, even as it flies.
+
+The poem I inscribed was written by a man now dead,
+written of a beloved now dead,
+written in a language growing thin
+as parchment left too long in sun.
+
+My fingers are stained with the colors of extinct empires.
+Gold leaf clings to my palm—the gold of ransomed kingdoms,
+the gold of merchants whose ships have sunk,
+the gold of saints who learned too late
+that holiness and hunger occupy the same body.
+
+This afternoon a visitor asked if I believed
+in what I wrote. I dipped my brush in indigo—
+the blue of distance, the blue of eyes I will not see again—
+and did not answer.
+
+What is belief but the refusal to stop?
+What is prayer but the continuation of the hand?
+
+</div>
+
+---
+
+*Amira Lahssen is a scholar and poet based in Tangier. She holds a doctorate in Medieval Arabic Literature from the University of Granada and has published work on the aesthetic exchanges between Christian and Islamic poetic traditions in medieval Iberia. Her essays appear in *Journal of Medieval Islamic Poetry* and *Mediterranean Review*. This is her first publication of original poetry in English.*

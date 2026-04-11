@@ -1,0 +1,250 @@
+---
+pagetitle: "Rabat Review of Books"
+page-layout: full
+title-block-banner: false
+anchor-sections: false
+---
+
+```{=html}
+<!-- ========== HEADLINE TICKER ========== -->
+<div class="rrb-ticker">
+  <div class="rrb-ticker-inner">
+    <span>New Essay — Kafka in Arabic by Nadia Bensalem</span>
+    <span>From the Archive — Jelloun at Sixty</span>
+    <span>Spring 2026 Issue Now Online</span>
+    <span>Poetry — Three Poems from the Bou Regreg</span>
+    <span>Review — The Salt Notebooks</span>
+    <span>Subscribe to the Fortnightly Letter</span>
+  </div>
+</div>
+
+<div class="rrb-container">
+
+<!-- ========== MASTHEAD ========== -->
+<div class="rrb-masthead">
+  <div class="rrb-eyebrow">A Magazine of Books, Ideas &amp; Literature</div>
+  <h1 class="rrb-title">Rabat Review <em>of</em> Books</h1>
+  <div class="rrb-arabic" lang="ar">مجلّة الرباط للكُتب</div>
+  <div class="rrb-tagline">Essays, reviews, fiction, and poetry — from Rabat, for the world.</div>
+  <div class="rrb-issue-line">
+    <span>Vol. I · No. 2</span>
+    <span>Spring 2026</span>
+    <span>Founded 2026</span>
+    <span>Rabat · Paris · London</span>
+  </div>
+</div>
+
+<!-- ========== HERO / LEAD ESSAY ========== -->
+<div class="rrb-hero">
+  <a href="posts/essays/returning-tide/index.html">
+    <img src="https://picsum.photos/seed/rrb-returning-tide/1400/780" alt="The Returning Tide" class="rrb-hero-img" loading="lazy"/>
+  </a>
+  <div class="rrb-hero-body">
+    <div class="rrb-hero-kicker">◆  Lead Essay  ·  Literature  ◆</div>
+    <h2 class="rrb-hero-title"><a href="posts/essays/returning-tide/index.html">The Returning Tide: On Rereading Tahar Ben Jelloun</a></h2>
+    <p class="rrb-hero-dek">Forty years on, the novels that once felt inexhaustible have quietly rearranged themselves around us. A meditation on the private ritual of rereading.</p>
+    <div class="rrb-hero-byline">By <span class="rrb-author">Mehdi Khribch</span> · 14 March 2026 · 12-minute read</div>
+  </div>
+</div>
+
+<!-- ========== ESSAYS SECTION ========== -->
+<div class="rrb-section-head">
+  <div class="rrb-kicker">◆ Essays</div>
+  <div class="rrb-rule"></div>
+  <a class="rrb-see-all" href="essays.html">All essays</a>
+</div>
+
+<div class="rrb-grid">
+  <div class="rrb-card">
+    <a href="posts/essays/against-algorithm/index.html">
+      <img class="rrb-card-img" src="https://picsum.photos/seed/rrb-against-algorithm/900/600" alt="" loading="lazy"/>
+    </a>
+    <div class="rrb-card-kicker">The Reading Life</div>
+    <h3 class="rrb-card-title"><a href="posts/essays/against-algorithm/index.html">Against the Algorithm: Why We Still Need Slow Reading</a></h3>
+    <p class="rrb-card-dek">A defense of the long essay, the marginal note, and the afternoon spent with a single book.</p>
+    <div class="rrb-card-byline">By <span class="rrb-author">Mehdi Khribch</span></div>
+  </div>
+
+  <div class="rrb-card">
+    <a href="posts/essays/ghosts-fez/index.html">
+      <img class="rrb-card-img" src="https://picsum.photos/seed/rrb-fez-medina/900/600" alt="" loading="lazy"/>
+    </a>
+    <div class="rrb-card-kicker">Cities</div>
+    <h3 class="rrb-card-title"><a href="posts/essays/ghosts-fez/index.html">The Ghosts of Fez: Walking a City That Remembers</a></h3>
+    <p class="rrb-card-dek">A walking essay through the old medina — its doors, its libraries, its long afternoons of patient dust.</p>
+    <div class="rrb-card-byline">By <span class="rrb-author">Mehdi Khribch</span></div>
+  </div>
+
+  <div class="rrb-card">
+    <a href="posts/essays/kafka-arabic/index.html">
+      <img class="rrb-card-img" src="https://picsum.photos/seed/rrb-kafka-arabic/900/600" alt="" loading="lazy"/>
+    </a>
+    <div class="rrb-card-kicker">Translation</div>
+    <h3 class="rrb-card-title"><a href="posts/essays/kafka-arabic/index.html">Kafka in Arabic: Translation as Second Creation</a></h3>
+    <p class="rrb-card-dek">What happens to a modernist prose when it is rewritten, word by patient word, in another alphabet.</p>
+    <div class="rrb-card-byline">By <span class="rrb-author">Mehdi Khribch</span></div>
+  </div>
+</div>
+
+<!-- ========== QUOTE OF THE WEEK ========== -->
+<div class="rrb-pullquote">
+  <div class="rrb-pullquote-eyebrow">◆  Quote of the Week  ◆</div>
+  <blockquote>
+    A city is not the sum of its monuments. It is the residue of every sentence its inhabitants have refused to finish.
+  </blockquote>
+  <cite>— from <em>The Ghosts of Fez</em>, in this issue</cite>
+</div>
+
+<!-- ========== REVIEWS SECTION ========== -->
+<div class="rrb-section-head">
+  <div class="rrb-kicker">◆ Reviews</div>
+  <div class="rrb-rule"></div>
+  <a class="rrb-see-all" href="reviews.html">All reviews</a>
+</div>
+
+<div class="rrb-grid">
+  <div class="rrb-card">
+    <a href="posts/reviews/salt-notebooks/index.html">
+      <img class="rrb-card-img" src="https://picsum.photos/seed/rrb-salt-notebooks/900/600" alt="" loading="lazy"/>
+    </a>
+    <div class="rrb-card-kicker">Fiction</div>
+    <h3 class="rrb-card-title"><a href="posts/reviews/salt-notebooks/index.html">The Salt Notebooks</a></h3>
+    <p class="rrb-card-dek">A young Algerian-French novelist turns family letters into a lucid, difficult début.</p>
+    <div class="rrb-card-byline">Reviewed by <span class="rrb-author">Mehdi Khribch</span></div>
+  </div>
+
+  <div class="rrb-card">
+    <a href="posts/reviews/atlantic-maghreb/index.html">
+      <img class="rrb-card-img" src="https://picsum.photos/seed/rrb-atlantic-maghreb/900/600" alt="" loading="lazy"/>
+    </a>
+    <div class="rrb-card-kicker">History</div>
+    <h3 class="rrb-card-title"><a href="posts/reviews/atlantic-maghreb/index.html">Atlantic Maghreb, 1400–1900</a></h3>
+    <p class="rrb-card-dek">Morocco has always been a seafaring country. A new history finally gives the shore its due.</p>
+    <div class="rrb-card-byline">Reviewed by <span class="rrb-author">Mehdi Khribch</span></div>
+  </div>
+
+  <div class="rrb-card">
+    <a href="posts/reviews/apricot-year/index.html">
+      <img class="rrb-card-img" src="https://picsum.photos/seed/rrb-apricot-year/900/600" alt="" loading="lazy"/>
+    </a>
+    <div class="rrb-card-kicker">Poetry</div>
+    <h3 class="rrb-card-title"><a href="posts/reviews/apricot-year/index.html">Apricot Year</a></h3>
+    <p class="rrb-card-dek">Mona Khalil's third collection is her most patient — and most devastating — yet.</p>
+    <div class="rrb-card-byline">Reviewed by <span class="rrb-author">Mehdi Khribch</span></div>
+  </div>
+</div>
+
+<!-- ========== FICTION + POETRY TWO-UP ========== -->
+<div class="rrb-section-head">
+  <div class="rrb-kicker">◆ Fiction &amp; Poetry</div>
+  <div class="rrb-rule"></div>
+  <a class="rrb-see-all" href="fiction.html">All fiction</a>
+</div>
+
+<div class="rrb-grid rrb-grid-2">
+  <div class="rrb-card">
+    <a href="posts/fiction/apricot-trees-of-meknes/index.html">
+      <img class="rrb-card-img" src="https://picsum.photos/seed/rrb-meknes/1000/660" alt="" loading="lazy"/>
+    </a>
+    <div class="rrb-card-kicker">A Short Story</div>
+    <h3 class="rrb-card-title"><a href="posts/fiction/apricot-trees-of-meknes/index.html">The Apricot Trees of Meknès</a></h3>
+    <p class="rrb-card-dek">A woman returns to a house she thought she had finished with. A garden, a locked drawer, a slow reckoning.</p>
+    <div class="rrb-card-byline">New fiction</div>
+  </div>
+
+  <div class="rrb-card">
+    <a href="posts/poetry/bou-regreg/index.html">
+      <img class="rrb-card-img" src="https://picsum.photos/seed/rrb-bou-regreg/1000/660" alt="" loading="lazy"/>
+    </a>
+    <div class="rrb-card-kicker">New Poems</div>
+    <h3 class="rrb-card-title"><a href="posts/poetry/bou-regreg/index.html">Three Poems from <em>The Bou Regreg</em></a></h3>
+    <p class="rrb-card-dek">A river poem sequence about the water that runs between Rabat and Salé — and between generations.</p>
+    <div class="rrb-card-byline">Poetry</div>
+  </div>
+</div>
+
+<!-- ========== TRILINGUAL DISPATCH ========== -->
+<div class="rrb-section-head">
+  <div class="rrb-kicker">◆ In Three Languages</div>
+  <div class="rrb-rule"></div>
+</div>
+
+<div class="rrb-trilingual">
+  <div class="rrb-lang-col">
+    <div class="rrb-lang-tag">English</div>
+    <p lang="en">The Review believes that reading is a practice of attention — and that attention, in turn, is a small form of hospitality we offer to the world.</p>
+  </div>
+  <div class="rrb-lang-col">
+    <div class="rrb-lang-tag">Français</div>
+    <p lang="fr">La Revue croit que la lecture est une pratique de l'attention — et que l'attention, à son tour, est une petite forme d'hospitalité que nous offrons au monde.</p>
+  </div>
+  <div class="rrb-lang-col">
+    <div class="rrb-lang-tag">العربية</div>
+    <p lang="ar">تؤمن المجلّة أنّ القراءة ممارسةٌ من ممارسات الانتباه، وأنّ الانتباه بدوره شكلٌ صغير من أشكال الضيافة التي نقدّمها للعالم.</p>
+  </div>
+</div>
+
+<!-- ========== CAROUSEL: FROM THE ARCHIVE ========== -->
+<div class="rrb-section-head">
+  <div class="rrb-kicker">◆ From the Archive</div>
+  <div class="rrb-rule"></div>
+  <a class="rrb-see-all" href="archive.html">Browse archive</a>
+</div>
+
+<div class="rrb-carousel">
+  <div class="rrb-carousel-track">
+    <div class="rrb-card">
+      <a href="posts/essays/last-europeans/index.html"><img class="rrb-card-img" src="https://picsum.photos/seed/rrb-kundera/900/600" alt="" loading="lazy"/></a>
+      <div class="rrb-card-kicker">Essay</div>
+      <h3 class="rrb-card-title"><a href="posts/essays/last-europeans/index.html">The Last Europeans</a></h3>
+      <p class="rrb-card-dek">Reading Kundera now, and the melancholy of a Europe that never quite was.</p>
+    </div>
+    <div class="rrb-card">
+      <a href="posts/reviews/fathers-radio/index.html"><img class="rrb-card-img" src="https://picsum.photos/seed/rrb-fathers-radio/900/600" alt="" loading="lazy"/></a>
+      <div class="rrb-card-kicker">Memoir</div>
+      <h3 class="rrb-card-title"><a href="posts/reviews/fathers-radio/index.html">My Father's Radio</a></h3>
+      <p class="rrb-card-dek">A Cairene writer tunes in to the static of childhood.</p>
+    </div>
+    <div class="rrb-card">
+      <a href="posts/fiction/tangier-1956/index.html"><img class="rrb-card-img" src="https://picsum.photos/seed/rrb-tangier-1956/900/600" alt="" loading="lazy"/></a>
+      <div class="rrb-card-kicker">Novel Excerpt</div>
+      <h3 class="rrb-card-title"><a href="posts/fiction/tangier-1956/index.html">Tangier, 1956</a></h3>
+      <p class="rrb-card-dek">The last days of the International Zone, through the eyes of a British diplomat.</p>
+    </div>
+    <div class="rrb-card">
+      <a href="posts/poetry/ghazals-absent-friend/index.html"><img class="rrb-card-img" src="https://picsum.photos/seed/rrb-ghazals/900/600" alt="" loading="lazy"/></a>
+      <div class="rrb-card-kicker">Poetry</div>
+      <h3 class="rrb-card-title"><a href="posts/poetry/ghazals-absent-friend/index.html">Ghazals for an Absent Friend</a></h3>
+      <p class="rrb-card-dek">Two ghazal-inspired poems on distance and longing.</p>
+    </div>
+    <div class="rrb-card">
+      <a href="posts/reviews/hamza-biography/index.html"><img class="rrb-card-img" src="https://picsum.photos/seed/rrb-biography/900/600" alt="" loading="lazy"/></a>
+      <div class="rrb-card-kicker">Biography</div>
+      <h3 class="rrb-card-title"><a href="posts/reviews/hamza-biography/index.html">An Obscure Modernist</a></h3>
+      <p class="rrb-card-dek">A new biography rescues a 20th-century North African intellectual from the footnotes.</p>
+    </div>
+    <div class="rrb-card">
+      <a href="posts/fiction/bookseller-of-rue-du-consul/index.html"><img class="rrb-card-img" src="https://picsum.photos/seed/rrb-bookseller/900/600" alt="" loading="lazy"/></a>
+      <div class="rrb-card-kicker">Short Story</div>
+      <h3 class="rrb-card-title"><a href="posts/fiction/bookseller-of-rue-du-consul/index.html">The Bookseller of Rue du Consul</a></h3>
+      <p class="rrb-card-dek">A rare book waits thirty years for a reader.</p>
+    </div>
+  </div>
+  <div class="rrb-carousel-nav">
+    <button class="rrb-carousel-prev" aria-label="Previous">‹</button>
+    <button class="rrb-carousel-next" aria-label="Next">›</button>
+  </div>
+</div>
+
+<!-- ========== SUBSCRIBE ========== -->
+<div class="rrb-subscribe">
+  <h3>The Fortnightly Letter</h3>
+  <p>A biweekly note from the editors — new essays, a forthcoming review, a poem to take with you on the commute.</p>
+  <form onsubmit="event.preventDefault(); alert('Thank you for subscribing (demo).');">
+    <input type="email" placeholder="your.email@example.com" required/>
+    <button type="submit">Subscribe</button>
+  </form>
+</div>
+
+</div>
+```

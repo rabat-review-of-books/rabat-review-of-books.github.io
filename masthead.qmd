@@ -1,0 +1,72 @@
+---
+pagetitle: "Masthead · Rabat Review of Books"
+title-block-banner: false
+---
+
+```{=html}
+<div class="rrb-container">
+
+<div class="listing-page-title">
+  <div class="eyebrow">◆ The Review</div>
+  <h1>Masthead</h1>
+  <div class="dek">A small magazine, written and edited by one hand.</div>
+</div>
+
+<div style="max-width: 720px; margin: 0 auto; text-align: center;">
+
+  <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 1.3em; color: #0d3b66; line-height: 1.6; margin: 2.5em auto 2em;">
+    The <em>Rabat Review of Books</em> is written, edited, and published by a single person, from a single city, for anyone willing to read slowly.
+  </p>
+
+  <div class="rrb-mast-role">
+    <div class="rrb-mast-title">Editor &amp; Writer</div>
+    <div class="rrb-mast-names">Mehdi Khribch</div>
+  </div>
+  <div class="rrb-mast-role">
+    <div class="rrb-mast-title">Publisher</div>
+    <div class="rrb-mast-names">Mehdi Khribch</div>
+  </div>
+  <div class="rrb-mast-role">
+    <div class="rrb-mast-title">Founded</div>
+    <div class="rrb-mast-names">Rabat, 2026</div>
+  </div>
+  <div class="rrb-mast-role">
+    <div class="rrb-mast-title">Correspondence</div>
+    <div class="rrb-mast-names"><a href="mailto:editors@rabatreview.org">editors@rabatreview.org</a></div>
+  </div>
+
+  <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; color: #5a7a95; margin-top: 3em; font-size: 1.05em;">
+    "A magazine is a conversation with the best strangers."
+  </p>
+
+</div>
+</div>
+
+<style>
+.rrb-mast-role {
+  display: grid;
+  grid-template-columns: 1fr 1.4fr;
+  gap: 1.6em;
+  padding: 0.9em 0;
+  border-bottom: 1px solid #d9cfb8;
+  align-items: baseline;
+  max-width: 560px;
+  margin: 0 auto;
+}
+.rrb-mast-title {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-style: italic;
+  font-size: 1em;
+  font-weight: 500;
+  color: #5a7a95;
+  text-align: right;
+}
+.rrb-mast-names {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.2em;
+  font-weight: 600;
+  color: #0d3b66;
+  text-align: left;
+}
+</style>
+```

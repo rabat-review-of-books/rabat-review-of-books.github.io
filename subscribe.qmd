@@ -1,0 +1,132 @@
+---
+pagetitle: "Subscribe · Rabat Review of Books"
+title-block-banner: false
+---
+
+```{=html}
+<div class="rrb-container">
+
+<div class="listing-page-title">
+  <div class="eyebrow">◆ Join the Review</div>
+  <h1>Subscribe</h1>
+  <div class="dek">A fortnightly letter, and an invitation to read with us.</div>
+</div>
+
+<div style="max-width: 680px; margin: 0 auto;">
+
+<p style="font-family:'EB Garamond',serif; font-size:1.15em; line-height:1.7; text-align:center; color:#333; margin-bottom:2.5em;">The Review is free to read. It is sustained by readers who care about a certain kind of attention to literature — and by the quiet, old-fashioned conviction that a good essay is still worth an evening.</p>
+
+<div class="rrb-tier">
+  <div class="rrb-tier-head">
+    <div class="rrb-tier-name">The Letter</div>
+    <div class="rrb-tier-price">Free</div>
+  </div>
+  <p>Our fortnightly editorial letter, delivered to your inbox. New essays, notes from the editors, and one poem each issue.</p>
+  <form onsubmit="event.preventDefault(); alert('Thank you for subscribing (demo).');">
+    <input type="email" placeholder="your.email@example.com" required/>
+    <button type="submit">Subscribe to the Letter</button>
+  </form>
+</div>
+
+<div class="rrb-tier rrb-tier-highlight">
+  <div class="rrb-tier-head">
+    <div class="rrb-tier-name">Friend of the Review</div>
+    <div class="rrb-tier-price">$60 <span>/ year</span></div>
+  </div>
+  <p>Everything in The Letter, plus: early access to new essays, a printed broadsheet twice a year, and an invitation to our annual reading in Rabat.</p>
+  <a class="rrb-tier-btn" href="mailto:editors@rabatreview.org?subject=Friend%20of%20the%20Review">Become a Friend</a>
+</div>
+
+<div class="rrb-tier">
+  <div class="rrb-tier-head">
+    <div class="rrb-tier-name">Patron</div>
+    <div class="rrb-tier-price">$250 <span>/ year</span></div>
+  </div>
+  <p>All of the above, plus: an acknowledgement in the masthead, a complete annual set of printed editions, and the editors' quiet gratitude.</p>
+  <a class="rrb-tier-btn" href="mailto:editors@rabatreview.org?subject=Patron">Become a Patron</a>
+</div>
+
+</div>
+</div>
+
+<style>
+.rrb-tier {
+  background: #fbfaf6;
+  border: 1px solid #e0ddd4;
+  border-top: 3px solid #111;
+  padding: 2em 2em 2.2em;
+  margin: 1.2em 0;
+}
+.rrb-tier-highlight {
+  border-top-color: #a02024;
+  background: #fff8f4;
+  box-shadow: 0 2px 0 rgba(160,32,36,0.06);
+}
+.rrb-tier-head {
+  display:flex;
+  justify-content:space-between;
+  align-items:baseline;
+  padding-bottom:0.6em;
+  margin-bottom:0.8em;
+  border-bottom:1px solid #e0ddd4;
+}
+.rrb-tier-name {
+  font-family:"Playfair Display", Georgia, serif;
+  font-size:1.6em;
+  font-weight:800;
+  color:#111;
+}
+.rrb-tier-price {
+  font-family:"Playfair Display", Georgia, serif;
+  font-size:1.4em;
+  font-weight:700;
+  color:#a02024;
+}
+.rrb-tier-price span {
+  font-size:0.55em;
+  color:#888;
+  font-weight:500;
+  letter-spacing:0.05em;
+}
+.rrb-tier p {
+  font-family:"EB Garamond",serif;
+  font-size:1.05em;
+  line-height:1.6;
+  color:#444;
+  margin-bottom:1.2em;
+}
+.rrb-tier form {
+  display:flex;
+  gap:0.5em;
+  flex-wrap:wrap;
+}
+.rrb-tier input[type=email] {
+  flex:1 1 200px;
+  padding:0.75em 1em;
+  font-family:"EB Garamond",serif;
+  font-size:1em;
+  border:1px solid #d0cdc4;
+  background:#fff;
+}
+.rrb-tier button, .rrb-tier-btn {
+  font-family:"Inter",sans-serif;
+  font-size:0.78em;
+  font-weight:700;
+  letter-spacing:0.15em;
+  text-transform:uppercase;
+  padding:0.85em 1.6em;
+  background:#111;
+  color:#fff;
+  border:none;
+  cursor:pointer;
+  display:inline-block;
+  text-decoration:none;
+  transition:background 0.15s;
+}
+.rrb-tier button:hover, .rrb-tier-btn:hover {
+  background:#a02024;
+  color:#fff;
+  border:none;
+}
+</style>
+```

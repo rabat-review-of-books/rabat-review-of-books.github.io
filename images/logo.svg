@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" width="320" height="64">
+  <g>
+    <!-- Top line: RABAT REVIEW in small caps -->
+    <text x="160" y="22"
+          text-anchor="middle"
+          font-family="Cormorant Garamond, Libre Caslon Text, Georgia, serif"
+          font-weight="600"
+          font-size="15"
+          letter-spacing="4"
+          fill="#fbf7ec">RABAT REVIEW</text>
+
+    <!-- Ornamental rule with diamond -->
+    <line x1="100" y1="32" x2="150" y2="32" stroke="#8ab9d8" stroke-width="1"/>
+    <line x1="170" y1="32" x2="220" y2="32" stroke="#8ab9d8" stroke-width="1"/>
+    <g transform="translate(160 32)">
+      <polygon points="0,-3.2 3.2,0 0,3.2 -3.2,0" fill="#8ab9d8"/>
+    </g>
+
+    <!-- Bottom line: "of Books" in italic -->
+    <text x="160" y="52"
+          text-anchor="middle"
+          font-family="Cormorant Garamond, Libre Caslon Text, Georgia, serif"
+          font-weight="400"
+          font-style="italic"
+          font-size="22"
+          fill="#fbf7ec">of Books</text>
+  </g>
+</svg>

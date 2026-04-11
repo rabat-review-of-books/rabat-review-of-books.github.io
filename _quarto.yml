@@ -1,0 +1,111 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "images/"
+    - ".nojekyll"
+
+website:
+  title: "Rabat Review of Books"
+  description: "Essays, reviews, fiction, and poetry — from Rabat, for the world."
+  site-url: https://yveskhribch.github.io/rabat-review-of-books
+  favicon: images/favicon.svg
+  open-graph: true
+  twitter-card: true
+  search:
+    location: navbar
+    type: overlay
+
+  navbar:
+    background: "#0a2540"
+    foreground: "#ffffff"
+    logo: images/logo.svg
+    logo-alt: "RRB"
+    title: false
+    collapse-below: lg
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Essays"
+        href: essays.qmd
+      - text: "Reviews"
+        href: reviews.qmd
+      - text: "Fiction"
+        href: fiction.qmd
+      - text: "Poetry"
+        href: poetry.qmd
+      - text: "Archive"
+        href: archive.qmd
+      - text: "About"
+        href: about.qmd
+    right:
+      - text: "Subscribe"
+        href: subscribe.qmd
+      - icon: rss
+        href: index.xml
+        aria-label: RSS feed
+
+  page-footer:
+    background: "#0a2540"
+    foreground: "#cccccc"
+    left: |
+      © 2026 **Rabat Review of Books** · Founded 2026 · Rabat, Morocco
+    center:
+      - text: "About"
+        href: about.qmd
+      - text: "Subscribe"
+        href: subscribe.qmd
+      - text: "Contact"
+        href: mailto:editors@rabatreview.org
+    right: |
+      *A magazine of ideas, literature, and criticism.*
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    css:
+      - custom.css
+      - interactions.css
+    include-before-body:
+      - text: |
+          <div class="rrb-salmon-bar">
+            <div class="rrb-salmon-left">
+              <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+              <span class="d-none d-md-inline">Rabat · Paris · London</span>
+            </div>
+            <div class="rrb-salmon-right">
+              <a href="/subscribe.html">Subscribe</a>
+              <a href="/about.html">About</a>
+              <span id="rrb-date"></span>
+            </div>
+          </div>
+          <script>
+            (function(){
+              var d = new Date();
+              var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+              var el = document.getElementById('rrb-date');
+              if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+            })();
+          </script>
+    include-after-body:
+      - text: |
+          <script src="/interactions.js" defer></script>
+    toc: false
+    fontsize: "12pt"
+    linestretch: 1.6
+    code-copy: true
+    code-overflow: wrap
+    highlight-style: github
+    anchor-sections: true
+    smooth-scroll: true
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Spectral:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,500&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600;700;800&family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+          <link rel="preconnect" href="https://picsum.photos" crossorigin>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+execute:
+  freeze: auto
