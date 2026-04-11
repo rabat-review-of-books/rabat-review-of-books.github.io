@@ -1,0 +1,4 @@
+/* Small tweaks that don't belong in the SCSS build */
+.quarto-title-banner { display: none; }
+#title-block-header.quarto-title-block.default .quarto-title-banner { display: none; }
+body { overflow-x: hidden; }

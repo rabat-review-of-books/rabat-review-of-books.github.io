@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Rabat Review of Books</title>
+<link>https://rabat-review-of-books.github.io/archive.html</link>
+<atom:link href="https://rabat-review-of-books.github.io/archive.xml" rel="self" type="application/rss+xml"/>
+<description>Essays, reviews, fiction, and poetry — from Rabat, for the world.</description>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Fri, 03 Apr 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Static and Signal</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/reviews/fathers-radio/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p><strong>My Father’s Radio</strong> <em>by Laila Mahmoud</em> · Dar Merit · 288 pp · 150 EGP</p>
+<p>The radio in question is not particularly distinguished. A Philips set from the 1960s, purchased by Laila Mahmoud’s father, Omar, when he arrived in Cairo from the Delta as a young man seeking work in the new industrial sectors. It was a marker of aspiration, of a modernized Egypt. The radio accompanied the family through the Suez Crisis, Nasser’s rise, the early years of Sadat, and eventually into a period when it became, as Mahmoud writes, “less an object of longing and more a relic in a house already becoming haunted by memory.”</p>
+<p>This is the occasion for Mahmoud’s memoir, <em>My Father’s Radio</em>—though calling it a memoir in the conventional sense is misleading. It is not a chronological narrative of a life. Instead, it is a series of fragments, radio memories, overheard conversations, and interpolations on Cairo itself, all arranged around this single object. The radio is rarely the explicit subject. Instead, it functions as what we might call a memory-machine, a device through which other experiences acquire their particular shape and resonance.</p>
+<p>Mahmoud grew up in Heliopolis, the suburban quarter built in the early twentieth century, and she has a sharp eye for the textures of that world: the apartment blocks slowly decaying, the streets at dusk, the particular rhythms of neighborhood life that have now mostly vanished. The radio occupies the sitting room (what she calls the “best room,” kept at a certain distance from the life of the house), and it becomes the place where her father vanishes into the voices of news broadcasters, Qur’an reciters, and the radio theater that was still a significant form of entertainment in Cairo in the 1970s.</p>
+<p>What makes the book compelling is not any singular revelation but the gradual accumulation of a presence through absence. Omar emerges from these pages not as a fully realized character—Mahmoud is not interested in that kind of psychological portraiture—but as a figure constructed from his silences, his habits of listening, his relationship to the sounds coming through the radio speaker. We learn that he kept notebooks in which he copied passages from radio dramas. We learn that he had a radio schedule written on a piece of paper he kept in his shirt pocket. We learn that after his wife’s death, he listened to the same music program every evening for a decade. But we are not told what this meant to him, whether it was grief or habit or simple preference.</p>
+<p>This refusal to psychologize is deliberate, and much of the book’s power derives from it. Mahmoud writes in English (she eventually emigrated to London), and there is something particularly acute about writing memoir about Cairo in a language that is not the language of her childhood. This distance, this slight displacement, seems to suit her subject. She can observe her father and her childhood Cairo with the intensity that intimacy often prevents.</p>
+<p>The strongest sections come when Mahmoud describes the voices themselves. There is a long passage about the voice of a particular news announcer, a man whose diction and intonation became so familiar to her father that his absence was noticeable. When the man died, the broadcasts changed. No one announced this change; it simply occurred, and Omar noticed it immediately. Mahmoud attends to this moment without sentimentalizing it—she does not claim that this was a turning point or that it made her father sad. But something shifted, a small alteration in the texture of daily life.</p>
+<p>There is also a fascinating chapter on radio advertising, particularly for products aimed at women. Mahmoud examines the language used to sell jam, fabric softener, and beauty products, and she connects this advertising voice to her mother’s own complicated relationship to modernity and consumption. The chapter is amusing and sharp, but it also carries an undertone of loss—the world of that advertising, those particular assumptions about women and domesticity, is now mostly gone.</p>
+<p>Where the book occasionally falters is when Mahmoud attempts broader cultural-historical statements. She wants to connect the radio to Nasser-era nationalism, to Suez, to the Arab moment of the mid-century. But these connections are sometimes schematic, as if she is fulfilling an obligation rather than following genuine insight. The book is strongest when it stays close to the domestic, to the particular sounds and rhythms of her father’s life, and least convincing when it tries to be a social history of Egypt.</p>
+<p>There is also a question about the reader’s relationship to this material. Mahmoud’s method—fragmented, associative, devoted to small details and overheard moments—is genuinely interesting but also somewhat ascetic. There are readers who will find this refreshing, a relief from the narrative machinery of conventional memoir. Others may find it frustratingly thin, a collection of observations rather than a lived experience fully rendered.</p>
+<p>Yet there is something admirable about Mahmoud’s refusal to turn her father into a character, to make him cohere into a psychologically coherent figure. The radio, as she presents it, becomes a kind of record of attention itself: someone listening, someone present in a room, someone leaving traces in the form of notebooks and habits. It is a small monument to a life that did not demand public recognition, and in that insistence on smallness and quietness, there is a kind of dignity worth respecting.</p>
+<hr>
+<p><em>Karim Nasr is a writer and critic based between Cairo and London. He is the author of “The Modern Arabic Essay: Form and Function” and has contributed to the </em>Guardian<em>, </em>The National<em>, and </em>Boundary 2<em>. His memoir of his own family’s migration is forthcoming.</em></p>
+
+
+
+ ]]></description>
+  <category>Reviews</category>
+  <category>Memoir</category>
+  <guid>https://rabat-review-of-books.github.io/posts/reviews/fathers-radio/</guid>
+  <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-fathers-radio/1200/800" medium="image"/>
+</item>
+<item>
+  <title>Four Short Poems</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/poetry/four-short-poems/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p>Laila Amara’s recent collection <em>Threshold</em> (published last year by Casablanca House) has been praised for its compression and its refusal of sentimentality. Working in the mode of the short lyric—forms that span from two to ten lines—Amara channels the influence of both classical Arabic brevity and contemporary minimalism. These four poems, composed over the past six months, continue her investigation into how a single gesture, a overheard phrase, or the memory of light can contain an entire history. The poems are titled sequentially, suggesting a journey that is never fully named.</p>
+<section id="i." class="level3">
+<h3 class="anchored" data-anchor-id="i.">I.</h3>
+<div class="rrb-poem">
+<p>My mother’s cousin left. We never learned which sea. Years later, a postcard arrived—no return address. It showed a lighthouse. My mother kept it next to the sugar. When I was seven, I assumed the lighthouse was keeping us safe from whatever my mother feared at night. I was not entirely wrong.</p>
+</div>
+</section>
+<section id="ii." class="level3">
+<h3 class="anchored" data-anchor-id="ii.">II.</h3>
+<div class="rrb-poem">
+<p>There is a word in Darija for the space between saying yes and meaning it. My grandmother used it constantly. My generation has forgotten it. Now we are precise. Now we suffer clearly.</p>
+</div>
+</section>
+<section id="iii." class="level3">
+<h3 class="anchored" data-anchor-id="iii.">III.</h3>
+<div class="rrb-poem">
+<p>The baker’s daughter married a man from the north. They moved to his village. Winter came early. She wrote that the snow fell upward— an error, surely, in translation. But I have never forgotten it. Upward snow. Toward what sky?</p>
+</div>
+</section>
+<section id="iv." class="level3">
+<h3 class="anchored" data-anchor-id="iv.">IV.</h3>
+<div class="rrb-poem">
+<p>I keep a map of a city I have never seen. A friend’s grandmother gave it to her before she died. My friend gave it to me before she left. I touch the names like they are a form of prayer. Like they are a form of apology. Like they are the only home that cannot be taken.</p>
+</div>
+<hr>
+<p><em>Laila Amara was born in Marrakech and studied literature in Fez before earning her MFA from the University of Toronto. She currently teaches creative writing in Rabat and is at work on a second collection examining archives and belonging. Her poems have appeared in </em>Asymptote<em>, </em>Guernica<em>, and the 2025 </em>Best African Poetry* anthology.*</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Poetry</category>
+  <guid>https://rabat-review-of-books.github.io/posts/poetry/four-short-poems/</guid>
+  <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-four-poems/1200/800" medium="image"/>
+</item>
+<item>
+  <title>The Last Europeans</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/essays/last-europeans/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<blockquote class="blockquote">
+<p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</em></p>
+</blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel mauris a nunc eleifend accumsan. Sed porttitor, ante non malesuada pulvinar, lacus lacus ornare lorem, id dignissim velit mauris eu est. Praesent id elit quis mi vestibulum malesuada. Cras interdum, velit vel scelerisque convallis, magna lorem tincidunt libero, vitae placerat elit erat ac purus. Mauris ut eros vitae nunc sodales efficitur.</p>
+<p>Sed euismod, sapien quis dapibus condimentum, eros urna consectetur nulla, at luctus nisi nunc sed leo. Quisque vitae augue nec libero iaculis facilisis. Donec sed nibh vitae metus volutpat facilisis. Integer tristique, magna non congue malesuada, ligula nulla porta enim, eu luctus urna dolor non mauris. Vivamus sit amet commodo arcu.</p>
+<section id="sed-ut-perspiciatis" class="level2">
+<h2 class="anchored" data-anchor-id="sed-ut-perspiciatis">Sed ut perspiciatis</h2>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+<blockquote class="blockquote">
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+</blockquote>
+<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.</p>
+</section>
+<section id="at-vero-eos" class="level2">
+<h2 class="anchored" data-anchor-id="at-vero-eos">At vero eos</h2>
+<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident. Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>
+<p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus. Omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet.</p>
+<hr>
+<p><em>This is placeholder text (lorem ipsum). Replace with your essay when ready.</em></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Essays</category>
+  <category>Literature</category>
+  <category>Europe</category>
+  <guid>https://rabat-review-of-books.github.io/posts/essays/last-europeans/</guid>
+  <pubDate>Sat, 28 Mar 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-kundera/1200/800" medium="image"/>
+</item>
+<item>
+  <title>Three Poems from The Bou Regreg</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/poetry/bou-regreg/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p>The Bou Regreg is not merely a river—it is a keeper of contradictions. It flows through Rabat with the patience of a witness, having carried dynasties, trade, sorrow, and renewal. Yasmin Ighil, whose family traces roots to the Atlas foothills, approaches the river not as metaphor but as presence: a constant, tidal voice beneath the city’s surface. These three poems move from the river’s geological patience to its domestic intimacy, asking what it means to live beside something that is always leaving.</p>
+<section id="the-mouth" class="level3">
+<h3 class="anchored" data-anchor-id="the-mouth">The Mouth</h3>
+<div class="rrb-poem">
+<p>Where the river meets the grey Atlantic, the water forgets its name. The salt rises to meet it halfway—two forgettings becoming one. I have stood there in the glistening hour before dusk, watching the fresh turn brackish, turn indifferent. The herons do not hesitate. They wade as if they own the covenant between two elements learning to surrender.</p>
+</div>
+</section>
+<section id="laundry-day" class="level3">
+<h3 class="anchored" data-anchor-id="laundry-day">Laundry Day</h3>
+<div class="rrb-poem">
+<p>My grandmother knelt at the concrete lip where the river runs, her hands working cloth against the grooved stone as if she were speaking to someone downstream. The water was cold, even in August. She never once looked up at the medina walls or the palace, though they looked down at her. The soap—olive-colored, the size of her fist— turned to foam. The cloth darkened. Then slowly, like a secret, turned white again.</p>
+</div>
+</section>
+<section id="current" class="level3">
+<h3 class="anchored" data-anchor-id="current">Current</h3>
+<div class="rrb-poem">
+<p>At night the river knows something the city does not. It refuses to be still. Even in drought, even when the engineers speak of scarcity, it mutters its complaint in the darkness— a kind of prayer, a kind of refusal. My son dropped his blue marble in once, years ago. I told him it was traveling to the sea, to Spain, to places without names. He believed me. Sometimes I drive to the mouth and stand in the spray, looking, as if that marble might surface, blue and worn, demanding to be known again.</p>
+</div>
+<hr>
+<p><em>Yasmin Ighil was born in Fez and studied classical Arabic literature at the University of Rabat before moving to Casablanca to work in cultural preservation. Her first collection, “Stone Memory,” won the 2025 Tanger Prize. She lives near the Bou Regreg.</em></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Poetry</category>
+  <guid>https://rabat-review-of-books.github.io/posts/poetry/bou-regreg/</guid>
+  <pubDate>Sat, 21 Mar 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-bou-regreg/1200/800" medium="image"/>
+</item>
+<item>
+  <title>The Divided Ledger</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/reviews/salt-notebooks/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p><strong>The Salt Notebooks</strong> <em>by Salima Oumari</em> · Éditions du Détroit · 412 pp · €26</p>
+<p>Salima Oumari’s debut novel arrives trailing the kind of acclaim that often precedes disappointment. Longlisted for the Prix Goncourt, interviewed in <em>Libération</em>, hailed as a vital voice on the postcolonial diaspora—the machinery of French literary celebrity had already begun processing <em>The Salt Notebooks</em> before most readers outside Paris had opened it. So it is perhaps to Oumari’s credit that the novel proves more interesting than such machinery might suggest, though rarely in the ways its admirers intend.</p>
+<p>The book follows Leila, a forty-three-year-old translator living in Lyon, who receives word that her father—whom she has not seen in seventeen years—is dying in Casablanca. The premise is familiar enough: exile, return, reckoning with origins. What distinguishes Oumari’s approach is her refusal to sentimentalize either gesture. Leila does not rush home. She prevaricates, translates a minor Moroccan poet’s work, attends dinner parties where she is asked about her “authentic” childhood. Only when her father lapses into silence does she make the journey.</p>
+<p>The novel’s architecture, however, is its most intriguing formal choice. Interspersed with the contemporary narrative are fragments—letters, grocery lists, medical notes, overheard conversations—attributed to her father’s notebooks spanning forty years. These are not straightforwardly “his voice.” Instead, Oumari renders them as textual residue, the detritus of a life recorded without coherence or emotional clarity. A notebook entry from 1987 reads, paraphrased, something like: <em>The plumber came. Leila asked for money for school. Too expensive. We ate bread with oil.</em> The flatness is deliberate. It refuses the pathos that a more sentimental novelist would extract from such scenes.</p>
+<p>This method both succeeds and falters. The accumulated weight of these fragments does eventually create a portrait—of a man constrained by circumstance, diminished by migration, bewildered by his own daughter—that is more unsettling than any summary could be. We see not the father Leila imagines but the mundane, inarticulate reality of his daily existence. Yet Oumari sometimes overplays this technique. By the novel’s final third, the fragments become repetitive, almost mechanical. We need not be told twelve times that the family was poor; we understood after three.</p>
+<p>The contemporary storyline, by contrast, risks smoothness. Leila’s reunion with her ailing father occurs in a hospital room where dialogue has largely been replaced by silence and the ambient sounds of medical equipment. It is a quiet, almost minimalist sequence, and there is dignity in Oumari’s refusal to engineer reconciliation or epiphany. But this restraint can feel like evasion. We learn little of what actually transpired between them, why the rupture was so absolute, what words (if any) are exchanged at the end. Oumari seems to believe that suggesting absence is more powerful than exploring it—a choice that occasionally leaves the reader stranded in a void of her own creation.</p>
+<p>What emerges most forcefully is not a family drama but a meditation on translation itself. Leila is a translator by profession, and the novel is haunted by the question of what can and cannot be conveyed between languages, generations, and the living and the dead. When she attempts to translate her father’s notebooks (a task we never see completed), she finds herself inventing, interpreting, filling gaps. The parallel to her own attempts to “translate” her childhood, her father, herself becomes explicit. Yet the novel hints that perfect translation is impossible—that what survives the crossing always arrives corrupted, changed, remade.</p>
+<p>This is sophisticated work, though not always satisfying. Oumari writes with clarity and occasional beauty, and her ear for the rhythms of French and Arabic inflected speech is acute. There are moments—a description of the Casablanca medina, a conversation between Leila and a fellow translator—where the prose achieves a kind of luminous precision. But too often the novel settles for gestures toward depth rather than depth itself. We are told repeatedly that Leila is conflicted, divided, estranged; we are shown this less often than we might like.</p>
+<p>Still, <em>The Salt Notebooks</em> announces an author uninterested in easy answers, content to sit with ambiguity and silence. In an era of literary maximalism, that may itself be a kind of courage. Whether it amounts to wisdom remains a question for readers to settle themselves.</p>
+<hr>
+<p><em>Youssef Benani teaches comparative literature at the University of Fez and writes regularly on contemporary Francophone fiction. His essay collection, “Reading at the Margins,” will be published next year.</em></p>
+
+
+
+ ]]></description>
+  <category>Reviews</category>
+  <category>Fiction</category>
+  <guid>https://rabat-review-of-books.github.io/posts/reviews/salt-notebooks/</guid>
+  <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-salt-notebooks/1200/800" medium="image"/>
+</item>
+<item>
+  <title>The Bookseller of Rue du Consul</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/fiction/bookseller-of-rue-du-consul/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p>The shop on Rue du Consul had not changed in forty years, which is to say that it had changed in all the ways that matter and none of the ways that are visible. The books were still arranged according to Karim’s personal taxonomy—a system that bore no resemblance to any known cataloguing method but which he navigated with the certainty of a man reading his own handwriting. Novels lived in the back left, organized by the year he had acquired them rather than by author or title. Poetry occupied a narrow shelf above the counter, each volume spine-marked with his own annotations. Travel narratives sprawled across an entire wall, alphabetized by destination rather than by name of author. Any visitor expecting logic would have left frustrated. Few visitors came anymore. Karim did not advertise. The shop existed as it always had—in the space between intention and accident, open at unpredictable hours, its window displaying books that had been there so long that the sunlight had bleached their spines to the color of old linen.</p>
+<p>Karim himself was eighty-three years old. He had owned the shop since 1958, when he was young enough to believe that Rabat would become a great literary center, that men and women would gather in his shop to discuss Camus and Genet and the latest volumes from the Sorbonne. Instead, Rabat had become what most cities become—preoccupied with itself, no longer particularly interested in the thoughts of dead Europeans or the arguments of their heirs. The tourists came less frequently. Young people wanted their books on devices he did not understand. The other bookshops had closed, and he had remained, not from any particular stubbornness, but simply because he had not yet figured out how to stop.</p>
+<p>The morning was warm. Karim sat behind his counter with a cup of strong coffee and a novel he had read at least seven times—a French edition of something by Patrick Modiano, a writer who seemed to understand that memory was a form of geography. He was on page forty-seven, which was far enough into the book to be comfortable, early enough that he could still be surprised by where the narrative might go. He had learned not to expect that surprise would refresh itself with rereading, but rather that rereading was its own form of surprise—the surprise of recognizing something that had always been there.</p>
+<p>The woman entered in the late morning, when the light through the window had turned from pale to almost colorless. She was somewhere between sixty and seventy, dressed with the careful inattention of European women of her age—good clothes, but worn so well that one could not quite tell if they were chosen deliberately or had simply accumulated through years of use. She stood in the doorway for a moment, acclimating herself to the dimness, to the particular smell of the shop—which was not only books but something older, something like the smell of wood and time itself.</p>
+<p>“Yes?” Karim asked, setting down his novel. “You are looking for something?”</p>
+<p>“Perhaps,” she said. She had an accent that suggested France, but a France from some earlier moment, the vowels shaped differently than they were now. “I am looking for a book that may not exist. It may be out of print. It may never have been published. You are the bookseller?”</p>
+<p>“I am the bookseller,” Karim confirmed. He gestured to the surrounding shelves. “Though you will have noticed that my organization is not conventional.”</p>
+<p>“No,” she said, and something in her expression shifted, became almost amused. “No, it is not conventional. Which is fortunate, because the book I am looking for is not a conventional book.”</p>
+<p>She moved further into the shop, and Karim watched her. She had the bearing of someone who had spent her life in libraries, or in museums, or in the kind of solitary work that required sustained attention. Her hands were careful as they moved along the spines.</p>
+<p>“The book is a novel,” she continued. “French, I believe. Published—or possibly not published—in the early 1970s. The author was a woman, I think, though I am not entirely certain. The title had something to do with water. Or light. Or possibly both. I read it once, in circumstances that were not entirely conducive to careful attention, and I have been looking for it ever since. That was thirty years ago.”</p>
+<p>Karim nodded slowly. In his experience, people looking for books usually knew what they were looking for with a kind of obsessive precision. This woman was describing something that might as well have been a dream. It made the search more interesting.</p>
+<p>“Do you remember the plot?” he asked.</p>
+<p>“There was a woman,” she said. “She lived in a city—I think it was Paris, but I am not certain. She was a translator. She was translating something from German, I believe. Or possibly Arabic. And there was a man. There was always a man. But that was not what the book was about.”</p>
+<p>“What was it about?” Karim asked.</p>
+<p>The woman paused. She was running her fingers along the spines of the novels in the back left, the ones organized by acquisition date. She seemed to be looking not at the books but through them, at some earlier vision.</p>
+<p>“It was about forgetting,” she said finally. “It was about the way that we remember things imperfectly, and how that imperfection is not a failure of memory but rather a kind of truth. The character was trying to recover something that had been lost—a manuscript, I think. And the more she searched, the less certain she became that the manuscript had ever existed at all. By the end of the book, I could no longer tell if she was searching for the manuscript or if the manuscript was searching for her. Or if they were the same thing.”</p>
+<p>Karim was quiet. He was thinking about a novel he had read in 1974, a slim volume in a gray cover with no author photograph. He had purchased it at an estate sale, from a woman who was clearing out her apartment before moving to Brussels. He had not thought of that book in years, but he remembered it now—the particular quality of its prose, the way the sentences seemed to fold back on themselves. He remembered being unable to decide, once he finished it, whether he had just read something extraordinary or something that was merely competent enough to seem extraordinary in one’s confused state after finishing a book.</p>
+<p>“Wait,” he said. He rose, with the small difficulty that rising now entailed, and moved toward a shelf in the middle of the shop—the shelf dedicated to the 1970s, where books sat in the order of their arrival, each one a small moment of his past self’s decision-making.</p>
+<p>He ran his fingers along the spines. The book was there, or perhaps it was there. The cover was gray. The lettering was small. The author’s name was something like Beaumont, or possibly Beaufort. He pulled it down and opened it to the title page.</p>
+<p>“Anne Beaumont,” he said aloud. “Published in 1972 by a small press in Lyon. The title is ‘Les Lumières du Silence.’”</p>
+<p>The woman’s expression changed. It was subtle, but Karim saw it—a kind of collapse, or perhaps a kind of settling into place, the way a building settles once its foundation is finally complete.</p>
+<p>“Yes,” she whispered. “Yes, that is the title. That is the exact title.”</p>
+<p>She took the book from him, her hands trembling slightly. She opened it, and Karim watched her read the first page, then the first paragraph, her face becoming younger as she did, becoming the face of the person who had first read this book thirty years ago, in circumstances that were not conducive to careful attention.</p>
+<p>“I never found it again,” she said. “I have been looking. I have written to publishers. I have searched libraries. And I found nothing. I began to think that I had misremembered the title. That perhaps I had misremembered the entire book, invented it from fragments of things I had read.”</p>
+<p>“But you found it,” Karim said quietly.</p>
+<p>“Yes,” she said. “Through a man who keeps a bookshop on Rue du Consul in Rabat, organizing his inventory according to some private system that should not work and yet apparently does.” She looked up at him. “I do not believe in luck,” she said. “But I believe in something. I believe in the way that certain things find their way toward us, even when we are not looking for them.”</p>
+<p>She purchased the book. Karim wrapped it carefully in brown paper, the way he wrapped all of his books, without tape, secured only by the precision of the fold. She paid him more than the book was worth, and he did not protest. They both understood that the transaction was not about currency.</p>
+<p>At the door, she turned back. “Why did you keep it?” she asked. “The book? You might have sold it forty years ago. You might have forgotten it. Why did you keep it?”</p>
+<p>Karim considered this. He thought about all the small acts of preservation that a human life contained, the books one kept not because one would reread them but because they had occupied a significant moment. He thought about memory, and about the imperfection of memory, and about how that imperfection was not a failure but a kind of truth.</p>
+<p>“Because,” he said finally, “I thought that someday, someone might come looking for it.”</p>
+<hr>
+<p><em>Sophie Lefort teaches literature at the Université de Toulouse and writes reviews of forgotten novels for several French literary journals. She has lived in Morocco for two years and is currently working on a collection of interconnected short stories set in the bookshops and libraries of North African cities. She is fascinated by the history of small presses and the lives of books that have fallen out of print.</em></p>
+
+
+
+ ]]></description>
+  <category>Fiction</category>
+  <category>Short Story</category>
+  <guid>https://rabat-review-of-books.github.io/posts/fiction/bookseller-of-rue-du-consul/</guid>
+  <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-bookseller/1200/800" medium="image"/>
+</item>
+<item>
+  <title>The Minor Archive</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/reviews/hamza-biography/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p><strong>Mohamed Hamza and the Failure of Arab Modernity: A Life, 1908–1978</strong> <em>by Fatima Alami</em> · Centre National du Livre · 512 pp · 350 DH</p>
+<p>Mohamed Hamza died in 1978 in a Rabat hospital, forgotten by nearly everyone who had once known him. His funeral was attended by a handful of friends, a few younger intellectuals who had read his essays, and a nephew who was surprised to learn that he had been a writer at all. By his death, his books—slender collections of essays published by minor presses in the 1940s and 1950s—were out of print. His name did not appear in standard histories of modern Arabic intellectual life. The Archive of Moroccan Thought, if it existed, had misplaced him entirely.</p>
+<p>Fatima Alami, a historian at Mohammed V University, has spent a decade retrieving Hamza from this obscurity. The result is <em>Mohamed Hamza and the Failure of Arab Modernity</em>, a biography of a man who never held high office, published no major book, and exercised influence only in certain literary and political circles, and then only briefly. Yet Alami’s argument—that Hamza’s marginality, his failures, his intellectual irresolution are precisely what make him significant—is bold enough to be worth serious consideration.</p>
+<p>Who was Mohamed Hamza? Born in Fez in 1908 to a merchant family, educated in both religious schools and the secular French lycée, he belonged to that generation of North African intellectuals stranded between worlds. He studied in Paris in the 1930s, where he encountered French intellectual culture and European politics in the shadow of fascism. He returned to Morocco ambivalent about everything: French civilization, Arab nationalism, Islam, secular modernism, traditional learning. This ambivalence, which might have been a source of paralysis for a less thoughtful man, became the animating tension of his intellectual life.</p>
+<p>Hamza’s essays (collected in 1950 as <em>Writings on a Time of Doubt</em>) dealt obsessively with the question of what an Arab intellectual should believe in an age of imperial pressure, nationalist fervor, and spiritual uncertainty. He was suspicious of nationalism, having seen how it functioned in France. He was equally suspicious of the appeals to Islamic revival, which he feared would provide cover for reaction. He admired aspects of Western culture—the humanistic tradition, the philosophical rigor—while despising colonialism. Alami quotes him as writing: “We are asked to choose between Egypt and Greece, between the Qur’an and Plato, as if the human mind had not the capacity to hold both.”</p>
+<p>This refusal to choose, which reads almost as intellectual cowardice to readers accustomed to the forceful declarations of more confident intellectuals, was for Hamza a necessity. Alami argues that Hamza intuited something that became clearer only after: that the grand narratives of Arab nationalism and Islamic revival were insufficient to the complexity of modern experience, and that the honest intellectual response was not to pretend to certainties one did not possess.</p>
+<p>The biography itself is a model of research. Alami has tracked down letters (often published only in fragments in journals that no longer exist), interviewed surviving friends and family, obtained access to Hamza’s personal papers (now scattered among several archives), and reconstructed his movements through war, nationalism, and eventual quiet retirement. The book’s middle section, on his activities during the Second World War and the Moroccan independence struggle, is particularly valuable. Alami shows Hamza as neither quite aligned with the French nor fully committed to the nationalist cause, attempting to articulate a position that might transcend both.</p>
+<p>What Alami demonstrates with increasing clarity is that Hamza’s “failure”—his inability to publish a major work, to achieve public prominence, to offer a coherent program—was not incidental to his significance but central to it. His significance lies precisely in his refusal of the intellectual gestures that his era demanded. Where others offered either a recovered Islamic tradition or a modernized secular Arab state, Hamza offered only careful doubt and the intellectual acknowledgment that such binaries were insufficient.</p>
+<p>Yet there are problems with Alami’s interpretation, and indeed with Alami’s very enterprise. The first is one of perspective: we see Hamza only through the archive, through the traces he left. A man who valued privacy and who published little leaves few hooks on which biography can hang fully realized interpretation. At times, Alami seems to be inferring Hamza’s significance from his silence, rather than proving it. The suggestion that an intellectual’s failure to succeed publicly might be evidence of his honesty is appealing to academic readers of a certain disposition but is not self-evident.</p>
+<p>More troublingly, Alami’s emphasis on Hamza’s ambivalence and doubt risks aestheticizing his historical marginality. Hamza did not choose to be obscure; he found himself increasingly isolated as political events moved beyond the range of his careful skepticism. By 1950, the postwar world had demanded choices that his intellectual method could not accommodate. Nationalism, for better and worse, swept across the Arab world. Hamza’s caution seemed outdated, and it is not clear to what extent his removal from public discourse was an intellectual virtue rather than a historical accident.</p>
+<p>Still, Alami has performed a genuine service in resurrecting Hamza. Whether one agrees with her evaluation of his significance, the book itself is exemplary: meticulous in research, scrupulous in its treatment of uncertain evidence, and modest in its claims. She has given us a figure through which to think about the possibilities available to Arab intellectuals in the twentieth century, and the costs of remaining unconvinced by the prevailing certainties of one’s moment. That Hamza paid the price of such unconviction with obscurity is not, perhaps, a reason to forget him, but rather one more thing his life has to tell us.</p>
+<hr>
+<p><em>Rachid El-Khadir is a historian and critic whose work focuses on twentieth-century Arab intellectual history. He teaches at the University of Casablanca and is the author of “The Politics of Culture: Arab Intellectuals and the French Connection.” He is currently completing a study of minor intellectual figures and the formation of modern Arab thought.</em></p>
+
+
+
+ ]]></description>
+  <category>Reviews</category>
+  <category>Biography</category>
+  <guid>https://rabat-review-of-books.github.io/posts/reviews/hamza-biography/</guid>
+  <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-biography/1200/800" medium="image"/>
+</item>
+<item>
+  <title>Kafka in Arabic</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/essays/kafka-arabic/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<blockquote class="blockquote">
+<p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</em></p>
+</blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel mauris a nunc eleifend accumsan. Sed porttitor, ante non malesuada pulvinar, lacus lacus ornare lorem, id dignissim velit mauris eu est. Praesent id elit quis mi vestibulum malesuada. Cras interdum, velit vel scelerisque convallis, magna lorem tincidunt libero, vitae placerat elit erat ac purus. Mauris ut eros vitae nunc sodales efficitur.</p>
+<p>Sed euismod, sapien quis dapibus condimentum, eros urna consectetur nulla, at luctus nisi nunc sed leo. Quisque vitae augue nec libero iaculis facilisis. Donec sed nibh vitae metus volutpat facilisis. Integer tristique, magna non congue malesuada, ligula nulla porta enim, eu luctus urna dolor non mauris. Vivamus sit amet commodo arcu.</p>
+<section id="sed-ut-perspiciatis" class="level2">
+<h2 class="anchored" data-anchor-id="sed-ut-perspiciatis">Sed ut perspiciatis</h2>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+<blockquote class="blockquote">
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+</blockquote>
+<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.</p>
+</section>
+<section id="at-vero-eos" class="level2">
+<h2 class="anchored" data-anchor-id="at-vero-eos">At vero eos</h2>
+<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident. Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>
+<p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus. Omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet.</p>
+<hr>
+<p><em>This is placeholder text (lorem ipsum). Replace with your essay when ready.</em></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Essays</category>
+  <category>Translation</category>
+  <category>Literature</category>
+  <guid>https://rabat-review-of-books.github.io/posts/essays/kafka-arabic/</guid>
+  <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-kafka-arabic/1200/800" medium="image"/>
+</item>
+<item>
+  <title>The Turning Tide</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/reviews/atlantic-maghreb/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p><strong>Atlantic Maghreb: Morocco and the Sea, 1400–1900</strong> <em>by Hassan Boumediene</em> · Oxford University Press · 548 pp · $85</p>
+<p>The historiography of North Africa has long suffered from what we might call a landlocked imagination. Scholars have treated the Maghreb as a terrestrial region—a desert hinterland, an interior backwater—peripheral to the main currents of Mediterranean and Atlantic history. The sea, in this view, belonged to Europeans: to Portuguese conquistadors, Spanish galleys, French colonizers. Morocco was something to be crossed, not something that crossed. Hassan Boumediene’s formidable new study, <em>Atlantic Maghreb</em>, seeks to invert this perspective entirely. What emerges is a more complex and less teleological portrait of a society that was not merely the victim of oceanic history but an active participant in it, with its own maritime ambitions, technologies, and networks.</p>
+<p>Boumediene, a historian at the Sorbonne, has worked through extraordinary archives: Portuguese naval records, Moroccan court documents, the logs of privateers, harbor records from Salé and Essaouira, letters of European merchants, and the accounts of diplomats and travelers. His central claim is that from the fifteenth century onward, Morocco was engaged in a sophisticated competition for Atlantic and Mediterranean dominion—a competition it both won and lost, depending on the era and the measure. Far from being a passive object of European expansion, Moroccan sultanates actively built fleets, sponsored privateering expeditions, and negotiated complex trade agreements from positions of considerable strength.</p>
+<p>The book’s opening chapters establish this baseline. Boumediene shows how the Moroccan maritime expansion of the 1500s, often forgotten, was comparable in scope and ambition to the early stages of European maritime empires. The Saadians maintained a significant naval presence, patronized corsairs, and even conducted campaigns along the African coast. These were not desperate acts of a declining power but conscious strategies of territorial control and economic gain. A Moroccan ambassador in Rome complained, in effect, that Europeans treated Morocco as if it were not a proper maritime nation—a remark that reveals the consciousness of their own standing that Moroccan elites possessed.</p>
+<p>Where Boumediene’s argument grows more provocative is in his treatment of the seventeenth and eighteenth centuries. He argues against the standard narrative of decline and passivity. Instead, he documents the rise of the Sallee Rovers, the sophisticated naval policies of the Alaouite dynasty, and the integration of Moroccan merchants into trans-Atlantic commerce. The privateering economy, in particular, receives sustained and sympathetic attention. Boumediene does not ask us to admire corsairs, but he does ask us to recognize them as rational economic agents operating in an era when the distinction between privateering and warfare was negligible, and when maritime raiding was a central feature of European commerce as well.</p>
+<p>The book’s middle sections trace the establishment of European trading posts—Mogador, Tangier, Ceuta—and Boumediene’s analysis here is particularly valuable. He shows how these enclaves were not simply imposed on a helpless hinterland, but were often the result of negotiation, profitable to Moroccan merchants and rulers, and integrated into existing Moroccan commercial networks. This is not to deny European domination but to complicate it—to show that Moroccan elites were not passive victims but strategic actors, making rational choices about what degree of European presence suited their interests.</p>
+<p>The nineteenth century brings what Boumediene calls “the reversal.” The gradual militarization of European navies, the rise of industrial capitalism, and the decline of Moroccan privateering combined to shift the balance decisively. But Boumediene’s account of this shift is notably unsentimental. He does not dramatize Morocco’s loss as a tragedy, nor does he suggest that resistance was ever truly possible. Instead, he traces the pragmatic choices of rulers confronting a changing world, the complex negotiations with European powers, and the internal Moroccan debates about how to respond to naval inferiority.</p>
+<p>The book is substantially made, with useful maps, tables of ship inventories, and a comprehensive bibliography. The prose is clear, though occasionally Boumediene’s argument becomes tangled in complexity—there are moments where one wishes for more direct statement and less qualification. His heavy reliance on European source materials also means that we hear more from European observers of Moroccan maritime activity than from Moroccan voices themselves. This is partly unavoidable but worth noting.</p>
+<p>More fundamentally, one might ask whether Boumediene has overcorrected for the terrestrial bias of previous historians. To insist on Moroccan agency and sophistication is necessary; but at times the book seems to attribute too much strategic intentionality to decisions that may have been reactive or circumstantial. The privateering economy, for instance, may have been less a deliberate state policy than an adaptation to economic necessity. Boumediene sometimes reads choices as strategies when they might have been improvisations.</p>
+<p>Yet these quibbles are minor against the book’s considerable achievement. <em>Atlantic Maghreb</em> will be essential reading for historians of the Mediterranean and the Atlantic, and it should provoke broader reconsideration of how we narrate the global early modern period. Boumediene has returned Morocco to the map—not as a passive shore but as an actor in the making of oceanic modernity. That alone makes this an important book.</p>
+<hr>
+<p><em>Amina El-Mansouri is a historian of the Mediterranean and the author of “Merchants and Ministers: Trade and Diplomacy in the Eighteenth-Century Maghreb.” She teaches at the University of Rabat and is completing a study of female merchants in Atlantic port cities.</em></p>
+
+
+
+ ]]></description>
+  <category>Reviews</category>
+  <category>History</category>
+  <guid>https://rabat-review-of-books.github.io/posts/reviews/atlantic-maghreb/</guid>
+  <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-atlantic-maghreb/1200/800" medium="image"/>
+</item>
+<item>
+  <title>The Ghosts of Fez</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/essays/ghosts-fez/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<blockquote class="blockquote">
+<p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</em></p>
+</blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel mauris a nunc eleifend accumsan. Sed porttitor, ante non malesuada pulvinar, lacus lacus ornare lorem, id dignissim velit mauris eu est. Praesent id elit quis mi vestibulum malesuada. Cras interdum, velit vel scelerisque convallis, magna lorem tincidunt libero, vitae placerat elit erat ac purus. Mauris ut eros vitae nunc sodales efficitur.</p>
+<p>Sed euismod, sapien quis dapibus condimentum, eros urna consectetur nulla, at luctus nisi nunc sed leo. Quisque vitae augue nec libero iaculis facilisis. Donec sed nibh vitae metus volutpat facilisis. Integer tristique, magna non congue malesuada, ligula nulla porta enim, eu luctus urna dolor non mauris. Vivamus sit amet commodo arcu.</p>
+<section id="sed-ut-perspiciatis" class="level2">
+<h2 class="anchored" data-anchor-id="sed-ut-perspiciatis">Sed ut perspiciatis</h2>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+<blockquote class="blockquote">
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+</blockquote>
+<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.</p>
+</section>
+<section id="at-vero-eos" class="level2">
+<h2 class="anchored" data-anchor-id="at-vero-eos">At vero eos</h2>
+<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident. Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>
+<p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus. Omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet.</p>
+<hr>
+<p><em>This is placeholder text (lorem ipsum). Replace with your essay when ready.</em></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Essays</category>
+  <category>Travel</category>
+  <category>Morocco</category>
+  <guid>https://rabat-review-of-books.github.io/posts/essays/ghosts-fez/</guid>
+  <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-fez-medina/1200/800" medium="image"/>
+</item>
+<item>
+  <title>Tangier, 1956</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/fiction/tangier-1956/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p>The cables from the Residency had become almost lyrical in their desperation. “Morocco and Spain to assume joint control of the Zone as of August 1st,” the last one read. “Status quo ante to be maintained until handover is complete. All personnel to remain at posts. Maintain diplomatic posture. Do not engage in speculation.” As if speculation were something one could refrain from, like cigarettes or pastis. Everyone in Tangier was speculating. The city had the fever of a place watching itself disappear.</p>
+<p>David Ashworth had been at the British Legation for twelve years—long enough to have become something other than English, though not quite Moroccan either. He existed in the particular limbo of career diplomats, unable to fully inhabit any place because his presence was always contingent, always subject to transfer. The International Zone had suited him precisely because it was, by definition, provisional. A zone without a proper country. A man without a proper home could pass unremarked in such a place.</p>
+<p>The legation sat on Rue Belgique, a building of colonial proportions with high ceilings and insufficient windows, always dim and vaguely cool regardless of what the weather was doing outside. The view from his office was of the strait—that thin line of water that had, for twelve years, seemed to hold the city in a kind of suspension. On one side was Spain, close enough to see. On the other was French Morocco, already transformed by the handover in March. Here, in this small wedge of land, time had moved according to its own logic.</p>
+<p>He was reading—or pretending to read—the morning dispatches when the message came through that Foreign Minister Bekkai would be visiting the legation at two o’clock. A courtesy call, it was said. A gesture toward continuity. What it actually meant was that the Moroccan government was preparing to take formal possession of the city in a matter of days, and they wanted the European powers to acknowledge this gracefully, without dramatics.</p>
+<p>The morning was spent in preparation. The ambassador, Sir Edmund Firth, who had survived thirty years in the service by the simple expedient of agreeing with whatever seemed likely to happen next, had decided that the legation should present itself at its most ceremonial. Tea would be served. Cakes from Madame Arnaud’s patisserie would be arranged on the good china. The flags—there were three of them in the legation: the Union Jack, the flag of the International Zone, and a flag of no particular nation that seemed to exist solely for confused moments—would be hung with a thoughtfulness that suggested deference without submission.</p>
+<p>David found himself, an hour before the visit, walking through the old medina. He had done this often, though less frequently in recent months. Something had shifted in Tangier. The Europeans had begun to leave—not from any urgent threat, but from a kind of diffuse understanding that they no longer belonged here. The zone was dissolving, its fictional status becoming increasingly difficult to maintain. One by one, the embassies were packing up their libraries and their protocols, their accumulated paper records of a miniature nation that existed, finally, only in the agreement of its signatories.</p>
+<p>The medina was unchanged, physically. The same narrow streets, the same smell of spice and urine and cooking oil, the same ancient flow of merchants and pilgrims and the lost. But there was something different in the air—a kind of forward momentum. The Moroccan flag was appearing in windows now. Youth groups were printing manifestos. The whole territory was tilting, slowly but perceptibly, toward a direction it had been heading all along.</p>
+<p>He stopped at a café near the Kasbah where he sometimes took mint tea. The proprietor, Abdelkader, greeted him with a warmth that seemed slightly diminished from its previous quantity.</p>
+<p>“You are well, monsieur?”</p>
+<p>“Well enough, Abdelkader. Things change quickly now.”</p>
+<p>“Yes.” Abdelkader smiled, setting the glass of mint on the table. “But perhaps not so quickly as we expected. The French thought it would happen in months. The Spanish thought it might not happen at all. Only the Moroccans knew exactly when, because they had been planning it since 1912.” He paused, seeming to consider whether he should continue. “The Sultan understands time differently than Europeans. He can wait. You see? Now he does not have to wait anymore.”</p>
+<p>David drank the tea slowly. It was excessively hot, sweet enough to coat his throat. Around him, the café’s other patrons were absorbed in their conversations, their games of dominoes, their newspapers in Arabic and French and Spanish. A boy sat near the entrance selling flowers—jasmine, by the smell of them. No one was selling newspapers of the city itself anymore. Tangier’s own press had folded three months ago when it became clear that the news would soon be made elsewhere.</p>
+<p>At one o’clock, he returned to the legation and helped arrange the chairs and the cups. Sir Edmund fussed over the placement of the cakes with an intensity that seemed almost painful. The man had been in Morocco for nearly a decade and had always conducted himself as if the machinery of British diplomacy was, somehow, delicate and in danger of breaking. Perhaps it was. Perhaps all institutions were fragile when looked at from certain angles.</p>
+<p>Bekkai arrived at precisely two o’clock, accompanied by two aides and an air of practiced courtesy. He was a small man with precise manners, educated in France, educated in the law. He had navigated the handover with a kind of diplomatic grace that David admired without quite being able to articulate why. Perhaps it was simply that Bekkai seemed to know what was true and to accept it, rather than to construct elaborate fictions around the facts on the ground.</p>
+<p>The conversation was, as anticipated, mostly formality. There were assurances regarding property. There were reassurances about the treatment of foreign nationals. There were statements about Morocco’s commitment to international law and its desire to maintain peaceful relations with European powers. It was a performance, but a competent one. Both sides understood the script.</p>
+<p>Only near the end, as Bekkai was preparing to leave, did something like genuine communication occur. He had paused at the door, looking out through the legation’s hall toward the street beyond, toward the city itself.</p>
+<p>“You have been here a long time, Mr.&nbsp;Ashworth,” Bekkai said, though David had not been formally introduced.</p>
+<p>“Twelve years, sir.”</p>
+<p>“Then you have seen something remarkable. A place that existed only because no one could agree on how to divide it. And now that we have all agreed, the place will become something else entirely. It is like a mathematical proof, yes? The conclusion was always there. We simply had to work through the steps.” He turned back, and his expression was almost kind. “You will stay, or will you go?”</p>
+<p>“I haven’t yet decided,” David said, truthfully.</p>
+<p>“You should decide soon,” Bekkai said. “The future does not wait for men to finish being nostalgic for the past.”</p>
+<p>That night, alone in his office, David stood at the window and looked out at the strait. The lights of Spanish Morocco were visible across the water, blurred slightly by heat and distance. Tomorrow, the city would begin its formal transition. In a month, perhaps less, Tangier would be Moroccan—entirely, unambiguously Moroccan. The zone would cease to exist. The fiction would conclude.</p>
+<p>He thought of Bekkai’s question: would he stay or would he go? The answer was becoming clear to him, not as a choice exactly, but as something more like a recognition. He had loved this city because it was uncertain. But uncertainty, he understood now, was not a permanent state. It was a transition, and transitions had endpoints. One had to decide, sooner or later, what one was transitioning toward, and what one was transitioning away from.</p>
+<p>He pulled out a sheet of paper and began to write. A resignation letter. Clear, brief, without sentimentality. He would leave at the end of the month. He would request a posting, or he would leave the service altogether. He had not yet decided. But he would decide soon, as Bekkai had suggested. The future, it seemed, did not wait.</p>
+<hr>
+<p><em>Marcus Whitmore is a historian and novelist living in London. He has published three novels of historical fiction, including “The Palimpsest of Empire” (shortlisted for the Booker Prize in 2019). He has spent considerable time researching the history of North African mandates and has traveled extensively in Morocco, Tunisia, and Algeria. “Tangier, 1956” is drawn from a larger manuscript currently in progress.</em></p>
+
+
+
+ ]]></description>
+  <category>Fiction</category>
+  <category>Novel Excerpt</category>
+  <guid>https://rabat-review-of-books.github.io/posts/fiction/tangier-1956/</guid>
+  <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-tangier-1956/1200/800" medium="image"/>
+</item>
+<item>
+  <title>Ghazals for an Absent Friend</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/poetry/ghazals-absent-friend/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p>The ghazal—that ancient Arabic form of connected, autonomous couplets—has long been a vessel for intimate address across unbridgeable distances. Karim Bendaoud, who spent a decade in Marrakech before relocating to Brussels, returns to this form to speak to a childhood friend from whom he has been geographically and circumstantially separated. What emerges is not so much nostalgia as a kind of radiant faithfulness: the beloved absence that paradoxically confirms connection. Bendaoud employs the classical ghazal’s capacity to collapse time and space while maintaining its formally broken form.</p>
+<section id="ghazal-the-letter-never-sent" class="level3">
+<h3 class="anchored" data-anchor-id="ghazal-the-letter-never-sent">Ghazal: The Letter Never Sent</h3>
+<div class="rrb-poem">
+<p>Dear friend, I am writing to you from a city where no one knows your name. The streets here smell of pine, not cedar. Still I find you everywhere.</p>
+<p>The café where we first read that terrible translation of Rumi— it was destroyed in a flood. The floodwaters carried away your bookmark.</p>
+<p>I did not save you. I could not. Each day I fail you differently. This too is a form of faithfulness, I think. Though you are not here to think it.</p>
+<p>The olive seller on the avenue—he reminds me of your uncle. I buy from him and do not explain. What is there to say to a stranger?</p>
+<p>You wrote that solitude is a river. I wrote back that you were wrong. Now I live beside one, and every day the water says your name.</p>
+<p>The gardener here grows roses the color of old arguments. I do not ask her how. Some things should remain unexplained.</p>
+<p>When winter comes, the city whites itself out like a photograph. All the faces I did not memorize become suddenly precious.</p>
+<p>Dear friend, I am writing to you in pencil so I can erase it. Some forms of honesty require a way out.</p>
+</div>
+</section>
+<section id="ghazal-inheritance" class="level3">
+<h3 class="anchored" data-anchor-id="ghazal-inheritance">Ghazal: Inheritance</h3>
+<div class="rrb-poem">
+<p>You left me the blue cup. It arrived wrapped in newspaper from Fez. I have not drunk from it. This is how I know you are still alive.</p>
+<p>My mother says this is foolishness. She drinks from every surface. But she did not know you when you were young and could be known.</p>
+<p>The cup holds light differently than other cups. You knew this when you left it. You knew I would spend years learning what you already understood.</p>
+<p>There is a spider living in the cupboard where I keep it. I think you would approve. You always said: let things find their own shelter.</p>
+<p>Last month I dreamed you were in the market, selling figs. When I approached you turned away. In the dream I understood this was correct.</p>
+<p>The blue cup sits in darkness. Above it, my reflection in the cupboard door. We are not the same person anymore. The cup remembers both of us.</p>
+<p>You cannot write. I cannot ask. The spider has built a new room in the handle. This is how distance becomes domestic. This is how love persists.</p>
+<p>I will not drink from the cup. But sometimes I hold it to the window. The light that passes through it lands on my palm like a small, impossible hand.</p>
+</div>
+<hr>
+<p><em>Karim Bendaoud teaches Arabic poetry at the Vrije Universiteit Amsterdam. He has published three collections in French and Arabic, and his work has appeared in </em>Boundary 2<em>, </em>Asymptote<em>, and various anthologies. He is currently working on a manuscript about diaspora and classical form.</em></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Poetry</category>
+  <guid>https://rabat-review-of-books.github.io/posts/poetry/ghazals-absent-friend/</guid>
+  <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-ghazals/1200/800" medium="image"/>
+</item>
+<item>
+  <title>Against the Algorithm</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/essays/against-algorithm/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<blockquote class="blockquote">
+<p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</em></p>
+</blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel mauris a nunc eleifend accumsan. Sed porttitor, ante non malesuada pulvinar, lacus lacus ornare lorem, id dignissim velit mauris eu est. Praesent id elit quis mi vestibulum malesuada. Cras interdum, velit vel scelerisque convallis, magna lorem tincidunt libero, vitae placerat elit erat ac purus. Mauris ut eros vitae nunc sodales efficitur.</p>
+<p>Sed euismod, sapien quis dapibus condimentum, eros urna consectetur nulla, at luctus nisi nunc sed leo. Quisque vitae augue nec libero iaculis facilisis. Donec sed nibh vitae metus volutpat facilisis. Integer tristique, magna non congue malesuada, ligula nulla porta enim, eu luctus urna dolor non mauris. Vivamus sit amet commodo arcu.</p>
+<section id="sed-ut-perspiciatis" class="level2">
+<h2 class="anchored" data-anchor-id="sed-ut-perspiciatis">Sed ut perspiciatis</h2>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+<blockquote class="blockquote">
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+</blockquote>
+<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.</p>
+</section>
+<section id="at-vero-eos" class="level2">
+<h2 class="anchored" data-anchor-id="at-vero-eos">At vero eos</h2>
+<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident. Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>
+<p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus. Omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet.</p>
+<hr>
+<p><em>This is placeholder text (lorem ipsum). Replace with your essay when ready.</em></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Essays</category>
+  <category>Criticism</category>
+  <category>Digital Culture</category>
+  <guid>https://rabat-review-of-books.github.io/posts/essays/against-algorithm/</guid>
+  <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-against-algorithm/1200/800" medium="image"/>
+</item>
+<item>
+  <title>The Sweetness Examined</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/reviews/apricot-year/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p><strong>Apricot Year</strong> <em>by Mona Khalil</em> · Dar Saqi · 96 pp · £14.99</p>
+<p>Mona Khalil’s debut collection, <em>Apricot Year</em>, opens with an image of a woman sitting on a balcony in Beirut, watching a neighbor hang laundry. This is not the Lebanon of war photography or geopolitical analysis. It is the Lebanon of small gestures, domestic endurance, the minute adjustments of daily life in a place that has learned to accommodate ruin as a permanent feature of the landscape. The poem’s speaker observes without sentimentality—the colors of the clothespins, the mechanical repetition of the hanging—and in this observation discovers not meaning but a kind of temporary grace. It is an exemplary opening for a collection that treats the ordinary as a territory worth sustained attention.</p>
+<p>Khalil, who studied literature at the American University of Beirut and has worked as a translator, writes in English, though her ear carries the cadences and presences of Arabic. The poems move between personal memory, political awareness, and linguistic play, without ever quite settling into any single mode. She seems allergic to the consolations of either personal narrative or political statement, and this resistance is, in itself, a form of integrity.</p>
+<p>Many of the early poems concern families, particularly mothers and grandmothers. There is a poem about her grandmother’s hands, their competence and their weakness; another about a mother preparing food for a daughter leaving the country. Khalil approaches these scenes with anthropological precision, as if trying to understand what domestic routine might mean in a society where security is provisional and departure is always possible. In one poem, the simple act of preparing to travel becomes a meditation on what can be carried and what must be left behind—both materially and emotionally. The poem works through specific details: the folding of a dress, the arrangement of medications, the question of whether to bring photographs. What could have been maudlin instead becomes architectural, precise.</p>
+<p>Yet there is also something verging on the abstract in Khalil’s method. She often withholds narrative clarity. A poem might begin in a kitchen and end in a library without explaining the transition. A memory might be interrupted by something that seems like philosophy. This can be disorientating—the reader sometimes wishes for more conventional continuity—but it also suggests Khalil’s conviction that consciousness itself is not linear, that the mind moves between registers without apology.</p>
+<p>The title poem, which appears roughly in the center of the collection, is perhaps the strongest. It moves through the apricot season in Lebanon, using this fruit as an occasion to meditate on time, ripeness, and the proper moment. There is a wonderful stanza about the brief window in which apricots are ripe enough to eat—how quickly they pass from unripe to overripe, how little time is allowed for perfection. The poem resists the obvious move (a metaphor for youth, for fleeting happiness), but neither does it reject it entirely. Instead, it hovers in that ambiguity, treating the apricot with respect for its own nature while permitting it to carry symbolic weight. The opening line is nearly untranslatable in its delicacy.</p>
+<p>Where the collection falters is in its second half. As the poems multiply, some lose the precision that characterizes the opening section. A few poems seem to strain for difficulty without earning it. In one sequence about language and translation, the poems become somewhat abstract, concerned with the gaps between words, and while the intellectual project is clear, the emotional engagement flags. The question of what to do with the abstractions of language, how to make them matter to a reader who is not already invested in such games, remains unresolved.</p>
+<p>There are also moments where Khalil’s withheld narrative clarity becomes merely obscure. In several pieces, the reader wants more context—not dramatic context, necessarily, but some steadier ground from which the disjunctions might make sense. It is a delicate balance, and Khalil does not always find it.</p>
+<p>Yet the collection is worth reading for its refusals as much as for its affirmations. Khalil refuses sentimentality. She refuses political statement. She refuses, for the most part, the therapeutic narrative in which poetry emerges from trauma and illuminates it. Instead, she offers something more austere and harder to name: the representation of consciousness moving through a difficult world, neither despairing nor hoping, but registering what it encounters with attention and linguistic care.</p>
+<p>Her lines often turn on a single word or image: a color, a texture, the weight of something held. She does not often traffic in the grand gestures of contemporary lyric poetry. What she offers is smaller, quieter, and for readers patient enough to meet it on its own terms, more sustaining than grandeur often is.</p>
+<p><em>Apricot Year</em> announces a poet of real promise. What will be interesting to see is whether Khalil can sustain this level of attention across a longer work, and whether she can find ways to deepen the emotional reach without sacrificing the linguistic precision that makes these poems worth reading at all.</p>
+<hr>
+<p><em>Michel Nasrallah is a poet, critic, and editor based in Beirut. He edits the literary journal </em>Souk* and is the author of three collections of poetry in Arabic and English. His essays on contemporary Arab poetry have appeared in <em>The Journal of Middle Eastern Literature</em> and <em>Boundary 2</em>.*</p>
+
+
+
+ ]]></description>
+  <category>Reviews</category>
+  <category>Poetry</category>
+  <guid>https://rabat-review-of-books.github.io/posts/reviews/apricot-year/</guid>
+  <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-apricot-year/1200/800" medium="image"/>
+</item>
+<item>
+  <title>Translations from the Arabic: Two Andalusian Fragments</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/poetry/andalusian-fragments/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p>The following two poems are original compositions by Amira Lahssen, conceived in the spirit and idiom of medieval Andalusian court poetry but written directly in English. They are not translations of historical texts, but rather original works that engage the aesthetic, philosophical, and formal preoccupations of the Andalusian tradition: the interplay of sensory precision and metaphysical longing, the mutability of power and beauty, the tension between the sacred and the erotic. Lahssen, whose research focuses on the crossroads of Arabic, Berber, and Iberian verse traditions, offers these as contemporary meditations on themes that haunted the poets of al-Andalus.</p>
+<section id="fragment-i-on-the-courtyard-fountain" class="level3">
+<h3 class="anchored" data-anchor-id="fragment-i-on-the-courtyard-fountain">Fragment I: On the Courtyard Fountain</h3>
+<div class="rrb-poem">
+<p>The fountain speaks in tongues. Each drop a syllable of cold devotion. The master who designed it has long dissolved into the earth he walked upon— his name erased, his tools distributed to his sons.</p>
+<p>But the water remembers. It curves in the same arc he commanded, turns the air to gleaming, sends each prayer upward to the inattentive heavens.</p>
+<p>The wife of the governor—she sits here at dusk listening not to the water’s voice but to the silence that surrounds it, vast as an ocean. The palace will burn. The empire will fracture. Yet this fountain will flow on, indifferent, perfect, beautiful as only the abandoned can be beautiful.</p>
+</div>
+</section>
+<section id="fragment-ii-the-scribes-lament" class="level3">
+<h3 class="anchored" data-anchor-id="fragment-ii-the-scribes-lament">Fragment II: The Scribe’s Lament</h3>
+<div class="rrb-poem">
+<p>I have copied seventeen verses today. The calligrapher’s hand is a bird that must obey the falconer, even as it flies.</p>
+<p>The poem I inscribed was written by a man now dead, written of a beloved now dead, written in a language growing thin as parchment left too long in sun.</p>
+<p>My fingers are stained with the colors of extinct empires. Gold leaf clings to my palm—the gold of ransomed kingdoms, the gold of merchants whose ships have sunk, the gold of saints who learned too late that holiness and hunger occupy the same body.</p>
+<p>This afternoon a visitor asked if I believed in what I wrote. I dipped my brush in indigo— the blue of distance, the blue of eyes I will not see again— and did not answer.</p>
+<p>What is belief but the refusal to stop? What is prayer but the continuation of the hand?</p>
+</div>
+<hr>
+<p><em>Amira Lahssen is a scholar and poet based in Tangier. She holds a doctorate in Medieval Arabic Literature from the University of Granada and has published work on the aesthetic exchanges between Christian and Islamic poetic traditions in medieval Iberia. Her essays appear in </em>Journal of Medieval Islamic Poetry* and <em>Mediterranean Review</em>. This is her first publication of original poetry in English.*</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Poetry</category>
+  <guid>https://rabat-review-of-books.github.io/posts/poetry/andalusian-fragments/</guid>
+  <pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-andalusian/1200/800" medium="image"/>
+</item>
+<item>
+  <title>The Returning Tide</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/essays/returning-tide/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<blockquote class="blockquote">
+<p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</em></p>
+</blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel mauris a nunc eleifend accumsan. Sed porttitor, ante non malesuada pulvinar, lacus lacus ornare lorem, id dignissim velit mauris eu est. Praesent id elit quis mi vestibulum malesuada. Cras interdum, velit vel scelerisque convallis, magna lorem tincidunt libero, vitae placerat elit erat ac purus. Mauris ut eros vitae nunc sodales efficitur.</p>
+<p>Sed euismod, sapien quis dapibus condimentum, eros urna consectetur nulla, at luctus nisi nunc sed leo. Quisque vitae augue nec libero iaculis facilisis. Donec sed nibh vitae metus volutpat facilisis. Integer tristique, magna non congue malesuada, ligula nulla porta enim, eu luctus urna dolor non mauris. Vivamus sit amet commodo arcu.</p>
+<section id="sed-ut-perspiciatis" class="level2">
+<h2 class="anchored" data-anchor-id="sed-ut-perspiciatis">Sed ut perspiciatis</h2>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
+<blockquote class="blockquote">
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+</blockquote>
+<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.</p>
+</section>
+<section id="at-vero-eos" class="level2">
+<h2 class="anchored" data-anchor-id="at-vero-eos">At vero eos</h2>
+<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident. Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>
+<p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus. Omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet.</p>
+<hr>
+<p><em>This is placeholder text (lorem ipsum). Replace with your essay when ready.</em></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Essays</category>
+  <category>Literature</category>
+  <category>Morocco</category>
+  <guid>https://rabat-review-of-books.github.io/posts/essays/returning-tide/</guid>
+  <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-returning-tide/1200/800" medium="image"/>
+</item>
+<item>
+  <title>The Apricot Trees of Meknès</title>
+  <dc:creator>Mehdi Khribch</dc:creator>
+  <link>https://rabat-review-of-books.github.io/posts/fiction/apricot-trees-of-meknes/</link>
+  <description><![CDATA[ 
+<div class="rrb-salmon-bar">
+  <div class="rrb-salmon-left">
+    <span><strong>Spring 2026</strong> · Vol. I · No. 2</span>
+    <span class="d-none d-md-inline">Rabat · Paris · London</span>
+  </div>
+  <div class="rrb-salmon-right">
+    <a href="../../../subscribe.html">Subscribe</a>
+    <a href="../../../about.html">About</a>
+    <span id="rrb-date"></span>
+  </div>
+</div>
+<script>
+  (function(){
+    var d = new Date();
+    var opts = {weekday:'long', year:'numeric', month:'long', day:'numeric'};
+    var el = document.getElementById('rrb-date');
+    if (el) el.textContent = d.toLocaleDateString('en-GB', opts);
+  })();
+</script>
+
+
+
+
+<p>The taxi driver had to ask twice for directions before Laila found the house. Forty years was a long time to be away from Meknès—long enough that the medina’s streets had shifted in her memory, though physically they remained unchanged, the same pale stone and shadowed archways, the same smell of olive oil and jasmine hanging above the narrow passages like an old prayer.</p>
+<p>The house itself was smaller than she remembered. That was always the case, wasn’t it? The proportions of childhood never survived into adulthood intact. What she had remembered as grand—the courtyard with its olive-green zellige, the fountain’s chatter—appeared now almost modest, though no less beautiful for it. Beautiful in the way of small, true things.</p>
+<p>Her mother had died in February. Laila had received word in Paris on a Tuesday morning, the sun falling through her kitchen window in a way that seemed profane given the news. She was seventy-three years old. She had three grown children, a position at the Sorbonne, a careful life that had been built incrementally, with French precision. Her mother had been eighty-nine, living alone in this house for more than fifteen years, ever since her father died. Their correspondence over that time had consisted of brief letters and, in recent years, telephone calls on Sunday evenings—pleasant, circumscribed conversations that avoided the larger subjects.</p>
+<p>Now Laila stood in the courtyard and felt the sun on her face. The medina was quieter than it used to be, the touristic life having migrated to the new city. She was grateful for this quietness.</p>
+<p>The house’s main feature was the garden—something that had been marginal in Laila’s childhood understanding of the place, and yet which appeared now to be its true purpose. Beyond the courtyard, through the small arched doorway, lay what must have been a third of an acre, walled on all sides by apricot trees. Her mother had filled the space between them with smaller plantings: fig, pomegranate, a single cherry tree that stood alone near the far wall like a work of deliberate art. There were herbs everywhere—rosemary, mint, thyme—and vegetables in raised beds arranged with mathematical precision. Everything was overgrown now. Everything had gone wild.</p>
+<p>“Madame, you are staying long?” The woman who had been caring for her mother appeared in the doorway, her face lined with a practical sort of sympathy. “The garden,” she said, glancing beyond Laila with a knowing expression. “Madame Bennani, she loved it very much.”</p>
+<p>Laila nodded. She realized suddenly that she barely knew anything about her mother’s life. Not the small details of it, anyway. Not the shape of her days.</p>
+<p>“Every morning,” the woman continued, “she would walk here before breakfast. Every morning, even in the heat of August. She had notebooks. Many, many notebooks.”</p>
+<p>That evening, Laila found them in the bedroom: thick exercise books with marble-patterned covers, the kind sold in schoolboy stalls. There were sixteen of them, stacked on a shelf above the bed. The handwriting was her mother’s—precise, elegant, the penmanship of someone from an era when handwriting was considered a form of integrity. The first notebook began in 1994, the year Laila’s father died. The last entry was dated three weeks before her mother’s death.</p>
+<p>She opened randomly to a page in the middle. “January 3rd. The apricot that blooms earliest this year is near the south wall—the one I planted the summer we brought Laila home from the hospital. It is three days ahead of schedule. The temperature is unusual. I wonder if Laila notices such changes in Paris, or if she moves through the seasons without attending to them.”</p>
+<p>Laila sat on the bed and wept. She wept not from sorrow exactly, but from the specific shame of living a life of abstraction while her mother had been here, measuring the slight progressions of seasons, writing them down in these careful, patient notebooks. Documenting something. Bearing witness.</p>
+<p>She spent the next week in the garden. She pruned the overgrown trees, pulling the apricot branches back toward their proper forms. She cleared the weeds from the herb beds and reset the vegetables. She read through the notebooks, slowly, beginning with the first one. Her mother had been a scientist of small things. She recorded temperatures, rainfall, the dates of first and last frosts. She noted which varieties produced fruit earliest, which insects visited the flowers, how the quality of apricots changed year to year, season to season. There were sketches of trees with annotations in the margins. There were recipes for jam written in the same careful hand, calculations about yields, thoughts about the garden’s future.</p>
+<p>In one entry from 1997, written in July: “I wonder what it would mean to give Laila something of this. But perhaps it is enough that it exists. Perhaps it is enough to plant something that others might harvest.”</p>
+<p>By the end of the week, the garden had returned to something like order. Laila had booked a leave from the university. She had made an offer on a small flat in the new city. She had called her youngest son and told him, without entirely explaining why, that she would be spending several months in Morocco.</p>
+<p>She bought a notebook identical to her mother’s and began to record her observations. She noted the exact moment each tree came into bloom, the angle of light at different hours, the names of birds she didn’t recognize and looked up in a guide. She wrote about the quality of the apricots as they ripened, the flavor changing subtly week by week as August progressed toward September. She wrote about the way silence sounded different here than in Paris, less like absence and more like presence—the silence of attention, of things growing.</p>
+<p>In the evenings, she sat beneath the cherry tree and read her mother’s notebooks. She made notes of her own about what her mother had been trying to understand. She was a scholar—it was what she did, what she knew. But this was different. This was not the analysis of texts but the reading of a life, and she found herself moved by her mother’s precision in such a small and peripheral thing, this careful notation of what endures.</p>
+<p>One evening in early September, Laila cut apricots from the south-wall tree—the one her mother had planted the summer of her birth—and made jam according to her mother’s recipe. The fruit was golden and perfect. As she stirred the pot, watching the liquid amber coalesce, she understood that her mother had been writing something more complex than observations. She had been composing a kind of love letter, addressed to the future, and to anyone who might come after and choose to read it.</p>
+<p>The jam set perfectly. Laila labeled the jars with dates and the tree’s location. She arranged them on a shelf in the kitchen, where they caught the light. She added a new notebook to the collection on the shelf above the bed. She was, after all, her mother’s daughter.</p>
+<hr>
+<p><em>Claire Messier is a lecturer in French literature at the University of Lyon. She has published scholarly articles on women’s epistolary traditions in nineteenth-century fiction, and is working on her first collection of short stories. She grew up in Aix-en-Provence and has spent the last two years renovating a house in the Rhône Valley.</em></p>
+
+
+
+ ]]></description>
+  <category>Fiction</category>
+  <category>Short Story</category>
+  <guid>https://rabat-review-of-books.github.io/posts/fiction/apricot-trees-of-meknes/</guid>
+  <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://picsum.photos/seed/rrb-meknes/1200/800" medium="image"/>
+</item>
+</channel>
+</rss>
