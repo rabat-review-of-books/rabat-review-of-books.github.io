@@ -1,6 +1,6 @@
 # Rabat Review of Books
 
-A literary magazine built with [Quarto](https://quarto.org), inspired by *The New Yorker*, the *London Review of Books*, and the *Financial Times*. Essays, reviews, fiction, and poetry — from Rabat, for the world.
+A literary magazine built with [Quarto](https://quarto.org), . Essays, reviews, fiction, and poetry — from Rabat, for the world.
 
 ## Structure
 
