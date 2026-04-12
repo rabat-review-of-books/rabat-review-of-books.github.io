@@ -2,7 +2,7 @@
 pagetitle: "Tinker, Tailor, Soldier, Empire"
 title: ""
 subtitle: ""
-description: "The fantasy of the competent institution has always been empire in a better suit. A view from the receiving end."
+description: ""
 author: ""
 date: "2026-04-12"
 image: James_Jesus_Angleton.png
@@ -34,7 +34,14 @@ toc: false
   font-size: 1.2rem;
   font-style: italic;
   color: #5a7a95;
+  margin-bottom: 0.6rem;
+}
+.essay-header .dek {
+  font-family: 'Spectral', Georgia, serif;
+  font-size: 1rem;
+  color: #5a7a95;
   margin-bottom: 1.2rem;
+  line-height: 1.5;
 }
 .essay-header .byline {
   font-family: 'Inter', sans-serif;
@@ -47,10 +54,10 @@ toc: false
   max-width: 620px;
   margin: 2rem auto 2.5rem;
   padding-left: 1.5rem;
-  border-left: 2px solid #d9cfb8;
+  border-left: 2px solid #1e5a8e;
   font-family: 'Spectral', Georgia, serif;
   font-style: italic;
-  color: #5a7a95;
+  color: #1e5a8e;
   font-size: 1.05rem;
   line-height: 1.6;
 }
@@ -168,6 +175,7 @@ toc: false
 <div class="essay-header">
   <h1>Tinker, Tailor, Soldier, Empire</h1>
   <div class="subtitle">On spymasters, gentlemen, and the violence they learned not to see.</div>
+  <div class="dek">The fantasy of the competent institution has always been empire in a better suit. A view from the receiving end.</div>
   <div class="byline">Mehdi Khribch · 12 April 2026</div>
 </div>
 
@@ -190,7 +198,7 @@ The scene encapsulates something the spy genre has circled for decades without a
 </div>
 
 <div class="essay-figure">
-  <img src="smiley-tinker.jpg" alt="Gary Oldman as George Smiley in Tinker Tailor Soldier Spy (2011)"/>
+  <img src="smiley-tinker.jpg" alt="Gary Oldman as George Smiley in Tinker Tailor Soldier Spy (2011)" style="max-width: 520px;"/>
   <div class="caption">Gary Oldman as George Smiley in Alfredson's <em>Tinker Tailor Soldier Spy</em> (2011). A man of almost geological patience, inhabiting rooms drained of colour.</div>
 </div>
 <hr class="essay-break"/>
