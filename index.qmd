@@ -9,6 +9,7 @@ anchor-sections: false
 <!-- ========== HEADLINE TICKER ========== -->
 <div class="rrb-ticker">
   <div class="rrb-ticker-inner">
+    <span>Lead Essay — Tinker, Tailor, Soldier, Empire</span>
     <span>New Essay — Kafka in Arabic</span>
     <span>From the Archive — On the Art of Rereading</span>
     <span>Spring 2026 Issue Now Online</span>
@@ -36,14 +37,14 @@ anchor-sections: false
 
 <!-- ========== HERO / LEAD ESSAY ========== -->
 <div class="rrb-hero">
-  <a href="posts/essays/returning-tide/index.html">
-    <img src="https://picsum.photos/seed/rrb-returning-tide/1400/780" alt="The Returning Tide" class="rrb-hero-img" loading="lazy"/>
+  <a href="posts/essays/tinker-tailor-soldier-empire/index.html">
+    <img src="https://picsum.photos/seed/rrb-angleton-portrait/1400/780" alt="Tinker, Tailor, Soldier, Empire" class="rrb-hero-img" loading="lazy"/>
   </a>
   <div class="rrb-hero-body">
-    <div class="rrb-hero-kicker">◆  Lead Essay  ·  Literature  ◆</div>
-    <h2 class="rrb-hero-title"><a href="posts/essays/returning-tide/index.html">The Returning Tide: On the Private Ritual of Rereading</a></h2>
-    <p class="rrb-hero-dek">Forty years on, the novels that once felt inexhaustible have quietly rearranged themselves around us. A meditation on the private ritual of rereading.</p>
-    <div class="rrb-hero-byline">By <span class="rrb-author">Mehdi Khribch</span> · 14 March 2026 · 12-minute read</div>
+    <div class="rrb-hero-kicker">◆  Lead Essay  ·  Empire  ·  Cold War  ◆</div>
+    <h2 class="rrb-hero-title"><a href="posts/essays/tinker-tailor-soldier-empire/index.html">Tinker, Tailor, Soldier, Empire</a></h2>
+    <p class="rrb-hero-dek">From Angleton's Yale to le Carré's Circus, from De Niro's Good Shepherd to Alfredson's grey London, the fantasy of the competent institution has always been empire in a better suit. A view from the receiving end.</p>
+    <div class="rrb-hero-byline">By <span class="rrb-author">Mehdi Khribch</span> · 12 April 2026 · 18-minute read</div>
   </div>
 </div>
 
@@ -90,9 +91,9 @@ anchor-sections: false
 <div class="rrb-pullquote">
   <div class="rrb-pullquote-eyebrow">◆  Quote of the Week  ◆</div>
   <blockquote>
-    A city is not the sum of its monuments. It is the residue of every sentence its inhabitants have refused to finish.
+    The file remains open. The mole was the institution itself.
   </blockquote>
-  <cite>— from <em>The Ghosts of Fez</em>, in this issue</cite>
+  <cite>— from <em>Tinker, Tailor, Soldier, Empire</em>, in this issue</cite>
 </div>
 
 <!-- ========== REVIEWS SECTION ========== -->
