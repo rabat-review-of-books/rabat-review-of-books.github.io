@@ -2,7 +2,7 @@
 pagetitle: "Tinker, Tailor, Soldier, Empire"
 title: ""
 subtitle: ""
-description: "Angleton, Philby, le Carré, and the long afterlife of the gentleman spy. An essay on counterintelligence, literary form, and the view from the receiving end of the Cold War."
+description: "The fantasy of the competent institution has always been empire in a better suit. A view from the receiving end."
 author: ""
 date: "2026-04-12"
 image: James_Jesus_Angleton.png
@@ -167,7 +167,7 @@ toc: false
 
 <div class="essay-header">
   <h1>Tinker, Tailor, Soldier, Empire</h1>
-  <div class="subtitle">The intelligence imagination, from Yale to the Circus, and the empire it could not see.</div>
+  <div class="subtitle">On spymasters, gentlemen, and the violence they learned not to see.</div>
   <div class="byline">Mehdi Khribch · 12 April 2026</div>
 </div>
 
@@ -179,9 +179,9 @@ toc: false
 <hr class="essay-break"/>
 ```
 
-In Robert De Niro's *The Good Shepherd* (2006), a film that traces the institutional origins of American intelligence through the biography of a single composite operative, there is a scene of clarifying brutality. Matt Damon's Edward Wilson, a senior CIA officer fashioned from the lives of Angleton, Richard Bissell, and the Yale men who built the Agency in their own image, sits across from a Mafia boss played by Joe Pesci. The question posed is ethnographic: what do your people have? The Italians have families. The Jews have memory. The Irish have grievance. Wilson, without pause, without emphasis, offers what is less a reply than a deed of title: we have the United States of America; the rest of you are just visiting. The statement is not dramatic. It is administrative. It is the sound of sovereignty explaining itself to those it merely tolerates.
+In Robert De Niro's *The Good Shepherd* (2006), a film that traces the institutional origins of American intelligence through the biography of a single composite operative, there is a scene of clarifying brutality. Matt Damon's Edward Wilson, a senior CIA officer fashioned from the lives of Angleton, Richard Bissell, and the Ivy League men who built the Agency in their own image, sits across from a Mafia boss played by Joe Pesci. The question posed is ethnographic: what do your people have? The Italians have families. The Jews have memory. The Irish have grievance. Wilson, without pause, without emphasis, offers what is less a reply than a deed of title: we have the United States of America; the rest of you are just visiting. The statement is not dramatic. It is administrative. It is the sound of sovereignty explaining itself to those it merely tolerates.
 
-The scene encapsulates something the spy genre has circled for decades without always naming directly. Not the mechanics of espionage but the social architecture that made espionage feel, to certain men, like a natural extension of their birthright. That the defence of civilisation should fall to well-bred Protestants educated at Yale seemed, to the generation that founded the Office of Strategic Services and its successor, not a proposition but a fact of nature. The Central Intelligence Agency was built, in its earliest years, as a gentleman's club with a licence to intervene anywhere on earth.
+The scene encapsulates something the spy genre has circled for decades without always naming directly. Not the mechanics of espionage but the social architecture that made espionage feel, to certain men, like a natural extension of their birthright. That the defence of civilisation should fall to well-bred Protestants from the Ivy League seemed, to the generation that founded the Office of Strategic Services and its successor, not a proposition but a fact of nature. The Central Intelligence Agency was built, in its earliest years, as a gentleman's club with a licence to intervene anywhere on earth.
 
 ```{=html}
 <div class="essay-figure">
@@ -196,9 +196,7 @@ The scene encapsulates something the spy genre has circled for decades without a
 <hr class="essay-break"/>
 ```
 
-## I. The Poet in the Labyrinth
-
-Among the men who made this architecture, James Jesus Angleton holds a singular, almost literary position. He is not simply a historical figure; he is, in the specific sense that Thomas Powers used the term, a phenomenon. Born in Boise in 1917, raised partly in Milan where his father ran the National Cash Register franchise, educated at Yale where he co-founded the literary journal *Furioso* and corresponded with Ezra Pound, T.S. Eliot, E.E. Cummings. He was admitted to the modernist inner circle before he was admitted to intelligence, and the sequence matters. Angleton imported into the CIA the habits of mind he had learned from the New Critics: Richards, Empson, the conviction that every text conceals a subtext, that ambiguity is not noise but signal, that the surface of things is a provocation to deeper reading.
+Among the men who made this architecture, James Jesus Angleton holds a singular, almost literary position. He is not simply a historical figure; he is, in the specific sense that Thomas Powers used the term, a phenomenon. Born in Boise in 1917, raised partly in Milan where his father ran the National Cash Register franchise, educated at an Ivy League university where he co-founded the literary journal *Furioso* and corresponded with Ezra Pound, T.S. Eliot, E.E. Cummings. He was admitted to the modernist inner circle before he was admitted to intelligence, and the sequence matters. Angleton imported into the CIA the habits of mind he had learned from the New Critics: Richards, Empson, the conviction that every text conceals a subtext, that ambiguity is not noise but signal, that the surface of things is a provocation to deeper reading.
 
 He ran the Agency's counterintelligence directorate from 1954 to 1975, and during those two decades he became the most feared, most respected, and ultimately most destructive figure in American intelligence. His obsession was totality: a unified theory of Soviet deception so comprehensive that it could explain any piece of evidence, including evidence that contradicted itself. The defector Anatoliy Golitsyn, who arrived in Washington in 1961, provided the seed; Angleton cultivated it into what the CIA would later call, in a classified internal study, "the Monster Plot," the belief that the KGB had orchestrated a vast programme of disinformation so subtle that every subsequent defector, every apparent split in the Communist bloc, every diplomatic thaw was itself part of the deception.
 
@@ -217,8 +215,6 @@ The brilliance of Powers's review in the *London Review of Books* lies in its id
 </div>
 <hr class="essay-break"/>
 ```
-
-## II. The Crack in the Mirror
 
 To understand Angleton, one must understand the betrayal that shaped him. Kim Philby, Harold Adrian Russell Philby, recruited by Soviet intelligence in 1934 while at Cambridge, risen through MI6 to its highest operational levels, stationed in Washington as liaison to the CIA where he and Angleton became close friends, drinking companions, confidants. Philby's defection to Moscow in 1963 did not merely damage Western intelligence. It shattered something more intimate: the assumption that one could read a man by his class, his education, his manner, and know with certainty which side he served.
 
@@ -239,8 +235,6 @@ This connects Philby, across decades and continents, to a longer arc that begins
 </div>
 <hr class="essay-break"/>
 ```
-
-## III. Le Carré's Unforgiving Eye
 
 John le Carré never forgave Philby. This is the biographical fact that underwrites the entire body of work. David Cornwell, who wrote under the name le Carré, had served in MI5 and MI6, stationed in Bonn and Hamburg during the years when the Wall went up and the Cold War acquired its permanent architecture. When Philby defected, Cornwell's network of agents in East Germany was blown. Real people, whose names le Carré carried for the rest of his life, were arrested, imprisoned, some killed. The betrayal was not abstract. It was intimate, personal, and it lodged in le Carré's fiction like shrapnel that could not be removed.
 
@@ -263,13 +257,11 @@ But le Carré's true subject was never espionage. It was England, the ethical di
 <hr class="essay-break"/>
 ```
 
-## IV. The Conspiracy as American Form
-
 Angleton's afterlife, though, extends beyond the British novel of disenchantment into something distinctly American: the conspiracy as literary architecture. Don DeLillo's *Libra* (1988) remains the most rigorous exploration of what the intelligence mind does to reality. The novel does not solve the Kennedy assassination; it narrates the convergence of intentions, showing how individual plots and institutional logics produce events no single actor fully authors. The CIA men in *Libra* are not masterminds but middle managers of entropy, initiating processes that acquire momentum beyond prediction. Oswald is neither instrument nor puppet but refraction, a man equally persuaded that individual will can bend history.
 
 Angleton is linked to Oswald through the historical record itself. The counterintelligence chief monitored Oswald's file; he had been tracking the former Marine's movements since his defection to the Soviet Union in 1959. He ran the CIA's liaison with the Warren Commission. What he knew, and when he knew it, remains among the Cold War's most consequential silences. James Ellroy, in *American Tabloid* and *The Cold Six Thousand*, translates this silence into noise: the CIA, the FBI, the Mafia, and the Kennedy White House collapsed into a single power organism, a hydra whose heads wage war while sharing blood. Ellroy's staccato prose, those telegraphic forensic sentences, strips institutional veneer to expose transactional brutality.
 
-The Kennedy assassination has, in recent years, begun to lose its gravitational pull on the American imagination, and the reason is instructive. The Warren Commission's fears, of Soviet involvement, of a third world war, of revelations that might destabilise the republic, echo now with the irony Marx identified: history repeats itself, first as tragedy, then as farce. The careful containment of 1963 and 1964, the managed anxiety, the institutional seriousness with which dangerous truths were buried, all of this finds its farcical echo in the present, where dangerous truths are not buried but tweeted, where the fear of Russian entanglement has become not a secret to be suppressed but a public scandal that half the country has decided to embrace. Kennedy was no saint. Camelot was always mythology, and the Bay of Pigs alone would establish that. But the assassination narrative belongs to a register of imperial overreach and its aftermath, the convulsions of a superpower discovering that it could not, despite the confidence of its Yale-educated officers, manage the world by covert means without consequence.
+The Kennedy assassination has, in recent years, begun to lose its gravitational pull on the American imagination, and the reason is instructive. The Warren Commission's fears, of Soviet involvement, of a third world war, of revelations that might destabilise the republic, echo now with the irony Marx identified: history repeats itself, first as tragedy, then as farce. The careful containment of 1963 and 1964, the managed anxiety, the institutional seriousness with which dangerous truths were buried, all of this finds its farcical echo in the present, where dangerous truths are not buried but tweeted, where the fear of Russian entanglement has become not a secret to be suppressed but a public scandal that half the country has decided to embrace. Kennedy was no saint. Camelot was always mythology, and the Bay of Pigs alone would establish that. But the assassination narrative belongs to a register of imperial overreach and its aftermath, the convulsions of a superpower discovering that it could not, despite the confidence of its Ivy League officers, manage the world by covert means without consequence.
 
 ```{=html}
 <div class="essay-pullquote">
@@ -277,8 +269,6 @@ The Kennedy assassination has, in recent years, begun to lose its gravitational 
 </div>
 <hr class="essay-break"/>
 ```
-
-## V. The View from the Receiving End
 
 What about us?
 
@@ -297,8 +287,6 @@ In Morocco, the Years of Lead, *les années de plomb*, stretched from the 1960s 
 <hr class="essay-break"/>
 ```
 
-## VI. Tangier, Jazz, and the Uses of Culture
-
 The personal, in espionage as in empire, is always more consequential than the institutional narrative permits. Consider Tangier, the International Zone, that strange interstitial city where, for much of the twentieth century, spies from every service lived alongside writers, musicians, smugglers, and exiles in a proximity that dissolved the usual categories. Paul Bowles composed his desert fictions there. William Burroughs wrote *Naked Lunch* in a room on the Petit Socco. And the intelligence services of half a dozen nations maintained stations within walking distance of each other, conducting operations whose targets were often their neighbours at the same café.
 
 It was in Tangier, too, that the intersection of culture and Cold War propaganda acquired its most specific texture. The CIA's cultural cold war, documented by Frances Stonor Saunders, extended far beyond the Congress for Cultural Freedom and *Encounter* magazine. Jazz became a weapon. The State Department's jazz tours, sending Dizzy Gillespie, Louis Armstrong, and Duke Ellington to Africa and the Middle East, were explicitly designed to counter Soviet propaganda about American racial injustice. Randy Weston, the great pianist and composer, settled in Tangier in 1967 and spent years performing and recording there, drawing on Gnawa musical traditions. His presence was artistic and genuine, but it existed within a field of cultural deployment that the Cold War had instrumentalised. Claude McKay, the Jamaican-born poet of the Harlem Renaissance, had lived in Tangier decades earlier, writing *A Long Way from Home* partly from Morocco. The line connecting McKay to Weston to the CIA's cultural operations to Angleton's counterintelligence directorate is not a conspiracy; it is a network of implications, the kind of structure that Angleton himself would have recognised, had he been willing to turn his analytic methods upon his own institution.
@@ -306,8 +294,6 @@ It was in Tangier, too, that the intersection of culture and Cold War propaganda
 ```{=html}
 <hr class="essay-break"/>
 ```
-
-## VII. The Farce
 
 Philby's betrayal, read from this vantage, becomes a metaphor that extends far beyond the Cambridge Five. It is a metaphor for the vanity of a class that believed its own mythology, for the absence of moral conviction beneath the performance of moral certainty, for the way that mirrors, when they face each other, produce not clarity but infinite regression. The dons' culture that produced Philby and the Skull and Bones culture that produced Angleton and the public school culture that produced the Circus have not, in any meaningful sense, been replaced. They have been financialised. The contemporary elite does not recite Yeats or Kipling; it does not possess the literary education that Angleton brought to counterintelligence or the classical formation that le Carré anatomised. What it possesses instead is capital, and the dissolution of culture that accompanies capital's triumph has produced not a new moral seriousness but a new moral vacancy.
 
@@ -326,8 +312,6 @@ Yet the old order was never innocent, and nostalgia for the gentleman spy is its
 ```{=html}
 <hr class="essay-break"/>
 ```
-
-## VIII. A Wilderness Without Mirrors
 
 The lesson, if there is one, is this: intelligence agencies are not fundamentally cynical. Cynicism requires self-knowledge; belief does not. The deeper pathology was conviction itself, the conviction that what was being done was good, and that this conviction was the most sophisticated intelligence operation of all, the one conducted by empire upon its own officers to blind them to what empire required them to do.
 
