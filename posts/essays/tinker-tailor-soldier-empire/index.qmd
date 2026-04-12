@@ -1,13 +1,15 @@
 ---
-title: "Tinker, Tailor, Soldier, Empire"
-subtitle: "On spymasters, gentlemen, and the violence they learned not to see."
-description: "From Angleton's Yale to le Carré's Circus, from De Niro's Good Shepherd to Alfredson's grey London, the fantasy of the competent institution has always been empire in a better suit. A view from the receiving end."
-author: "Mehdi Khribch"
+pagetitle: "Tinker, Tailor, Soldier, Empire"
+title: ""
+subtitle: ""
+description: "Angleton, Philby, le Carré, and the long afterlife of the gentleman spy. An essay on counterintelligence, literary form, and the view from the receiving end of the Cold War."
+author: ""
 date: "2026-04-12"
 image: James_Jesus_Angleton.png
 image-alt: "James Jesus Angleton at a congressional hearing"
 title-block-banner: false
 title-block-categories: false
+toc: false
 ---
 
 ```{=html}
@@ -165,22 +167,13 @@ title-block-categories: false
 
 <div class="essay-header">
   <h1>Tinker, Tailor, Soldier, Empire</h1>
-  <div class="subtitle">On spymasters, gentlemen, and the violence they learned not to see.</div>
+  <div class="subtitle">The intelligence imagination, from Yale to the Circus, and the empire it could not see.</div>
   <div class="byline">Mehdi Khribch · 12 April 2026</div>
 </div>
 
 <div class="essay-epigraph">
   In a wilderness of mirrors, what will the spider do?
   <div class="attr">T.S. Eliot, <em>Gerontion</em></div>
-</div>
-
-<div class="essay-books">
-Thomas Powers, <strong><a href="https://www.lrb.co.uk/the-paper/v40/n09/thomas-powers/the-monster-plot">'The Monster Plot'</a></strong>, <em>London Review of Books</em>, Vol. 40 No. 9, 10 May 2018: a review of Jefferson Morley, <strong>The Ghost: The Secret Life of CIA Spymaster James Jesus Angleton</strong> · Scribe · 336 pp · £20 · 978 1 911344 73 5<br/>
-<strong>The Good Shepherd</strong>, dir. Robert De Niro · 167 min · Universal, 2006<br/>
-<strong>Tinker Tailor Soldier Spy</strong>, dir. Tomas Alfredson · 127 min · StudioCanal, 2011<br/>
-Don DeLillo, <strong><a href="https://en.wikipedia.org/wiki/Libra_(novel)">Libra</a></strong> · Viking · 456 pp · 1988<br/>
-James Ellroy, <strong>American Tabloid</strong> · Knopf · 600 pp · 1995<br/>
-John le Carré, <strong><a href="https://en.wikipedia.org/wiki/The_Spy_Who_Came_in_from_the_Cold">The Spy Who Came in from the Cold</a></strong> · Gollancz · 1963
 </div>
 
 <hr class="essay-break"/>
@@ -191,17 +184,14 @@ In Robert De Niro's *The Good Shepherd* (2006), a film that traces the instituti
 The scene encapsulates something the spy genre has circled for decades without always naming directly. Not the mechanics of espionage but the social architecture that made espionage feel, to certain men, like a natural extension of their birthright. That the defence of civilisation should fall to well-bred Protestants educated at Yale seemed, to the generation that founded the Office of Strategic Services and its successor, not a proposition but a fact of nature. The Central Intelligence Agency was built, in its earliest years, as a gentleman's club with a licence to intervene anywhere on earth.
 
 ```{=html}
-<div class="film-covers">
-  <div class="film-cover">
-    <img src="thegoodshepherd.jpg" alt="The Good Shepherd (2006)"/>
-    <div class="cover-title">The Good Shepherd</div>
-    <div class="cover-detail">De Niro, 2006</div>
-  </div>
-  <div class="film-cover">
-    <img src="smiley-tinker.jpg" alt="Gary Oldman as George Smiley in Tinker Tailor Soldier Spy (2011)"/>
-    <div class="cover-title">Tinker Tailor Soldier Spy</div>
-    <div class="cover-detail">Alfredson, 2011</div>
-  </div>
+<div class="essay-figure">
+  <img src="thegoodshepherd.jpg" alt="The Good Shepherd (2006)" style="max-width: 400px;"/>
+  <div class="caption"><em>The Good Shepherd</em> (2006). De Niro's film understands that the Skull and Bones ritual and the waterboarding of a prisoner in a Central American cell are not contradictions but iterations.</div>
+</div>
+
+<div class="essay-figure">
+  <img src="smiley-tinker.jpg" alt="Gary Oldman as George Smiley in Tinker Tailor Soldier Spy (2011)"/>
+  <div class="caption">Gary Oldman as George Smiley in Alfredson's <em>Tinker Tailor Soldier Spy</em> (2011). A man of almost geological patience, inhabiting rooms drained of colour.</div>
 </div>
 <hr class="essay-break"/>
 ```

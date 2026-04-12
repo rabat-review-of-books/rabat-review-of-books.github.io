@@ -43,7 +43,7 @@ anchor-sections: false
   <div class="rrb-hero-body">
     <div class="rrb-hero-kicker">◆  Lead Essay  ·  Empire  ·  Cold War  ◆</div>
     <h2 class="rrb-hero-title"><a href="posts/essays/tinker-tailor-soldier-empire/index.html">Tinker, Tailor, Soldier, Empire</a></h2>
-    <p class="rrb-hero-dek">From Angleton's Yale to le Carré's Circus, from De Niro's Good Shepherd to Alfredson's grey London, the fantasy of the competent institution has always been empire in a better suit. A view from the receiving end.</p>
+    <p class="rrb-hero-dek">Angleton, Philby, le Carré, and the long afterlife of the gentleman spy. An essay on counterintelligence, literary form, and the view from the receiving end of the Cold War.</p>
     <div class="rrb-hero-byline">By <span class="rrb-author">Mehdi Khribch</span> · 12 April 2026 · 18-minute read</div>
   </div>
 </div>
