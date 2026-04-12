@@ -5,8 +5,8 @@ description: "From Angleton's Yale to le Carré's Circus, from De Niro's Good Sh
 author: "Mehdi Khribch"
 date: "2026-04-12"
 categories: [Essays, Film, Empire, Cold War]
-image: https://picsum.photos/seed/rrb-angleton-portrait/1200/800
-image-alt: "James Jesus Angleton, the poet who became a spymaster"
+image: James_Jesus_Angleton.png
+image-alt: "James Jesus Angleton at a congressional hearing, hand raised to his forehead"
 ---
 
 ```{=html}
@@ -124,12 +124,12 @@ I have thought about that line for years. About its serene violence, its bureauc
 ```{=html}
 <div class="film-covers">
   <div class="film-cover">
-    <img src="https://picsum.photos/seed/rrb-good-shepherd-poster/400/580" alt="The Good Shepherd (2006)"/>
+    <img src="thegoodshepherd.jpg" alt="The Good Shepherd (2006)"/>
     <div class="cover-title">The Good Shepherd</div>
     <div class="cover-detail">Robert De Niro, 2006</div>
   </div>
   <div class="film-cover">
-    <img src="https://picsum.photos/seed/rrb-tinker-tailor-poster/400/580" alt="Tinker Tailor Soldier Spy (2011)"/>
+    <img src="smiley tinker.jpg .jpg" alt="Gary Oldman as George Smiley in Tinker Tailor Soldier Spy (2011)"/>
     <div class="cover-title">Tinker Tailor Soldier Spy</div>
     <div class="cover-detail">Tomas Alfredson, 2011</div>
   </div>
@@ -152,8 +152,8 @@ Fiction has apprehended this more clearly than the historiography. The novel has
 
 ```{=html}
 <div class="essay-figure">
-  <img src="https://picsum.photos/seed/rrb-wilderness-mirrors/1100/620" alt="A long institutional corridor"/>
-  <div class="caption">The architecture of suspicion: corridors that lead only to other corridors.</div>
+  <img src="James_Jesus_Angleton.png" alt="James Jesus Angleton testifying before Congress"/>
+  <div class="caption">James Jesus Angleton, CIA chief of counterintelligence, 1954–1975. The poet who became the Agency's most feared paranoid.</div>
 </div>
 <hr class="essay-break"/>
 ```
@@ -174,8 +174,8 @@ Both writers recognise what cinema also apprehends: that conspiracy theory is no
 
 ```{=html}
 <div class="essay-figure">
-  <img src="https://picsum.photos/seed/rrb-cold-war-berlin/1100/620" alt="A divided city"/>
-  <div class="caption">Divided cities, divided selves: the Cold War as a condition of permanent moral partition.</div>
+  <img src="Berlin_Wall_1961-11-20.jpg" alt="The Berlin Wall with graffiti, looking east"/>
+  <div class="caption">The Berlin Wall: the Cold War's most literal partition, and the set on which le Carré staged his moral theatre.</div>
 </div>
 <hr class="essay-break"/>
 ```
@@ -198,8 +198,8 @@ Kim Philby emerges from this reflection as its most consequential laceration. So
 
 ```{=html}
 <div class="essay-figure">
-  <img src="https://picsum.photos/seed/rrb-philby-shadows/1100/620" alt="Intelligence shadows"/>
-  <div class="caption">The gentleman spy and his shadow: class, loyalty, and the architecture of betrayal.</div>
+  <img src="Kim_Philby_1955.jpg" alt="Kim Philby at his 1955 press conference in London"/>
+  <div class="caption">Kim Philby at his 1955 press conference, denying he was the 'third man.' He would defect to Moscow eight years later.</div>
 </div>
 <hr class="essay-break"/>
 ```
@@ -214,8 +214,8 @@ The CIA helped reorganise Morocco's security apparatus in the early 1960s. What 
 
 ```{=html}
 <div class="essay-figure">
-  <img src="https://picsum.photos/seed/rrb-morocco-medina-shadow/1100/620" alt="A Moroccan medina in shadow"/>
-  <div class="caption">Shadows in the medina: the architecture of memory in a country that was asked to forget.</div>
+  <img src="jhon le carre.jpg" alt="John le Carré holding the French edition of The Looking Glass War"/>
+  <div class="caption">John le Carré with <em>Le Miroir aux Espions</em>, the French edition of <em>The Looking Glass War</em>. His subject was never espionage; it was England.</div>
 </div>
 ```
 
@@ -240,7 +240,7 @@ The espionage novel cannot process this. The genre depends on secrecy, on buried
 
 ```{=html}
 <div class="essay-figure">
-  <img src="https://picsum.photos/seed/rrb-empire-facade/1100/620" alt="A neoclassical facade"/>
+  <img src="Berlin_Wall_1961-11-20.jpg" alt="The Berlin Wall"/>
   <div class="caption">The facade and what it conceals: institutional architecture as a theory of legitimacy.</div>
 </div>
 ```
