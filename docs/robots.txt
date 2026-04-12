@@ -1,1 +1,1 @@
-Sitemap: https://yveskhribch.github.io/rabat-review-of-books/sitemap.xml
+Sitemap: https://rabat-review-of-books.github.io/sitemap.xml

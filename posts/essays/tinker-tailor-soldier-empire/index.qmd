@@ -1,11 +1,11 @@
 ---
 title: "Tinker, Tailor, Soldier, Empire"
 subtitle: "On spymasters, gentlemen, and the violence they learned not to see."
-description: "From Angleton's Yale to le Carré's Circus, from De Niro's Good Shepherd to Alfredson's grey London, the fantasy of the competent institution has always been empire in a better suit. A view from the receiving end."
+description: "The fantasy of the competent institution has always been empire in a better suit. A view from the receiving end."
 author: "Mehdi Khribch"
 date: "2026-04-12"
 categories: [Essays, Film, Empire, Cold War]
-image: James_Jesus_Angleton.png
+image: James_Jesus_Angleton.jpg
 image-alt: "James Jesus Angleton at a congressional hearing, hand raised to his forehead"
 ---
 
@@ -107,11 +107,7 @@ image-alt: "James Jesus Angleton at a congressional hearing, hand raised to his 
 > *In a wilderness of mirrors, what will the spider do?*
 > — T.S. Eliot, *Gerontion*
 
-Thomas Powers, **'The Monster Plot'**, *London Review of Books*, Vol. 40 No. 9, 10 May 2018: a review of Jefferson Morley, **The Ghost: The Secret Life of CIA Spymaster James Jesus Angleton** · Scribe · 336 pp · £20 · 978 1 911344 73 5
-**The Good Shepherd**, directed by Robert De Niro · 167 min · Universal, 2006
-**Tinker Tailor Soldier Spy**, directed by Tomas Alfredson · 127 min · StudioCanal, 2011
-James Ellroy, **American Tabloid** · Knopf · 600 pp · 1995
-Don DeLillo, **Libra** · Viking · 456 pp · 1988
+
 
 ---
 
@@ -120,20 +116,20 @@ In Robert De Niro's *The Good Shepherd*, that glacial film about the founding of
 The remark operates not as paradox but as cadastral instrument. It is not offered boastfully; it is stated as one might state the earth's rotation. And in this precision lies the whole architecture of American intelligence, and, from the vantage of those positioned to observe it, of the broader Anglo-American imperial system.
 
 I have thought about that line for years. About its serene violence, its bureaucratic certainty, the way it sounds like an observation rather than a threat. I have thought about it the way one thinks of a closed building whose shadow perpetually falls across one's street. Because for those of us who matured in the aftermath of what these gentlemen accomplished, in Rabat, Algiers, Kinshasa, Santiago, the question was never whether the CIA possessed competence. The question was whether competence, concentrated in imperial hands, might be indistinguishable from impunity.
-
-```{=html}
-<div class="film-covers">
-  <div class="film-cover">
-    <img src="thegoodshepherd.jpg" alt="The Good Shepherd (2006)"/>
-    <div class="cover-title">The Good Shepherd</div>
-    <div class="cover-detail">Robert De Niro, 2006</div>
+  
+  ```{=html}
+  <div class="film-covers">
+    <div class="film-cover">
+      <img src="thegoodshepherd.jpg" alt="The Good Shepherd (2006)"/>
+      <div class="cover-title">The Good Shepherd</div>
+      <div class="cover-detail">Robert De Niro, 2006</div>
+    </div>
+    <div class="film-cover">
+      <img src="smiley tinker.jpg .jpg" alt="Gary Oldman as George Smiley in Tinker Tailor Soldier Spy (2011)"/>
+      <div class="cover-title">Tinker Tailor Soldier Spy</div>
+      <div class="cover-detail">Tomas Alfredson, 2011</div>
+    </div>
   </div>
-  <div class="film-cover">
-    <img src="smiley tinker.jpg .jpg" alt="Gary Oldman as George Smiley in Tinker Tailor Soldier Spy (2011)"/>
-    <div class="cover-title">Tinker Tailor Soldier Spy</div>
-    <div class="cover-detail">Tomas Alfredson, 2011</div>
-  </div>
-</div>
 ```
 
 ## The Poet-Spymaster

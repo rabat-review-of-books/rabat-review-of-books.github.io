@@ -2,6 +2,7 @@
   {
     "listing": "/archive.html",
     "items": [
+      "/posts/essays/tinker-tailor-soldier-empire/index.html",
       "/posts/reviews/fathers-radio/index.html",
       "/posts/poetry/four-short-poems/index.html",
       "/posts/essays/last-europeans/index.html",
@@ -24,6 +25,7 @@
   {
     "listing": "/essays.html",
     "items": [
+      "/posts/essays/tinker-tailor-soldier-empire/index.html",
       "/posts/essays/last-europeans/index.html",
       "/posts/essays/kafka-arabic/index.html",
       "/posts/essays/ghosts-fez/index.html",

@@ -26,7 +26,7 @@
     inner.innerHTML += inner.innerHTML; // duplicate for seamless loop
   });
 
-  // ---- Reading progress bar + time counter on post pages (FT-inspired) ----
+  // ---- Reading progress bar + time counter on post pages ----
   if (document.body.classList.contains('quarto-post')) {
     const bar = document.createElement('div');
     bar.className = 'rrb-progress';
@@ -39,7 +39,7 @@
       '<div class="rrb-read-text"><div class="rrb-read-remaining">— min</div><div class="rrb-read-label">left</div></div>';
     document.body.appendChild(counter);
 
-    // Left-rail FT-style: share icons + progress circle (inside the essay)
+    // Left rail: share icons + progress circle (inside the essay)
     const rail = document.createElement('div');
     rail.className = 'rrb-side-rail';
     const pageUrl = encodeURIComponent(window.location.href);

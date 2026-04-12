@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Rabat Review of Books</title>
-<link>https://yveskhribch.github.io/rabat-review-of-books/reviews.html</link>
-<atom:link href="https://yveskhribch.github.io/rabat-review-of-books/reviews.xml" rel="self" type="application/rss+xml"/>
+<link>https://rabat-review-of-books.github.io/reviews.html</link>
+<atom:link href="https://rabat-review-of-books.github.io/reviews.xml" rel="self" type="application/rss+xml"/>
 <description>Essays, reviews, fiction, and poetry — from Rabat, for the world.</description>
 <generator>quarto-1.8.27</generator>
 <lastBuildDate>Thu, 02 Apr 2026 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Static and Signal</title>
   <dc:creator>Mehdi Khribch</dc:creator>
-  <link>https://yveskhribch.github.io/rabat-review-of-books/posts/reviews/fathers-radio/</link>
+  <link>https://rabat-review-of-books.github.io/posts/reviews/fathers-radio/</link>
   <description><![CDATA[ 
 <div class="rrb-salmon-bar">
   <div class="rrb-salmon-left">
@@ -39,33 +39,41 @@
 
 
 
-<p><strong>My Father’s Radio</strong> <em>by Laila Mahmoud</em> · Dar Merit · 288 pp · 150 EGP</p>
-<p>The radio in question is not particularly distinguished. A Philips set from the 1960s, purchased by Laila Mahmoud’s father, Omar, when he arrived in Cairo from the Delta as a young man seeking work in the new industrial sectors. It was a marker of aspiration, of a modernized Egypt. The radio accompanied the family through the Suez Crisis, Nasser’s rise, the early years of Sadat, and eventually into a period when it became, as Mahmoud writes, “less an object of longing and more a relic in a house already becoming haunted by memory.”</p>
-<p>This is the occasion for Mahmoud’s memoir, <em>My Father’s Radio</em>—though calling it a memoir in the conventional sense is misleading. It is not a chronological narrative of a life. Instead, it is a series of fragments, radio memories, overheard conversations, and interpolations on Cairo itself, all arranged around this single object. The radio is rarely the explicit subject. Instead, it functions as what we might call a memory-machine, a device through which other experiences acquire their particular shape and resonance.</p>
-<p>Mahmoud grew up in Heliopolis, the suburban quarter built in the early twentieth century, and she has a sharp eye for the textures of that world: the apartment blocks slowly decaying, the streets at dusk, the particular rhythms of neighborhood life that have now mostly vanished. The radio occupies the sitting room (what she calls the “best room,” kept at a certain distance from the life of the house), and it becomes the place where her father vanishes into the voices of news broadcasters, Qur’an reciters, and the radio theater that was still a significant form of entertainment in Cairo in the 1970s.</p>
-<p>What makes the book compelling is not any singular revelation but the gradual accumulation of a presence through absence. Omar emerges from these pages not as a fully realized character—Mahmoud is not interested in that kind of psychological portraiture—but as a figure constructed from his silences, his habits of listening, his relationship to the sounds coming through the radio speaker. We learn that he kept notebooks in which he copied passages from radio dramas. We learn that he had a radio schedule written on a piece of paper he kept in his shirt pocket. We learn that after his wife’s death, he listened to the same music program every evening for a decade. But we are not told what this meant to him, whether it was grief or habit or simple preference.</p>
-<p>This refusal to psychologize is deliberate, and much of the book’s power derives from it. Mahmoud writes in English (she eventually emigrated to London), and there is something particularly acute about writing memoir about Cairo in a language that is not the language of her childhood. This distance, this slight displacement, seems to suit her subject. She can observe her father and her childhood Cairo with the intensity that intimacy often prevents.</p>
-<p>The strongest sections come when Mahmoud describes the voices themselves. There is a long passage about the voice of a particular news announcer, a man whose diction and intonation became so familiar to her father that his absence was noticeable. When the man died, the broadcasts changed. No one announced this change; it simply occurred, and Omar noticed it immediately. Mahmoud attends to this moment without sentimentalizing it—she does not claim that this was a turning point or that it made her father sad. But something shifted, a small alteration in the texture of daily life.</p>
-<p>There is also a fascinating chapter on radio advertising, particularly for products aimed at women. Mahmoud examines the language used to sell jam, fabric softener, and beauty products, and she connects this advertising voice to her mother’s own complicated relationship to modernity and consumption. The chapter is amusing and sharp, but it also carries an undertone of loss—the world of that advertising, those particular assumptions about women and domesticity, is now mostly gone.</p>
-<p>Where the book occasionally falters is when Mahmoud attempts broader cultural-historical statements. She wants to connect the radio to Nasser-era nationalism, to Suez, to the Arab moment of the mid-century. But these connections are sometimes schematic, as if she is fulfilling an obligation rather than following genuine insight. The book is strongest when it stays close to the domestic, to the particular sounds and rhythms of her father’s life, and least convincing when it tries to be a social history of Egypt.</p>
-<p>There is also a question about the reader’s relationship to this material. Mahmoud’s method—fragmented, associative, devoted to small details and overheard moments—is genuinely interesting but also somewhat ascetic. There are readers who will find this refreshing, a relief from the narrative machinery of conventional memoir. Others may find it frustratingly thin, a collection of observations rather than a lived experience fully rendered.</p>
-<p>Yet there is something admirable about Mahmoud’s refusal to turn her father into a character, to make him cohere into a psychologically coherent figure. The radio, as she presents it, becomes a kind of record of attention itself: someone listening, someone present in a room, someone leaving traces in the form of notebooks and habits. It is a small monument to a life that did not demand public recognition, and in that insistence on smallness and quietness, there is a kind of dignity worth respecting.</p>
+<blockquote class="blockquote">
+<p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</em></p>
+</blockquote>
+<p><strong>Lorem Ipsum: Dolor Sit Amet</strong> <em>by Auctor Ignotus</em> · Editor Placeholder · 000 pp · 00 DH</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<section id="nemo-enim" class="level2">
+<h2 class="anchored" data-anchor-id="nemo-enim">Nemo enim</h2>
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
+<blockquote class="blockquote">
+<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.</p>
+</blockquote>
+<p>Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.</p>
+</section>
+<section id="quis-autem-vel" class="level2">
+<h2 class="anchored" data-anchor-id="quis-autem-vel">Quis autem vel</h2>
+<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur. At vero eos et accusamus et iusto odio dignissimos ducimus.</p>
+<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur.</p>
 <hr>
-<p><em>Karim Nasr is a writer and critic based between Cairo and London. He is the author of “The Modern Arabic Essay: Form and Function” and has contributed to the </em>Guardian<em>, </em>The National<em>, and </em>Boundary 2<em>. His memoir of his own family’s migration is forthcoming.</em></p>
+<p><em>This is placeholder text (lorem ipsum). Replace with your review when ready.</em></p>
 
 
+</section>
 
  ]]></description>
   <category>Reviews</category>
   <category>Memoir</category>
-  <guid>https://yveskhribch.github.io/rabat-review-of-books/posts/reviews/fathers-radio/</guid>
+  <guid>https://rabat-review-of-books.github.io/posts/reviews/fathers-radio/</guid>
   <pubDate>Thu, 02 Apr 2026 22:00:00 GMT</pubDate>
   <media:content url="https://picsum.photos/seed/rrb-fathers-radio/1200/800" medium="image"/>
 </item>
 <item>
   <title>The Divided Ledger</title>
   <dc:creator>Mehdi Khribch</dc:creator>
-  <link>https://yveskhribch.github.io/rabat-review-of-books/posts/reviews/salt-notebooks/</link>
+  <link>https://rabat-review-of-books.github.io/posts/reviews/salt-notebooks/</link>
   <description><![CDATA[ 
 <div class="rrb-salmon-bar">
   <div class="rrb-salmon-left">
@@ -90,31 +98,41 @@
 
 
 
-<p><strong>The Salt Notebooks</strong> <em>by Salima Oumari</em> · Éditions du Détroit · 412 pp · €26</p>
-<p>Salima Oumari’s debut novel arrives trailing the kind of acclaim that often precedes disappointment. Longlisted for the Prix Goncourt, interviewed in <em>Libération</em>, hailed as a vital voice on the postcolonial diaspora—the machinery of French literary celebrity had already begun processing <em>The Salt Notebooks</em> before most readers outside Paris had opened it. So it is perhaps to Oumari’s credit that the novel proves more interesting than such machinery might suggest, though rarely in the ways its admirers intend.</p>
-<p>The book follows Leila, a forty-three-year-old translator living in Lyon, who receives word that her father—whom she has not seen in seventeen years—is dying in Casablanca. The premise is familiar enough: exile, return, reckoning with origins. What distinguishes Oumari’s approach is her refusal to sentimentalize either gesture. Leila does not rush home. She prevaricates, translates a minor Moroccan poet’s work, attends dinner parties where she is asked about her “authentic” childhood. Only when her father lapses into silence does she make the journey.</p>
-<p>The novel’s architecture, however, is its most intriguing formal choice. Interspersed with the contemporary narrative are fragments—letters, grocery lists, medical notes, overheard conversations—attributed to her father’s notebooks spanning forty years. These are not straightforwardly “his voice.” Instead, Oumari renders them as textual residue, the detritus of a life recorded without coherence or emotional clarity. A notebook entry from 1987 reads, paraphrased, something like: <em>The plumber came. Leila asked for money for school. Too expensive. We ate bread with oil.</em> The flatness is deliberate. It refuses the pathos that a more sentimental novelist would extract from such scenes.</p>
-<p>This method both succeeds and falters. The accumulated weight of these fragments does eventually create a portrait—of a man constrained by circumstance, diminished by migration, bewildered by his own daughter—that is more unsettling than any summary could be. We see not the father Leila imagines but the mundane, inarticulate reality of his daily existence. Yet Oumari sometimes overplays this technique. By the novel’s final third, the fragments become repetitive, almost mechanical. We need not be told twelve times that the family was poor; we understood after three.</p>
-<p>The contemporary storyline, by contrast, risks smoothness. Leila’s reunion with her ailing father occurs in a hospital room where dialogue has largely been replaced by silence and the ambient sounds of medical equipment. It is a quiet, almost minimalist sequence, and there is dignity in Oumari’s refusal to engineer reconciliation or epiphany. But this restraint can feel like evasion. We learn little of what actually transpired between them, why the rupture was so absolute, what words (if any) are exchanged at the end. Oumari seems to believe that suggesting absence is more powerful than exploring it—a choice that occasionally leaves the reader stranded in a void of her own creation.</p>
-<p>What emerges most forcefully is not a family drama but a meditation on translation itself. Leila is a translator by profession, and the novel is haunted by the question of what can and cannot be conveyed between languages, generations, and the living and the dead. When she attempts to translate her father’s notebooks (a task we never see completed), she finds herself inventing, interpreting, filling gaps. The parallel to her own attempts to “translate” her childhood, her father, herself becomes explicit. Yet the novel hints that perfect translation is impossible—that what survives the crossing always arrives corrupted, changed, remade.</p>
-<p>This is sophisticated work, though not always satisfying. Oumari writes with clarity and occasional beauty, and her ear for the rhythms of French and Arabic inflected speech is acute. There are moments—a description of the Casablanca medina, a conversation between Leila and a fellow translator—where the prose achieves a kind of luminous precision. But too often the novel settles for gestures toward depth rather than depth itself. We are told repeatedly that Leila is conflicted, divided, estranged; we are shown this less often than we might like.</p>
-<p>Still, <em>The Salt Notebooks</em> announces an author uninterested in easy answers, content to sit with ambiguity and silence. In an era of literary maximalism, that may itself be a kind of courage. Whether it amounts to wisdom remains a question for readers to settle themselves.</p>
+<blockquote class="blockquote">
+<p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</em></p>
+</blockquote>
+<p><strong>Lorem Ipsum: Dolor Sit Amet</strong> <em>by Auctor Ignotus</em> · Editor Placeholder · 000 pp · 00 DH</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<section id="nemo-enim" class="level2">
+<h2 class="anchored" data-anchor-id="nemo-enim">Nemo enim</h2>
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
+<blockquote class="blockquote">
+<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.</p>
+</blockquote>
+<p>Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.</p>
+</section>
+<section id="quis-autem-vel" class="level2">
+<h2 class="anchored" data-anchor-id="quis-autem-vel">Quis autem vel</h2>
+<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur. At vero eos et accusamus et iusto odio dignissimos ducimus.</p>
+<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur.</p>
 <hr>
-<p><em>Youssef Benani teaches comparative literature at the University of Fez and writes regularly on contemporary Francophone fiction. His essay collection, “Reading at the Margins,” will be published next year.</em></p>
+<p><em>This is placeholder text (lorem ipsum). Replace with your review when ready.</em></p>
 
 
+</section>
 
  ]]></description>
   <category>Reviews</category>
   <category>Fiction</category>
-  <guid>https://yveskhribch.github.io/rabat-review-of-books/posts/reviews/salt-notebooks/</guid>
+  <guid>https://rabat-review-of-books.github.io/posts/reviews/salt-notebooks/</guid>
   <pubDate>Sat, 14 Mar 2026 23:00:00 GMT</pubDate>
   <media:content url="https://picsum.photos/seed/rrb-salt-notebooks/1200/800" medium="image"/>
 </item>
 <item>
   <title>The Minor Archive</title>
   <dc:creator>Mehdi Khribch</dc:creator>
-  <link>https://yveskhribch.github.io/rabat-review-of-books/posts/reviews/hamza-biography/</link>
+  <link>https://rabat-review-of-books.github.io/posts/reviews/hamza-biography/</link>
   <description><![CDATA[ 
 <div class="rrb-salmon-bar">
   <div class="rrb-salmon-left">
@@ -139,33 +157,41 @@
 
 
 
-<p><strong>Mohamed Hamza and the Failure of Arab Modernity: A Life, 1908–1978</strong> <em>by Fatima Alami</em> · Centre National du Livre · 512 pp · 350 DH</p>
-<p>Mohamed Hamza died in 1978 in a Rabat hospital, forgotten by nearly everyone who had once known him. His funeral was attended by a handful of friends, a few younger intellectuals who had read his essays, and a nephew who was surprised to learn that he had been a writer at all. By his death, his books—slender collections of essays published by minor presses in the 1940s and 1950s—were out of print. His name did not appear in standard histories of modern Arabic intellectual life. The Archive of Moroccan Thought, if it existed, had misplaced him entirely.</p>
-<p>Fatima Alami, a historian at Mohammed V University, has spent a decade retrieving Hamza from this obscurity. The result is <em>Mohamed Hamza and the Failure of Arab Modernity</em>, a biography of a man who never held high office, published no major book, and exercised influence only in certain literary and political circles, and then only briefly. Yet Alami’s argument—that Hamza’s marginality, his failures, his intellectual irresolution are precisely what make him significant—is bold enough to be worth serious consideration.</p>
-<p>Who was Mohamed Hamza? Born in Fez in 1908 to a merchant family, educated in both religious schools and the secular French lycée, he belonged to that generation of North African intellectuals stranded between worlds. He studied in Paris in the 1930s, where he encountered French intellectual culture and European politics in the shadow of fascism. He returned to Morocco ambivalent about everything: French civilization, Arab nationalism, Islam, secular modernism, traditional learning. This ambivalence, which might have been a source of paralysis for a less thoughtful man, became the animating tension of his intellectual life.</p>
-<p>Hamza’s essays (collected in 1950 as <em>Writings on a Time of Doubt</em>) dealt obsessively with the question of what an Arab intellectual should believe in an age of imperial pressure, nationalist fervor, and spiritual uncertainty. He was suspicious of nationalism, having seen how it functioned in France. He was equally suspicious of the appeals to Islamic revival, which he feared would provide cover for reaction. He admired aspects of Western culture—the humanistic tradition, the philosophical rigor—while despising colonialism. Alami quotes him as writing: “We are asked to choose between Egypt and Greece, between the Qur’an and Plato, as if the human mind had not the capacity to hold both.”</p>
-<p>This refusal to choose, which reads almost as intellectual cowardice to readers accustomed to the forceful declarations of more confident intellectuals, was for Hamza a necessity. Alami argues that Hamza intuited something that became clearer only after: that the grand narratives of Arab nationalism and Islamic revival were insufficient to the complexity of modern experience, and that the honest intellectual response was not to pretend to certainties one did not possess.</p>
-<p>The biography itself is a model of research. Alami has tracked down letters (often published only in fragments in journals that no longer exist), interviewed surviving friends and family, obtained access to Hamza’s personal papers (now scattered among several archives), and reconstructed his movements through war, nationalism, and eventual quiet retirement. The book’s middle section, on his activities during the Second World War and the Moroccan independence struggle, is particularly valuable. Alami shows Hamza as neither quite aligned with the French nor fully committed to the nationalist cause, attempting to articulate a position that might transcend both.</p>
-<p>What Alami demonstrates with increasing clarity is that Hamza’s “failure”—his inability to publish a major work, to achieve public prominence, to offer a coherent program—was not incidental to his significance but central to it. His significance lies precisely in his refusal of the intellectual gestures that his era demanded. Where others offered either a recovered Islamic tradition or a modernized secular Arab state, Hamza offered only careful doubt and the intellectual acknowledgment that such binaries were insufficient.</p>
-<p>Yet there are problems with Alami’s interpretation, and indeed with Alami’s very enterprise. The first is one of perspective: we see Hamza only through the archive, through the traces he left. A man who valued privacy and who published little leaves few hooks on which biography can hang fully realized interpretation. At times, Alami seems to be inferring Hamza’s significance from his silence, rather than proving it. The suggestion that an intellectual’s failure to succeed publicly might be evidence of his honesty is appealing to academic readers of a certain disposition but is not self-evident.</p>
-<p>More troublingly, Alami’s emphasis on Hamza’s ambivalence and doubt risks aestheticizing his historical marginality. Hamza did not choose to be obscure; he found himself increasingly isolated as political events moved beyond the range of his careful skepticism. By 1950, the postwar world had demanded choices that his intellectual method could not accommodate. Nationalism, for better and worse, swept across the Arab world. Hamza’s caution seemed outdated, and it is not clear to what extent his removal from public discourse was an intellectual virtue rather than a historical accident.</p>
-<p>Still, Alami has performed a genuine service in resurrecting Hamza. Whether one agrees with her evaluation of his significance, the book itself is exemplary: meticulous in research, scrupulous in its treatment of uncertain evidence, and modest in its claims. She has given us a figure through which to think about the possibilities available to Arab intellectuals in the twentieth century, and the costs of remaining unconvinced by the prevailing certainties of one’s moment. That Hamza paid the price of such unconviction with obscurity is not, perhaps, a reason to forget him, but rather one more thing his life has to tell us.</p>
+<blockquote class="blockquote">
+<p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</em></p>
+</blockquote>
+<p><strong>Lorem Ipsum: Dolor Sit Amet</strong> <em>by Auctor Ignotus</em> · Editor Placeholder · 000 pp · 00 DH</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<section id="nemo-enim" class="level2">
+<h2 class="anchored" data-anchor-id="nemo-enim">Nemo enim</h2>
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
+<blockquote class="blockquote">
+<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.</p>
+</blockquote>
+<p>Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.</p>
+</section>
+<section id="quis-autem-vel" class="level2">
+<h2 class="anchored" data-anchor-id="quis-autem-vel">Quis autem vel</h2>
+<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur. At vero eos et accusamus et iusto odio dignissimos ducimus.</p>
+<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur.</p>
 <hr>
-<p><em>Rachid El-Khadir is a historian and critic whose work focuses on twentieth-century Arab intellectual history. He teaches at the University of Casablanca and is the author of “The Politics of Culture: Arab Intellectuals and the French Connection.” He is currently completing a study of minor intellectual figures and the formation of modern Arab thought.</em></p>
+<p><em>This is placeholder text (lorem ipsum). Replace with your review when ready.</em></p>
 
 
+</section>
 
  ]]></description>
   <category>Reviews</category>
   <category>Biography</category>
-  <guid>https://yveskhribch.github.io/rabat-review-of-books/posts/reviews/hamza-biography/</guid>
+  <guid>https://rabat-review-of-books.github.io/posts/reviews/hamza-biography/</guid>
   <pubDate>Sun, 01 Mar 2026 23:00:00 GMT</pubDate>
   <media:content url="https://picsum.photos/seed/rrb-biography/1200/800" medium="image"/>
 </item>
 <item>
   <title>The Turning Tide</title>
   <dc:creator>Mehdi Khribch</dc:creator>
-  <link>https://yveskhribch.github.io/rabat-review-of-books/posts/reviews/atlantic-maghreb/</link>
+  <link>https://rabat-review-of-books.github.io/posts/reviews/atlantic-maghreb/</link>
   <description><![CDATA[ 
 <div class="rrb-salmon-bar">
   <div class="rrb-salmon-left">
@@ -190,32 +216,41 @@
 
 
 
-<p><strong>Atlantic Maghreb: Morocco and the Sea, 1400–1900</strong> <em>by Hassan Boumediene</em> · Oxford University Press · 548 pp · $85</p>
-<p>The historiography of North Africa has long suffered from what we might call a landlocked imagination. Scholars have treated the Maghreb as a terrestrial region—a desert hinterland, an interior backwater—peripheral to the main currents of Mediterranean and Atlantic history. The sea, in this view, belonged to Europeans: to Portuguese conquistadors, Spanish galleys, French colonizers. Morocco was something to be crossed, not something that crossed. Hassan Boumediene’s formidable new study, <em>Atlantic Maghreb</em>, seeks to invert this perspective entirely. What emerges is a more complex and less teleological portrait of a society that was not merely the victim of oceanic history but an active participant in it, with its own maritime ambitions, technologies, and networks.</p>
-<p>Boumediene, a historian at the Sorbonne, has worked through extraordinary archives: Portuguese naval records, Moroccan court documents, the logs of privateers, harbor records from Salé and Essaouira, letters of European merchants, and the accounts of diplomats and travelers. His central claim is that from the fifteenth century onward, Morocco was engaged in a sophisticated competition for Atlantic and Mediterranean dominion—a competition it both won and lost, depending on the era and the measure. Far from being a passive object of European expansion, Moroccan sultanates actively built fleets, sponsored privateering expeditions, and negotiated complex trade agreements from positions of considerable strength.</p>
-<p>The book’s opening chapters establish this baseline. Boumediene shows how the Moroccan maritime expansion of the 1500s, often forgotten, was comparable in scope and ambition to the early stages of European maritime empires. The Saadians maintained a significant naval presence, patronized corsairs, and even conducted campaigns along the African coast. These were not desperate acts of a declining power but conscious strategies of territorial control and economic gain. A Moroccan ambassador in Rome complained, in effect, that Europeans treated Morocco as if it were not a proper maritime nation—a remark that reveals the consciousness of their own standing that Moroccan elites possessed.</p>
-<p>Where Boumediene’s argument grows more provocative is in his treatment of the seventeenth and eighteenth centuries. He argues against the standard narrative of decline and passivity. Instead, he documents the rise of the Sallee Rovers, the sophisticated naval policies of the Alaouite dynasty, and the integration of Moroccan merchants into trans-Atlantic commerce. The privateering economy, in particular, receives sustained and sympathetic attention. Boumediene does not ask us to admire corsairs, but he does ask us to recognize them as rational economic agents operating in an era when the distinction between privateering and warfare was negligible, and when maritime raiding was a central feature of European commerce as well.</p>
-<p>The book’s middle sections trace the establishment of European trading posts—Mogador, Tangier, Ceuta—and Boumediene’s analysis here is particularly valuable. He shows how these enclaves were not simply imposed on a helpless hinterland, but were often the result of negotiation, profitable to Moroccan merchants and rulers, and integrated into existing Moroccan commercial networks. This is not to deny European domination but to complicate it—to show that Moroccan elites were not passive victims but strategic actors, making rational choices about what degree of European presence suited their interests.</p>
-<p>The nineteenth century brings what Boumediene calls “the reversal.” The gradual militarization of European navies, the rise of industrial capitalism, and the decline of Moroccan privateering combined to shift the balance decisively. But Boumediene’s account of this shift is notably unsentimental. He does not dramatize Morocco’s loss as a tragedy, nor does he suggest that resistance was ever truly possible. Instead, he traces the pragmatic choices of rulers confronting a changing world, the complex negotiations with European powers, and the internal Moroccan debates about how to respond to naval inferiority.</p>
-<p>The book is substantially made, with useful maps, tables of ship inventories, and a comprehensive bibliography. The prose is clear, though occasionally Boumediene’s argument becomes tangled in complexity—there are moments where one wishes for more direct statement and less qualification. His heavy reliance on European source materials also means that we hear more from European observers of Moroccan maritime activity than from Moroccan voices themselves. This is partly unavoidable but worth noting.</p>
-<p>More fundamentally, one might ask whether Boumediene has overcorrected for the terrestrial bias of previous historians. To insist on Moroccan agency and sophistication is necessary; but at times the book seems to attribute too much strategic intentionality to decisions that may have been reactive or circumstantial. The privateering economy, for instance, may have been less a deliberate state policy than an adaptation to economic necessity. Boumediene sometimes reads choices as strategies when they might have been improvisations.</p>
-<p>Yet these quibbles are minor against the book’s considerable achievement. <em>Atlantic Maghreb</em> will be essential reading for historians of the Mediterranean and the Atlantic, and it should provoke broader reconsideration of how we narrate the global early modern period. Boumediene has returned Morocco to the map—not as a passive shore but as an actor in the making of oceanic modernity. That alone makes this an important book.</p>
+<blockquote class="blockquote">
+<p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</em></p>
+</blockquote>
+<p><strong>Lorem Ipsum: Dolor Sit Amet</strong> <em>by Auctor Ignotus</em> · Editor Placeholder · 000 pp · 00 DH</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<section id="nemo-enim" class="level2">
+<h2 class="anchored" data-anchor-id="nemo-enim">Nemo enim</h2>
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
+<blockquote class="blockquote">
+<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.</p>
+</blockquote>
+<p>Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.</p>
+</section>
+<section id="quis-autem-vel" class="level2">
+<h2 class="anchored" data-anchor-id="quis-autem-vel">Quis autem vel</h2>
+<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur. At vero eos et accusamus et iusto odio dignissimos ducimus.</p>
+<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur.</p>
 <hr>
-<p><em>Amina El-Mansouri is a historian of the Mediterranean and the author of “Merchants and Ministers: Trade and Diplomacy in the Eighteenth-Century Maghreb.” She teaches at the University of Rabat and is completing a study of female merchants in Atlantic port cities.</em></p>
+<p><em>This is placeholder text (lorem ipsum). Replace with your review when ready.</em></p>
 
 
+</section>
 
  ]]></description>
   <category>Reviews</category>
   <category>History</category>
-  <guid>https://yveskhribch.github.io/rabat-review-of-books/posts/reviews/atlantic-maghreb/</guid>
+  <guid>https://rabat-review-of-books.github.io/posts/reviews/atlantic-maghreb/</guid>
   <pubDate>Fri, 27 Feb 2026 23:00:00 GMT</pubDate>
   <media:content url="https://picsum.photos/seed/rrb-atlantic-maghreb/1200/800" medium="image"/>
 </item>
 <item>
   <title>The Sweetness Examined</title>
   <dc:creator>Mehdi Khribch</dc:creator>
-  <link>https://yveskhribch.github.io/rabat-review-of-books/posts/reviews/apricot-year/</link>
+  <link>https://rabat-review-of-books.github.io/posts/reviews/apricot-year/</link>
   <description><![CDATA[ 
 <div class="rrb-salmon-bar">
   <div class="rrb-salmon-left">
@@ -240,26 +275,34 @@
 
 
 
-<p><strong>Apricot Year</strong> <em>by Mona Khalil</em> · Dar Saqi · 96 pp · £14.99</p>
-<p>Mona Khalil’s debut collection, <em>Apricot Year</em>, opens with an image of a woman sitting on a balcony in Beirut, watching a neighbor hang laundry. This is not the Lebanon of war photography or geopolitical analysis. It is the Lebanon of small gestures, domestic endurance, the minute adjustments of daily life in a place that has learned to accommodate ruin as a permanent feature of the landscape. The poem’s speaker observes without sentimentality—the colors of the clothespins, the mechanical repetition of the hanging—and in this observation discovers not meaning but a kind of temporary grace. It is an exemplary opening for a collection that treats the ordinary as a territory worth sustained attention.</p>
-<p>Khalil, who studied literature at the American University of Beirut and has worked as a translator, writes in English, though her ear carries the cadences and presences of Arabic. The poems move between personal memory, political awareness, and linguistic play, without ever quite settling into any single mode. She seems allergic to the consolations of either personal narrative or political statement, and this resistance is, in itself, a form of integrity.</p>
-<p>Many of the early poems concern families, particularly mothers and grandmothers. There is a poem about her grandmother’s hands, their competence and their weakness; another about a mother preparing food for a daughter leaving the country. Khalil approaches these scenes with anthropological precision, as if trying to understand what domestic routine might mean in a society where security is provisional and departure is always possible. In one poem, the simple act of preparing to travel becomes a meditation on what can be carried and what must be left behind—both materially and emotionally. The poem works through specific details: the folding of a dress, the arrangement of medications, the question of whether to bring photographs. What could have been maudlin instead becomes architectural, precise.</p>
-<p>Yet there is also something verging on the abstract in Khalil’s method. She often withholds narrative clarity. A poem might begin in a kitchen and end in a library without explaining the transition. A memory might be interrupted by something that seems like philosophy. This can be disorientating—the reader sometimes wishes for more conventional continuity—but it also suggests Khalil’s conviction that consciousness itself is not linear, that the mind moves between registers without apology.</p>
-<p>The title poem, which appears roughly in the center of the collection, is perhaps the strongest. It moves through the apricot season in Lebanon, using this fruit as an occasion to meditate on time, ripeness, and the proper moment. There is a wonderful stanza about the brief window in which apricots are ripe enough to eat—how quickly they pass from unripe to overripe, how little time is allowed for perfection. The poem resists the obvious move (a metaphor for youth, for fleeting happiness), but neither does it reject it entirely. Instead, it hovers in that ambiguity, treating the apricot with respect for its own nature while permitting it to carry symbolic weight. The opening line is nearly untranslatable in its delicacy.</p>
-<p>Where the collection falters is in its second half. As the poems multiply, some lose the precision that characterizes the opening section. A few poems seem to strain for difficulty without earning it. In one sequence about language and translation, the poems become somewhat abstract, concerned with the gaps between words, and while the intellectual project is clear, the emotional engagement flags. The question of what to do with the abstractions of language, how to make them matter to a reader who is not already invested in such games, remains unresolved.</p>
-<p>There are also moments where Khalil’s withheld narrative clarity becomes merely obscure. In several pieces, the reader wants more context—not dramatic context, necessarily, but some steadier ground from which the disjunctions might make sense. It is a delicate balance, and Khalil does not always find it.</p>
-<p>Yet the collection is worth reading for its refusals as much as for its affirmations. Khalil refuses sentimentality. She refuses political statement. She refuses, for the most part, the therapeutic narrative in which poetry emerges from trauma and illuminates it. Instead, she offers something more austere and harder to name: the representation of consciousness moving through a difficult world, neither despairing nor hoping, but registering what it encounters with attention and linguistic care.</p>
-<p>Her lines often turn on a single word or image: a color, a texture, the weight of something held. She does not often traffic in the grand gestures of contemporary lyric poetry. What she offers is smaller, quieter, and for readers patient enough to meet it on its own terms, more sustaining than grandeur often is.</p>
-<p><em>Apricot Year</em> announces a poet of real promise. What will be interesting to see is whether Khalil can sustain this level of attention across a longer work, and whether she can find ways to deepen the emotional reach without sacrificing the linguistic precision that makes these poems worth reading at all.</p>
+<blockquote class="blockquote">
+<p><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</em></p>
+</blockquote>
+<p><strong>Lorem Ipsum: Dolor Sit Amet</strong> <em>by Auctor Ignotus</em> · Editor Placeholder · 000 pp · 00 DH</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<section id="nemo-enim" class="level2">
+<h2 class="anchored" data-anchor-id="nemo-enim">Nemo enim</h2>
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
+<blockquote class="blockquote">
+<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.</p>
+</blockquote>
+<p>Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.</p>
+</section>
+<section id="quis-autem-vel" class="level2">
+<h2 class="anchored" data-anchor-id="quis-autem-vel">Quis autem vel</h2>
+<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur. At vero eos et accusamus et iusto odio dignissimos ducimus.</p>
+<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur.</p>
 <hr>
-<p><em>Michel Nasrallah is a poet, critic, and editor based in Beirut. He edits the literary journal </em>Souk* and is the author of three collections of poetry in Arabic and English. His essays on contemporary Arab poetry have appeared in <em>The Journal of Middle Eastern Literature</em> and <em>Boundary 2</em>.*</p>
+<p><em>This is placeholder text (lorem ipsum). Replace with your review when ready.</em></p>
 
 
+</section>
 
  ]]></description>
   <category>Reviews</category>
   <category>Poetry</category>
-  <guid>https://yveskhribch.github.io/rabat-review-of-books/posts/reviews/apricot-year/</guid>
+  <guid>https://rabat-review-of-books.github.io/posts/reviews/apricot-year/</guid>
   <pubDate>Mon, 19 Jan 2026 23:00:00 GMT</pubDate>
   <media:content url="https://picsum.photos/seed/rrb-apricot-year/1200/800" medium="image"/>
 </item>
