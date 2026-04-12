@@ -2,6 +2,7 @@
   {
     "listing": "/archive.html",
     "items": [
+      "/posts/essays/tinker-tailor-soldier-empire/index.html",
       "/posts/reviews/fathers-radio/index.html",
       "/posts/poetry/four-short-poems/index.html",
       "/posts/essays/last-europeans/index.html",
@@ -22,13 +23,13 @@
     ]
   },
   {
-    "listing": "/essays.html",
+    "listing": "/reviews.html",
     "items": [
-      "/posts/essays/last-europeans/index.html",
-      "/posts/essays/kafka-arabic/index.html",
-      "/posts/essays/ghosts-fez/index.html",
-      "/posts/essays/against-algorithm/index.html",
-      "/posts/essays/returning-tide/index.html"
+      "/posts/reviews/fathers-radio/index.html",
+      "/posts/reviews/salt-notebooks/index.html",
+      "/posts/reviews/hamza-biography/index.html",
+      "/posts/reviews/atlantic-maghreb/index.html",
+      "/posts/reviews/apricot-year/index.html"
     ]
   },
   {
@@ -41,13 +42,14 @@
     ]
   },
   {
-    "listing": "/reviews.html",
+    "listing": "/essays.html",
     "items": [
-      "/posts/reviews/fathers-radio/index.html",
-      "/posts/reviews/salt-notebooks/index.html",
-      "/posts/reviews/hamza-biography/index.html",
-      "/posts/reviews/atlantic-maghreb/index.html",
-      "/posts/reviews/apricot-year/index.html"
+      "/posts/essays/tinker-tailor-soldier-empire/index.html",
+      "/posts/essays/last-europeans/index.html",
+      "/posts/essays/kafka-arabic/index.html",
+      "/posts/essays/ghosts-fez/index.html",
+      "/posts/essays/against-algorithm/index.html",
+      "/posts/essays/returning-tide/index.html"
     ]
   },
   {
