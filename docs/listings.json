@@ -2,6 +2,7 @@
   {
     "listing": "/archive.html",
     "items": [
+      "/posts/fiction/the-remainder/index.html",
       "/posts/essays/tinker-tailor-soldier-empire/index.html",
       "/posts/reviews/fathers-radio/index.html",
       "/posts/poetry/four-short-poems/index.html",
@@ -45,6 +46,7 @@
   {
     "listing": "/fiction.html",
     "items": [
+      "/posts/fiction/the-remainder/index.html",
       "/posts/fiction/bookseller-of-rue-du-consul/index.html",
       "/posts/fiction/tangier-1956/index.html",
       "/posts/fiction/apricot-trees-of-meknes/index.html"

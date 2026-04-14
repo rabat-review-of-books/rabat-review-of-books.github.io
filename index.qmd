@@ -49,6 +49,109 @@ anchor-sections: false
   </div>
 </div>
 
+<!-- ========== FICTION FEATURE BANNER (wide, NY-style) ========== -->
+<style>
+.rrb-fiction-feature {
+  background: #f4f1e8;
+  margin: 4rem -9999px 4rem -9999px;
+  padding: 4.5rem 9999px 4.5rem 9999px;
+}
+.rrb-fiction-feature-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3.5rem;
+  align-items: center;
+}
+@media (max-width: 900px) {
+  .rrb-fiction-feature-inner { grid-template-columns: 1fr; gap: 2rem; }
+}
+.rrb-fiction-feature-text {
+  text-align: center;
+  padding: 0 1rem;
+}
+.rrb-fiction-feature-kicker {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  font-size: 0.82rem;
+  color: #111;
+  margin-bottom: 1.5rem;
+}
+.rrb-fiction-feature-title {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 500;
+  font-size: clamp(2.4rem, 4.8vw, 4rem);
+  line-height: 1.04;
+  letter-spacing: 0.005em;
+  text-transform: uppercase;
+  margin: 0 0 1.5rem 0;
+}
+.rrb-fiction-feature-title a {
+  color: #111;
+  text-decoration: none;
+  border: none;
+  background: none;
+}
+.rrb-fiction-feature-title a:hover { color: #1e5a8e; }
+.rrb-fiction-feature-byline {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  color: #111;
+  margin-bottom: 2rem;
+}
+.rrb-fiction-feature-link {
+  display: inline-block;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+  font-size: 1rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #111;
+  border-bottom: 1px solid #111;
+  padding-bottom: 3px;
+  text-decoration: none;
+  transition: color 0.2s, border-color 0.2s;
+}
+.rrb-fiction-feature-link:hover { color: #1e5a8e; border-color: #1e5a8e; }
+.rrb-fiction-feature-art {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  box-shadow: 0 30px 70px -28px rgba(0,0,0,0.35);
+}
+.rrb-fiction-feature-art a { display: block; width: 100%; height: 100%; }
+.rrb-fiction-feature-art img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.6s ease;
+}
+.rrb-fiction-feature-art a:hover img { transform: scale(1.02); }
+</style>
+
+<div class="rrb-fiction-feature">
+  <div class="rrb-fiction-feature-inner">
+    <div class="rrb-fiction-feature-text">
+      <div class="rrb-fiction-feature-kicker">◆  Fiction  ◆</div>
+      <h2 class="rrb-fiction-feature-title"><a href="posts/fiction/the-remainder/index.html">The Remainder</a></h2>
+      <div class="rrb-fiction-feature-byline">By Mehdi Khribch</div>
+      <a class="rrb-fiction-feature-link" href="posts/fiction/the-remainder/index.html">Read the story</a>
+    </div>
+    <div class="rrb-fiction-feature-art">
+      <a href="posts/fiction/the-remainder/index.html">
+        <img src="posts/fiction/the-remainder/escorial-library.jpg" alt="" loading="lazy"/>
+      </a>
+    </div>
+  </div>
+</div>
+
 <!-- ========== ESSAYS SECTION ========== -->
 <div class="rrb-section-head">
   <div class="rrb-kicker">◆ Essays</div>
@@ -136,24 +239,14 @@ anchor-sections: false
   </div>
 </div>
 
-<!-- ========== FICTION + POETRY TWO-UP ========== -->
+<!-- ========== POETRY ========== -->
 <div class="rrb-section-head">
-  <div class="rrb-kicker">◆ Fiction &amp; Poetry</div>
+  <div class="rrb-kicker">◆ Poetry</div>
   <div class="rrb-rule"></div>
-  <a class="rrb-see-all" href="fiction.html">All fiction</a>
+  <a class="rrb-see-all" href="poetry.html">All poetry</a>
 </div>
 
 <div class="rrb-grid rrb-grid-2">
-  <div class="rrb-card">
-    <a href="posts/fiction/the-remainder/index.html">
-      <img class="rrb-card-img" src="posts/fiction/the-remainder/escorial-library.jpg" alt="" loading="lazy"/>
-    </a>
-    <div class="rrb-card-kicker">A Short Story</div>
-    <h3 class="rrb-card-title"><a href="posts/fiction/the-remainder/index.html">The Remainder</a></h3>
-    <p class="rrb-card-dek">A hammal carries a charred fragment across a silenced world, toward an archive that has been waiting a hundred and sixty years. A story in five parts.</p>
-    <div class="rrb-card-byline">New fiction · By Mehdi Khribch</div>
-  </div>
-
   <div class="rrb-card">
     <a href="posts/poetry/bou-regreg/index.html">
       <img class="rrb-card-img" src="https://picsum.photos/seed/rrb-bou-regreg/1000/660" alt="" loading="lazy"/>
@@ -161,6 +254,16 @@ anchor-sections: false
     <div class="rrb-card-kicker">New Poems</div>
     <h3 class="rrb-card-title"><a href="posts/poetry/bou-regreg/index.html">Three Poems from <em>The Bou Regreg</em></a></h3>
     <p class="rrb-card-dek">A river poem sequence about the water that runs between Rabat and Salé — and between generations.</p>
+    <div class="rrb-card-byline">Poetry</div>
+  </div>
+
+  <div class="rrb-card">
+    <a href="posts/poetry/ghazals-absent-friend/index.html">
+      <img class="rrb-card-img" src="https://picsum.photos/seed/rrb-ghazals/1000/660" alt="" loading="lazy"/>
+    </a>
+    <div class="rrb-card-kicker">Two Ghazals</div>
+    <h3 class="rrb-card-title"><a href="posts/poetry/ghazals-absent-friend/index.html">Ghazals for an Absent Friend</a></h3>
+    <p class="rrb-card-dek">Two ghazal-inspired poems on distance, longing, and the attention owed to what is not here.</p>
     <div class="rrb-card-byline">Poetry</div>
   </div>
 </div>
