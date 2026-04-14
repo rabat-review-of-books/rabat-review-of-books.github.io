@@ -1,6 +1,7 @@
 ---
 pagetitle: "Fiction · Rabat Review of Books"
 title-block-banner: false
+page-layout: full
 listing:
   id: fiction-listing
   contents: "posts/fiction/**/index.qmd"
@@ -13,14 +14,127 @@ listing:
 ---
 
 ```{=html}
-<div class="rrb-container">
+<style>
+/* ========== PRUSSIAN BLUE FICTION LISTING PAGE ========== */
+body.quarto-listing-page,
+.quarto-listing-page body,
+main.content {
+  background: transparent !important;
+}
+.rrb-fiction-listing-page {
+  background: #1a2e42; /* Prussian blue — cool contrast to the cream of the story */
+  color: #f3ead3;
+  margin: -2rem -9999px 0 -9999px;
+  padding: 5rem 9999px 6rem 9999px;
+  min-height: 100vh;
+}
+.rrb-fiction-listing-page .listing-page-title {
+  max-width: 1100px;
+  margin: 0 auto 4rem auto;
+  padding: 0 1.5rem;
+  text-align: center;
+}
+.rrb-fiction-listing-page .eyebrow {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  font-size: 0.82rem;
+  color: #c69a3a;
+  margin-bottom: 1.25rem;
+}
+.rrb-fiction-listing-page h1 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 500;
+  font-size: clamp(3rem, 6vw, 5rem);
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
+  color: #f3ead3;
+  margin: 0 0 1.25rem 0;
+}
+.rrb-fiction-listing-page .dek {
+  font-family: 'Spectral', Georgia, serif;
+  font-style: italic;
+  font-size: 1.1rem;
+  line-height: 1.55;
+  color: #c7d4db;
+  max-width: 38rem;
+  margin: 0 auto;
+}
+
+/* Style the Quarto listing cards to read on the blue */
+.rrb-fiction-listing-page #fiction-listing {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+.rrb-fiction-listing-page .list .quarto-post {
+  border-top: 1px solid rgba(243, 234, 211, 0.18) !important;
+  padding: 2.25rem 0 !important;
+}
+.rrb-fiction-listing-page .list .quarto-post:last-child {
+  border-bottom: 1px solid rgba(243, 234, 211, 0.18) !important;
+}
+.rrb-fiction-listing-page .quarto-post .thumbnail img {
+  box-shadow: 0 20px 50px -20px rgba(0,0,0,0.55);
+}
+.rrb-fiction-listing-page .quarto-post h3.listing-title,
+.rrb-fiction-listing-page .quarto-post h3.listing-title a {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-weight: 500 !important;
+  font-size: 2rem !important;
+  line-height: 1.1 !important;
+  color: #f3ead3 !important;
+  text-transform: none !important;
+}
+.rrb-fiction-listing-page .quarto-post h3.listing-title a:hover {
+  color: #c69a3a !important;
+}
+.rrb-fiction-listing-page .quarto-post .listing-subtitle,
+.rrb-fiction-listing-page .quarto-post .listing-description {
+  font-family: 'Spectral', Georgia, serif !important;
+  font-style: italic !important;
+  color: #c7d4db !important;
+  font-size: 1rem !important;
+  line-height: 1.55 !important;
+}
+.rrb-fiction-listing-page .quarto-post .listing-author,
+.rrb-fiction-listing-page .quarto-post .listing-date,
+.rrb-fiction-listing-page .quarto-post .listing-reading-time {
+  color: rgba(243, 234, 211, 0.75) !important;
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  letter-spacing: 0.14em !important;
+  text-transform: uppercase !important;
+  font-size: 0.8rem !important;
+}
+.rrb-fiction-listing-page .quarto-category {
+  background: rgba(198, 154, 58, 0.18) !important;
+  color: #e6c587 !important;
+  border: 1px solid rgba(198, 154, 58, 0.4) !important;
+}
+.rrb-fiction-listing-page .listing-actions-group .form-control,
+.rrb-fiction-listing-page .listing-actions-group .btn {
+  background: rgba(243, 234, 211, 0.08) !important;
+  color: #f3ead3 !important;
+  border: 1px solid rgba(243, 234, 211, 0.25) !important;
+}
+.rrb-fiction-listing-page .listing-actions-group .form-control::placeholder {
+  color: rgba(243, 234, 211, 0.5) !important;
+}
+</style>
+
+<div class="rrb-fiction-listing-page">
 <div class="listing-page-title">
-  <div class="eyebrow">◆ Department</div>
+  <div class="eyebrow">◆ Department ◆</div>
   <h1>Fiction</h1>
   <div class="dek">Short stories and novel excerpts — original fiction by contemporary writers.</div>
-</div>
 </div>
 ```
 
 ::: {#fiction-listing}
 :::
+
+```{=html}
+</div>
+```
