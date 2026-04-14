@@ -41,8 +41,10 @@
 
 <style>
 /* ==================== NEW YORKER-STYLE FICTION PAGE ==================== */
+/* Side gutters: warm ochre yellow on the left, deep slate-blue on the right,
+   framing a cream reading column in the center. Gutters collapse on mobile. */
 .fiction-page {
-  background: #f4f1e8;
+  background: #ecdbab; /* soft creamy ochre — less saturated */
   color: #111;
   font-family: 'Spectral', Georgia, serif;
   padding: 0 0 6rem 0;
@@ -167,10 +169,10 @@
   border: none;
   margin: 0 0 1.75rem 0;
   padding: 0 0 0 1.5rem;
-  border-left: 1px solid #c8bfa8;
+  border-left: 1px solid #1a3a5c;
   font-family: 'Spectral', Georgia, serif;
   font-style: italic;
-  color: #3a3a3a;
+  color: #1a3a5c; /* deep Prussian blue */
 }
 .epigraph p {
   font-size: 1.02rem;
@@ -181,7 +183,7 @@
   display: block;
   font-style: normal;
   font-size: 0.88rem;
-  color: #6a6a6a;
+  color: #2b4a6e;
   letter-spacing: 0.02em;
 }
 
