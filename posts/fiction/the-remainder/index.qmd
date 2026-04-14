@@ -50,9 +50,9 @@ anchor-sections: false
 .fiction-page::after {
   right: 0;
   background:
-    linear-gradient(270deg, rgba(0,0,0,0.08), rgba(0,0,0,0) 40%),
-    #2b4a5e; /* deep slate / Prussian blue */
-  box-shadow: inset 1px 0 0 rgba(0,0,0,0.12);
+    linear-gradient(270deg, rgba(0,0,0,0.06), rgba(0,0,0,0) 40%),
+    #e6c368; /* same warm ochre on the right */
+  box-shadow: inset 1px 0 0 rgba(0,0,0,0.08);
 }
 @media (max-width: 1100px) {
   .fiction-page::before,
