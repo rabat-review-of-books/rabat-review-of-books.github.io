@@ -6,7 +6,7 @@ description: "A story in five parts. The baqiya — the remainder — is what co
 author: "Mehdi Khribch"
 date: "2026-04-14"
 categories: [Fiction, Short Story]
-image: https://picsum.photos/seed/rrb-escorial-library/1200/800
+image: escorial-library.jpg
 image-alt: "The Royal Library at El Escorial"
 title-block-banner: false
 title-block-categories: false
@@ -260,7 +260,7 @@ anchor-sections: false
     <div class="fiction-date">14 April 2026</div>
   </div>
   <div class="fiction-hero-art">
-    <img src="https://picsum.photos/seed/rrb-escorial-library/1200/1200" alt="The Royal Library at El Escorial." loading="lazy"/>
+    <img src="escorial-library.jpg" alt="The Royal Library at El Escorial." loading="lazy"/>
   </div>
 </div>
 
@@ -361,7 +361,7 @@ anchor-sections: false
 <p class="body-p">Oulimata was already facing the wall again.</p>
 
 <figure class="fiction-figure">
-  <img src="https://picsum.photos/seed/rrb-fez-medina-door/1200/800" alt="A door in the old medina of Fez." loading="lazy"/>
+  <img src="fez-medina.jpg" alt="A door in the old medina of Fez." loading="lazy"/>
   <figcaption>A door in the old medina of Fez, where the story begins.</figcaption>
 </figure>
 
@@ -435,7 +435,7 @@ anchor-sections: false
 <div class="section-break"><span>◆ ◆ ◆</span></div>
 
 <figure class="fiction-figure">
-  <img src="https://picsum.photos/seed/rrb-timbuktu-ms/1200/800" alt="A page from the Timbuktu manuscripts." loading="lazy"/>
+  <img src="timbuktu-manuscript.jpg" alt="A page from the Timbuktu manuscripts." loading="lazy"/>
   <figcaption>A page from the Timbuktu manuscripts, carried through centuries by the families who kept them.</figcaption>
 </figure>
 
@@ -505,7 +505,7 @@ anchor-sections: false
 <div class="section-break"><span>◆ ◆ ◆</span></div>
 
 <figure class="fiction-figure">
-  <img src="https://picsum.photos/seed/rrb-atlas-tifinagh/1200/800" alt="Tifinagh inscription on stone in the Atlas mountains." loading="lazy"/>
+  <img src="atlas-tifinagh.jpg" alt="Tifinagh inscription on stone in the Atlas mountains." loading="lazy"/>
   <figcaption>The sign of the free people: Tifinagh on stone in the High Atlas.</figcaption>
 </figure>
 
@@ -590,7 +590,7 @@ anchor-sections: false
 <div class="section-break"><span>◆ ◆ ◆</span></div>
 
 <figure class="fiction-figure">
-  <img src="https://picsum.photos/seed/rrb-escorial-granite/1200/800" alt="Interior of the Royal Library at El Escorial." loading="lazy"/>
+  <img src="escorial-interior.jpg" alt="Interior of the Royal Library at El Escorial." loading="lazy"/>
   <figcaption>The barrel-vaulted library at El Escorial, built by Philip II to house an idea of empire.</figcaption>
 </figure>
 
@@ -685,7 +685,7 @@ anchor-sections: false
 <div class="section-break"><span>◆ ◆ ◆</span></div>
 
 <figure class="fiction-figure fiction-figure-narrow">
-  <img src="https://picsum.photos/seed/rrb-borges/900/1100" alt="Jorge Luis Borges." loading="lazy"/>
+  <img src="borges-portrait.jpg" alt="Jorge Luis Borges." loading="lazy"/>
   <figcaption>Jorge Luis Borges, whose <em>Averroes’s Search</em> shadows this story.</figcaption>
 </figure>
 </div>
