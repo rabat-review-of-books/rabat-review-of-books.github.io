@@ -21,46 +21,11 @@ anchor-sections: false
 /* Side gutters: warm ochre yellow on the left, deep slate-blue on the right,
    framing a cream reading column in the center. Gutters collapse on mobile. */
 .fiction-page {
-  background: #f4f1e8;
+  background: #e6c368; /* warm ochre yellow — full page */
   color: #111;
   font-family: 'Spectral', Georgia, serif;
   padding: 0 0 6rem 0;
   margin: -2rem -1rem 0 -1rem;
-  position: relative;
-  isolation: isolate;
-}
-.fiction-page::before,
-.fiction-page::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: calc((100vw - 1180px) / 2);
-  min-width: 64px;
-  z-index: -1;
-  pointer-events: none;
-}
-.fiction-page::before {
-  left: 0;
-  background:
-    linear-gradient(90deg, rgba(0,0,0,0.06), rgba(0,0,0,0) 40%),
-    #e6c368; /* warm ochre / butter yellow */
-  box-shadow: inset -1px 0 0 rgba(0,0,0,0.08);
-}
-.fiction-page::after {
-  right: 0;
-  background:
-    linear-gradient(270deg, rgba(0,0,0,0.06), rgba(0,0,0,0) 40%),
-    #e6c368; /* same warm ochre on the right */
-  box-shadow: inset 1px 0 0 rgba(0,0,0,0.08);
-}
-@media (max-width: 1100px) {
-  .fiction-page::before,
-  .fiction-page::after { width: 28px; min-width: 28px; }
-}
-@media (max-width: 720px) {
-  .fiction-page::before,
-  .fiction-page::after { display: none; }
 }
 
 /* ---------- HERO: two-column title + illustration ---------- */
