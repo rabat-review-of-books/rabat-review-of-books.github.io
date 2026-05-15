@@ -12,7 +12,7 @@
 <generator>quarto-1.5.57</generator>
 <lastBuildDate>Fri, 15 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
-  <title></title>
+  <title>St Olaf, the English, and the Insufficiency of Institutional Religion</title>
   <dc:creator>Jonathan Lancaster</dc:creator>
   <link>https://rabat-review-of-books.github.io/posts/essays/st-olaf-english-institutional-religion/</link>
   <description><![CDATA[ 
@@ -171,6 +171,9 @@
 }
 .essay-biblio a { color: #1e5a8e; text-decoration: none; border-bottom: 1px solid #d9cfb8; }
 .essay-biblio a:hover { border-bottom-color: #1e5a8e; }
+/* Hide Quarto's auto-rendered title block — we use our own custom header */
+#title-block-header { display: none !important; }
+.quarto-title-block { display: none !important; }
 </style>
 
 <div class="essay-header">
