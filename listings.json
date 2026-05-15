@@ -11,10 +11,7 @@
   {
     "listing": "/fiction.html",
     "items": [
-      "/posts/fiction/the-remainder/index.html",
-      "/posts/fiction/bookseller-of-rue-du-consul/index.html",
-      "/posts/fiction/tangier-1956/index.html",
-      "/posts/fiction/apricot-trees-of-meknes/index.html"
+      "/posts/fiction/the-remainder/index.html"
     ]
   },
   {
@@ -25,21 +22,13 @@
       "/posts/essays/tinker-tailor-soldier-empire/index.html",
       "/posts/reviews/fathers-radio/index.html",
       "/posts/poetry/four-short-poems/index.html",
-      "/posts/essays/last-europeans/index.html",
       "/posts/poetry/bou-regreg/index.html",
       "/posts/reviews/salt-notebooks/index.html",
-      "/posts/fiction/bookseller-of-rue-du-consul/index.html",
       "/posts/reviews/hamza-biography/index.html",
-      "/posts/essays/kafka-arabic/index.html",
       "/posts/reviews/atlantic-maghreb/index.html",
-      "/posts/essays/ghosts-fez/index.html",
-      "/posts/fiction/tangier-1956/index.html",
       "/posts/poetry/ghazals-absent-friend/index.html",
-      "/posts/essays/against-algorithm/index.html",
       "/posts/reviews/apricot-year/index.html",
-      "/posts/poetry/andalusian-fragments/index.html",
-      "/posts/essays/returning-tide/index.html",
-      "/posts/fiction/apricot-trees-of-meknes/index.html"
+      "/posts/poetry/andalusian-fragments/index.html"
     ]
   },
   {
@@ -56,12 +45,7 @@
     "listing": "/essays.html",
     "items": [
       "/posts/essays/st-olaf-english-institutional-religion/index.html",
-      "/posts/essays/tinker-tailor-soldier-empire/index.html",
-      "/posts/essays/last-europeans/index.html",
-      "/posts/essays/kafka-arabic/index.html",
-      "/posts/essays/ghosts-fez/index.html",
-      "/posts/essays/against-algorithm/index.html",
-      "/posts/essays/returning-tide/index.html"
+      "/posts/essays/tinker-tailor-soldier-empire/index.html"
     ]
   }
 ]
