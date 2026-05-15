@@ -184,8 +184,8 @@ Downstream of Westminster, on the south bank of the Thames, is Southwark Cathedr
 
 ```{=html}
 <div class="essay-figure">
-  <img src="southwark-cathedral.jpg" alt="Southwark Cathedral on the south bank of the Thames"/>
-  <div class="caption">Southwark Cathedral, south bank of the Thames. Saint Olave's Grammar School has commemorated its 1571 founding here for centuries. <em>Photo: British Pilgrimage Trust</em></div>
+  <img src="southwark-cathedral.jpg" alt="Southwark Cathedral, British Pilgrimage Trust"/>
+  <div class="caption">Southwark Cathedral, British Pilgrimage Trust</div>
 </div>
 ```
 
@@ -225,10 +225,8 @@ But more troubling, within the context of "Christian" nationalism more widely, i
 ## Olaf: Religion as Signifier
 
 ```{=html}
-<div class="essay-figure">
-  <img src="st-olaf.jpg" alt="King Olaf the Holy, by Peter Nicolai Arbo" class="portrait"/>
-  <div class="caption">King Olaf the Holy, by Peter Nicolai Arbo (c. 1860). Patron saint of Norway and the figure for whom Saint Olave's Grammar School is named. <em>Public domain</em></div>
-</div>
+<!-- St Olaf image archived: available at st-olaf.jpg
+     Caption from docx: King Olaf, at London Bridge, Creative Commons -->
 ```
 
 King Olaf experienced the limits of institutional Christianity as a nation-building tool. After besieging Canterbury in 1011 (seat of the Church of England), pillaging south-east England, and pulling down London Bridge in 1014, he was baptised in Normandy and returned to Norway. Although widely credited with the Christianisation of that country and celebrated as its patron saint, King Olaf showed more interest in territorial expansion and subjugating pagan Scandinavians than in the teachings of his new religion. Realising that Norway lacked theologians and priests, and finding resistance among the Sami farmers and their religion, he imported bishops from England. Christianity was a tool to foster a single national identity, but it remained skin-deep for many. Previously pagan subjects had little personal belief or affiliation to Christ. Perhaps all that could be realistically expected was that the socioeconomic necessity of being accepted as a member of the national group would engender some notion of national loyalty.
@@ -254,10 +252,8 @@ Encountering such individuals — with radically different worldviews — seems 
 Institutional religion, with its typically English stiff upper lip, cannot achieve much more than a begrudging allegiance to community. Christian nationalism (and Christian fascism) is used to justify abominable policies in order to privilege one group over another. Jesus clearly elevated the service of others — regardless of creed — above the duty to serve a particular nation (see the Parable of the Good Samaritan, and Matthew 22:21). His disciples included a Roman tax collector alongside an anti-imperial freedom fighter.
 
 ```{=html}
-<div class="essay-figure">
-  <img src="good-samaritan-wijnants.jpg" alt="The Parable of the Good Samaritan by Jan Wijnants (1670)"/>
-  <div class="caption"><em>The Parable of the Good Samaritan</em>, Jan Wijnants (1670). Jesus elevated the service of strangers above national or religious loyalty. <em>Public domain</em></div>
-</div>
+<!-- Good Samaritan image archived: available at good-samaritan-wijnants.jpg
+     Caption from docx: Parable of the Good Samaritan, by Jan Wijnants -->
 
 <hr class="essay-break"/>
 ```
