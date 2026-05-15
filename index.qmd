@@ -220,6 +220,27 @@ anchor-sections: false
   <cite>— from <em>Tinker, Tailor, Soldier, Empire</em>, in this issue</cite>
 </div>
 
+<!-- ========== REVIEWS SECTION ========== -->
+<div class="rrb-section-head">
+  <div class="rrb-kicker">◆ Reviews</div>
+  <div class="rrb-rule"></div>
+  <a class="rrb-see-all" href="reviews.html">All reviews</a>
+</div>
+
+<!-- ========== POETRY ========== -->
+<div class="rrb-section-head">
+  <div class="rrb-kicker">◆ Poetry</div>
+  <div class="rrb-rule"></div>
+  <a class="rrb-see-all" href="poetry.html">All poetry</a>
+</div>
+
+<!-- ========== CAROUSEL: FROM THE ARCHIVE ========== -->
+<div class="rrb-section-head">
+  <div class="rrb-kicker">◆ From the Archive</div>
+  <div class="rrb-rule"></div>
+  <a class="rrb-see-all" href="archive.html">Browse archive</a>
+</div>
+
 <!-- ========== TRILINGUAL DISPATCH ========== -->
 <div class="rrb-section-head">
   <div class="rrb-kicker">◆ In Three Languages</div>
