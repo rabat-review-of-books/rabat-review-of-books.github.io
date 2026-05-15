@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Tangier, 1956"
 subtitle: "An excerpt from the novel-in-progress."
 description: "A diplomat observes the unraveling of the International Zone in its final days, caught between nations and uncertain allegiances."

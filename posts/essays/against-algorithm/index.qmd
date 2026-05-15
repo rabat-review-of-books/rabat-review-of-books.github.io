@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Against the Algorithm"
 subtitle: "Why we still need slow reading."
 description: "In an age of infinite scroll and algorithmic recommendation, what becomes of literary attention? A meditation on reading, time, and the future of criticism."
@@ -8,6 +9,7 @@ categories: [Essays, Criticism, Digital Culture]
 image: https://picsum.photos/seed/rrb-against-algorithm/1200/800
 image-alt: "Placeholder"
 ---
+draft: true
 
 > *Lorem ipsum dolor sit amet, consectetur adipiscing elit.*
 
@@ -30,5 +32,6 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus. Omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet.
 
 ---
+draft: true
 
 *This is placeholder text (lorem ipsum). Replace with your essay when ready.*

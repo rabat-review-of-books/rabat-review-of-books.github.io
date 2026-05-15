@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Kafka in Arabic"
 subtitle: "Translation as second creation."
 description: "When Kafka's parables appear in Arabic, they are not the same Kafka. A meditation on translation, literary ownership, and the life of texts across languages."
@@ -8,6 +9,7 @@ categories: [Essays, Translation, Literature]
 image: https://picsum.photos/seed/rrb-kafka-arabic/1200/800
 image-alt: "Placeholder"
 ---
+draft: true
 
 > *Lorem ipsum dolor sit amet, consectetur adipiscing elit.*
 
@@ -30,5 +32,6 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus. Omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet.
 
 ---
+draft: true
 
 *This is placeholder text (lorem ipsum). Replace with your essay when ready.*

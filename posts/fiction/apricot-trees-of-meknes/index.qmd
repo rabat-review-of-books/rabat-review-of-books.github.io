@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The Apricot Trees of Meknès"
 subtitle: "A short story."
 description: "An elderly woman inherits her late mother's garden and discovers what it means to carry forward a legacy written in soil and seasons."

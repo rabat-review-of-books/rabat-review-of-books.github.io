@@ -1,6 +1,6 @@
 ---
 pagetitle: "Tinker, Tailor, Soldier, Empire"
-title: ""
+title: "Tinker, Tailor, Soldier, Empire"
 subtitle: ""
 description: ""
 author: ""
@@ -170,6 +170,8 @@ toc: false
 }
 .essay-biblio a { color: #1e5a8e; text-decoration: none; border-bottom: 1px solid #d9cfb8; }
 .essay-biblio a:hover { border-bottom-color: #1e5a8e; }
+#title-block-header { display: none !important; }
+.quarto-title-block { display: none !important; }
 </style>
 
 <div class="essay-header">

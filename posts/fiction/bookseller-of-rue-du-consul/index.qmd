@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "The Bookseller of Rue du Consul"
 subtitle: "A short story."
 description: "An elderly Rabat bookseller receives a mysterious visitor seeking a book that may no longer exist, and discovers that the search itself is what matters."
